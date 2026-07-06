@@ -342,27 +342,52 @@ input[type=number] {
 }
 
 .index-section h2 {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
+  margin: 0.55em 0 0.35em;
 }
 
 .index-section-toggle {
-  flex: 0 0 auto;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
   font-family: 'C059';
-  font-size: 1rem;
-  line-height: 1.2;
-  color: #6f0f16;
-  background: #fff8f0;
-  border: 1px solid #6f0f16;
+  font-size: inherit;
+  font-weight: bold;
+  line-height: inherit;
+  color: inherit;
+  text-align: left;
+  background: transparent;
+  border: 0;
   border-radius: 4px;
-  padding: 0.25rem 0.65rem;
+  padding: 0.25rem 0;
   cursor: pointer;
 }
 
 .index-section-toggle:hover,
 .index-section-toggle:focus {
+  color: #6f0f16;
+}
+
+.index-section-toggle:focus-visible {
+  outline: 2px solid #6f0f16;
+  outline-offset: 4px;
+}
+
+.index-section-toggle__state {
+  color: #6f0f16;
+  background: #fff8f0;
+  border: 1px solid #6f0f16;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.2;
+  padding: 0.25rem 0.65rem;
+  white-space: nowrap;
+}
+
+.index-section-toggle:hover .index-section-toggle__state,
+.index-section-toggle:focus .index-section-toggle__state {
   background: #fbeada;
 }
 

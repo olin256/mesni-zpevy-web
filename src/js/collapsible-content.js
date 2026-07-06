@@ -4,12 +4,15 @@
     function setExpanded(section, expanded) {
         const content = section.querySelector("ul");
         const button = section.querySelector(".index-section-toggle");
+        const label = section.querySelector(".index-section-toggle__state");
         if (!content || !button) {
             return;
         }
 
         content.hidden = !expanded;
-        button.textContent = expanded ? "Skrýt" : "Zobrazit";
+        if (label) {
+            label.textContent = expanded ? "Skrýt" : "Zobrazit";
+        }
         button.setAttribute("aria-expanded", String(expanded));
         section.classList.toggle("is-open", expanded);
     }
@@ -83,9 +86,21 @@
                 return;
             }
 
+            const title = document.createElement("span");
+            title.className = "index-section-toggle__title";
+            while (heading.firstChild) {
+                title.appendChild(heading.firstChild);
+            }
+
+            const label = document.createElement("span");
+            label.className = "index-section-toggle__state";
+            label.setAttribute("aria-hidden", "true");
+
             const button = document.createElement("button");
             button.type = "button";
             button.className = "index-section-toggle";
+            button.appendChild(title);
+            button.appendChild(label);
             button.addEventListener("click", () => {
                 setExpanded(section, content.hidden);
             });
