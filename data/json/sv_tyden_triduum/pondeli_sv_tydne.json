@@ -1,0 +1,55 @@
+{
+    "type": "full",
+    "name": "Pondělí Svatého týdne",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "137",
+                    "melody": "52a",
+                    "link": "velky_patek"
+                },
+                {
+                    "page": "123",
+                    "melody": "88d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "92",
+                    "melody": "41b",
+                    "link": "pust_02_X5"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "92",
+                    "melody": "40a",
+                    "link": "pust_02_X5"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "93",
+                    "melody": "34b",
+                    "link": "pust_02_X5"
+                },
+                {
+                    "page": "94",
+                    "melody": "34a",
+                    "link": "pust_02_X5"
+                }
+            ]
+        }
+    ]
+}

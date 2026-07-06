@@ -1,0 +1,57 @@
+{
+    "type": "full",
+    "name": "Sv. Alžběty Uherské, řeholnice",
+    "date": "17. listopadu",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "766",
+                    "melody": "113a",
+                    "replacements": {
+                        "1": "Alž--bě--tu"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "767",
+                    "melody": "98d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "612",
+                    "melody": "69g",
+                    "link": "o_svatych"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "198",
+                    "melody": "36j",
+                    "link": "mezidobi_04_A"
+                },
+                {
+                    "page": "302",
+                    "melody": "88a",
+                    "link": "mezidobi_22_A"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_svatych_milosrdnych"
+    ]
+}

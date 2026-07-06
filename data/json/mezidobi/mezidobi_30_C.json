@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "30. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "354",
+                    "melody": "37a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "49",
+                    "links": [
+                        {
+                            "filename": "Ps034_05",
+                            "kb_page": "84"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "355",
+                    "melody": "98h"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "192",
+                    "melody": "68a",
+                    "link": "mezidobi_03_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "78",
+                    "melody": "36a",
+                    "link": "pust_01"
+                }
+            ]
+        }
+    ]
+}

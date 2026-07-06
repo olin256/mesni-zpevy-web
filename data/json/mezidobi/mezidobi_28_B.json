@@ -1,0 +1,63 @@
+{
+    "type": "full",
+    "name": "28. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "337",
+                    "melody": "82e"
+                },
+                {
+                    "page": "338",
+                    "melody": "69c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "12",
+                    "links": [
+                        {
+                            "filename": "Ps090_01",
+                            "kb_page": "172"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "338",
+                    "melody": "91a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "336",
+                    "melody": "113g",
+                    "link": "mezidobi_28_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "114",
+                    "melody": "44b",
+                    "link": "pust_05_AB"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "type": "full",
+    "name": "14. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "257",
+                    "melody": "79a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "33",
+                    "links": [
+                        {
+                            "filename": "Ps123_03",
+                            "kb_page": "261"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "258",
+                    "melody": "91b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "256",
+                    "melody": "89a",
+                    "link": "mezidobi_06_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "207",
+                    "melody": "82a",
+                    "link": "mezidobi_06_A"
+                },
+                {
+                    "page": "114",
+                    "melody": "44b",
+                    "link": "pust_05_AB"
+                }
+            ]
+        }
+    ]
+}

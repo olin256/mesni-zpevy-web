@@ -1,0 +1,52 @@
+{
+    "type": "full",
+    "name": "Sv. Petra a Pavla, apoštolů",
+    "date": "29. června",
+    "rank": "slavnost",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "684",
+                    "melody": "111c"
+                },
+                {
+                    "page": "685",
+                    "melody": "92h"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "685",
+                    "melody": "65m"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "686",
+                    "melody": "94c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "263",
+                    "melody": "43b",
+                    "link": "mezidobi_15_A"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_apostolech_a_evangelistech"
+    ]
+}

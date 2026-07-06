@@ -1,0 +1,57 @@
+{
+    "type": "full",
+    "name": "7. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "209",
+                    "melody": "74d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "17",
+                    "links": [
+                        {
+                            "filename": "Ps103_11",
+                            "kb_page": "201"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "210",
+                    "melody": "2g"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "210/211",
+                    "melody": "81a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "211",
+                    "melody": "69f"
+                }
+            ]
+        }
+    ]
+}

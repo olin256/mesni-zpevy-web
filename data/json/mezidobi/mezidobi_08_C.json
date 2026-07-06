@@ -1,0 +1,64 @@
+{
+    "type": "full",
+    "name": "8. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "221",
+                    "melody": "74d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "39",
+                    "links": [
+                        {
+                            "filename": "Ps092_01",
+                            "kb_page": "175"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "220",
+                    "melody": "2f",
+                    "link": "mezidobi_08_B"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "220/221",
+                    "melody": "84a",
+                    "link": "mezidobi_08_B"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "222",
+                    "melody": "69f"
+                },
+                {
+                    "page": "78",
+                    "melody": "36a",
+                    "link": "pust_01"
+                }
+            ]
+        }
+    ]
+}

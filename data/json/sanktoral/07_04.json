@@ -1,0 +1,49 @@
+{
+    "type": "full",
+    "name": "Sv. Prokopa, opata",
+    "date": "4. července",
+    "rank": "nezávazná památka",
+    "info": "V Mešních zpěvěch vedeno jako památka, ovšem o (závaznou) památku jde pouze v Čechách.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "688/689",
+                    "melody": "128a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "689",
+                    "melody": "117j"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "690",
+                    "melody": "92k"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "613",
+                    "melody": "74k",
+                    "link": "o_svatych"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_reholnicich"
+    ]
+}

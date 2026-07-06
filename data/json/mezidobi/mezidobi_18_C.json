@@ -1,0 +1,66 @@
+{
+    "type": "full",
+    "name": "18. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "281",
+                    "melody": "30a",
+                    "link": "mezidobi_18_A"
+                },
+                {
+                    "page": "274",
+                    "melody": "70b",
+                    "link": "mezidobi_17_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "12",
+                    "links": [
+                        {
+                            "filename": "Ps090_07",
+                            "kb_page": "171"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "282",
+                    "melody": "2f",
+                    "link": "mezidobi_18_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "283",
+                    "melody": "82b",
+                    "link": "mezidobi_18_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "284",
+                    "melody": "94a",
+                    "link": "mezidobi_18_A"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "type": "full",
+    "name": "Sv. Františka z Assisi",
+    "date": "4. října",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "747",
+                    "melody": "140a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "748",
+                    "melody": "134a",
+                    "replacements": {
+                        "1": "Fran--tiš--ka",
+                        "4": "Fran--tiš--ku"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "749",
+                    "melody": "140b"
+                },
+                {
+                    "page": "750",
+                    "melody": "82c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "750/751",
+                    "melody": "141a"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_reholnicich"
+    ]
+}

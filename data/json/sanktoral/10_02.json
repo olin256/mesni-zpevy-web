@@ -1,0 +1,25 @@
+{
+    "type": "partial",
+    "name": "Svatých andělů strážných",
+    "date": "2. října",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "746",
+                    "melody": "139a"
+                },
+                {
+                    "page": "742",
+                    "melody": "138a",
+                    "link": "09_29"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "09_29"
+    ]
+}

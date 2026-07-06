@@ -1,0 +1,143 @@
+.song-index {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0 2rem;
+    font-size: clamp(1rem, 1.1vw, 1.125rem);
+}
+
+.song-index th,
+.song-index td {
+    padding: 0.55rem 0.7rem;
+    vertical-align: top;
+    border-bottom: 1px solid #e2d5cf;
+}
+
+.song-index thead th {
+    /* position: sticky; */
+    top: 0;
+    z-index: 1;
+    background: #6f0f16;
+    color: #fbeada;
+    text-align: left;
+}
+
+.song-index th:first-child,
+.song-index td:first-child {
+    width: 5.5rem;
+    white-space: nowrap;
+    font-weight: bold;
+}
+
+.song-index th:nth-child(2),
+.song-index td:nth-child(2) {
+    width: 32%;
+}
+
+.song-index tbody tr.song-row-alt {
+    background: #fbf7f3;
+}
+
+.song-index tbody tr.song-row:hover {
+    background: #f4e7df;
+}
+
+.song-index th button {
+    all: unset;
+    cursor: pointer;
+    color: inherit;
+    font-weight: bold;
+}
+
+.song-index th button::after {
+    content: " ⇅";
+    font-size: 0.85em;
+    opacity: 0.75;
+}
+
+.song-index th[aria-sort="ascending"] button::after {
+    content: " ↑";
+}
+
+.song-index th[aria-sort="descending"] button::after {
+    content: " ↓";
+}
+
+.song-index td:last-child {
+    font-size: 0.95em;
+    line-height: 1.45;
+}
+
+@media (max-width: 700px) {
+    .song-index {
+        font-size: 0.95rem;
+    }
+
+    .song-index th,
+    .song-index td {
+        padding: 0.45rem 0.4rem;
+    }
+
+    .song-index th:first-child,
+    .song-index td:first-child {
+        width: 3.5rem;
+    }
+}
+
+.song-info-toggle {
+    all: unset;
+    cursor: pointer;
+    color: #6f0f16;
+    font-weight: bold;
+}
+
+.song-info-toggle::before {
+    content: "▸ ";
+    display: inline-block;
+    transition: transform 0.15s ease;
+}
+
+.song-info-toggle[aria-expanded="true"]::before {
+    transform: rotate(90deg);
+}
+
+.song-info-toggle:focus-visible {
+    outline: 2px solid #a81e28;
+    outline-offset: 2px;
+}
+
+.song-index .song-info-row td {
+    width: auto;
+    padding: 0;
+    white-space: normal;
+    font-weight: normal;
+    font-size: 1rem;
+    line-height: normal;
+    background: #fbf7f3;
+    border-bottom: 1px solid #e2d5cf;
+}
+
+.song-info {
+    padding: 0.75rem 1rem 1rem;
+    border-left: 4px solid #6f0f16;
+}
+
+.song-info-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    padding: 0.75rem;
+    box-sizing: border-box;
+    border: 1px solid #d8c8c0;
+    background: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.song-info-links {
+    margin: 0 0 0.75rem;
+    font-size: 0.95em;
+}
+
+.song-info-links a {
+    display: inline-block;
+    margin-right: 0.75rem;
+}

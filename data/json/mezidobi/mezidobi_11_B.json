@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "11. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "237",
+                    "melody": "37a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "39",
+                    "links": [
+                        {
+                            "filename": "Ps092_01",
+                            "kb_page": "175"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "238",
+                    "melody": "2a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "236",
+                    "melody": "89c",
+                    "link": "mezidobi_11_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "172",
+                    "melody": "70a",
+                    "link": "velikonoce_6"
+                }
+            ]
+        }
+    ]
+}

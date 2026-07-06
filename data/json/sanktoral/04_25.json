@@ -1,0 +1,20 @@
+{
+    "type": "partial",
+    "name": "Sv. Marka, evangelisty",
+    "date": "25. dubna",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "658",
+                    "melody": "60b"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_apostolech_a_evangelistech"
+    ]
+}

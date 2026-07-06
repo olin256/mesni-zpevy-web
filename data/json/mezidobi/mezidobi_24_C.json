@@ -1,0 +1,72 @@
+{
+    "type": "full",
+    "name": "24. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "316",
+                    "melody": "37a"
+                },
+                {
+                    "page": "316/317",
+                    "melody": "29b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "16",
+                    "links": [
+                        {
+                            "filename": "Ps051_04",
+                            "kb_page": "118"
+                        }
+                    ]
+                },
+                {
+                    "response": "57",
+                    "links": [
+                        {
+                            "filename": "Ps051_05",
+                            "kb_page": "118"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "317",
+                    "melody": "2g"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "197",
+                    "melody": "78a",
+                    "link": "mezidobi_04_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "228",
+                    "melody": "7b",
+                    "link": "mezidobi_10_A"
+                }
+            ]
+        }
+    ]
+}

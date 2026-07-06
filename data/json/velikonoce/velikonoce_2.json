@@ -1,0 +1,74 @@
+{
+    "type": "full",
+    "name": "2. neděle velikonoční",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "153",
+                    "melody": "63a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "info_before": "V ročním cyklu A:",
+                    "response": "39",
+                    "links": [
+                        {
+                            "filename": "Ps118_12",
+                            "kb_page": "240",
+                            "info": "Cyklus A:"
+                        },
+                        {
+                            "filename": "Ps118_13",
+                            "kb_page": "241",
+                            "info": "Cyklus B:"
+                        },
+                        {
+                            "filename": "Ps118_14",
+                            "kb_page": "242",
+                            "info": "Cyklus C:"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "154",
+                    "melody": "64a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "143",
+                    "melody": "55a",
+                    "link": "zmrtvychvstani_vigilie"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "155",
+                    "melody": "2e"
+                },
+                {
+                    "page": "149",
+                    "melody": "57a",
+                    "link": "zmrtvychvstani_slavnost"
+                }
+            ]
+        }
+    ]
+}

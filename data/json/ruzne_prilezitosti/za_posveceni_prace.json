@@ -1,0 +1,49 @@
+{
+    "type": "full",
+    "name": "Za posvěcení lidské práce",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "834",
+                    "melody": "74g"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "834",
+                    "melody": "80a",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "835",
+                    "melody": "88c",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "835",
+                    "melody": "9b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "106",
+                    "melody": "43a",
+                    "link": "pust_04_A"
+                }
+            ]
+        }
+    ]
+}

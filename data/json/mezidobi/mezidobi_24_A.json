@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "24. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "312",
+                    "melody": "37a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "17",
+                    "links": [
+                        {
+                            "filename": "Ps103_12",
+                            "kb_page": "202"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "313",
+                    "melody": "2g"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "197",
+                    "melody": "78a",
+                    "link": "mezidobi_04_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "211",
+                    "melody": "69f",
+                    "link": "mezidobi_07_A"
+                }
+            ]
+        }
+    ]
+}

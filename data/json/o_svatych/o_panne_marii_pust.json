@@ -1,0 +1,50 @@
+{
+    "type": "full",
+    "name": "O Panně Marii v době postní",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "727",
+                    "melody": "115b",
+                    "link": "09_15"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "567",
+                    "melody": "44e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "729",
+                    "melody": "131a",
+                    "link": "09_15"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "90",
+                    "melody": "94f",
+                    "link": "pust_2_X3"
+                },
+                {
+                    "page": "628",
+                    "melody": "44a",
+                    "link": "01_18"
+                }
+            ]
+        }
+    ]
+}

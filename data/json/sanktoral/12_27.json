@@ -1,0 +1,44 @@
+{
+    "type": "full",
+    "name": "Sv. Jana, apoštola a evangelisty",
+    "date": "27. prosince",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "779",
+                    "melody": "21d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "780",
+                    "melody": "20c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "780/781",
+                    "melody": "94c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "781",
+                    "melody": "92g"
+                }
+            ]
+        }
+    ]
+}

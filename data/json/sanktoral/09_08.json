@@ -1,0 +1,51 @@
+{
+    "type": "full",
+    "name": "Narození Panny Marie",
+    "date": "8. září",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "722",
+                    "melody": "103a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "560",
+                    "melody": "5a",
+                    "link": "o_panne_marii_2"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "562",
+                    "melody": "108a",
+                    "link": "o_panne_marii_2"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "723",
+                    "melody": "113l"
+                },
+                {
+                    "page": "563",
+                    "melody": "2b",
+                    "link": "o_panne_marii_2"
+                }
+            ]
+        }
+    ]
+}

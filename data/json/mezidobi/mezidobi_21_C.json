@@ -1,0 +1,60 @@
+{
+    "type": "full",
+    "name": "21. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "300",
+                    "melody": "70a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "54",
+                    "links": [
+                        {
+                            "filename": "Ps117_02",
+                            "kb_page": "233"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "298",
+                    "melody": "2e",
+                    "link": "mezidobi_21_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "197",
+                    "melody": "78a",
+                    "link": "mezidobi_04_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "263",
+                    "melody": "43b",
+                    "link": "mezidobi_15_A"
+                }
+            ]
+        }
+    ]
+}

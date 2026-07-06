@@ -1,0 +1,49 @@
+{
+    "type": "full",
+    "name": "Obrácení sv. Pavla, apoštola",
+    "date": "25. ledna",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "630/631",
+                    "melody": "118a"
+                },
+                {
+                    "page": "631",
+                    "melody": "69i"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "632",
+                    "melody": "65c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "632",
+                    "melody": "92n"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "263",
+                    "melody": "43b",
+                    "link": "mezidobi_15_A"
+                }
+            ]
+        }
+    ]
+}

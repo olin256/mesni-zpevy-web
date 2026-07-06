@@ -1,0 +1,73 @@
+{
+    "type": "full",
+    "name": "O apoštolech a evangelistech",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "571",
+                    "melody": "108b",
+                    "info_before": "O apoštolech:"
+                },
+                {
+                    "page": "572",
+                    "melody": "90a"
+                },
+                {
+                    "page": "572",
+                    "melody": "90a",
+                    "info_before": "O evangelistech:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "573",
+                    "melody": "2h",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "573",
+                    "melody": "62d"
+                },
+                {
+                    "page": "574",
+                    "melody": "65c"
+                },
+                {
+                    "page": "591",
+                    "melody": "69a",
+                    "link": "o_duchovnich_pastyrich",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "574",
+                    "melody": "94c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "163",
+                    "melody": "67a",
+                    "link": "velikonoce_4"
+                },
+                {
+                    "page": "263",
+                    "melody": "43b",
+                    "link": "mezidobi_15_A"
+                }
+            ]
+        }
+    ]
+}

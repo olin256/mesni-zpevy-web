@@ -1,0 +1,51 @@
+{
+    "type": "full",
+    "name": "O Panně Marii v době vánoční",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "45",
+                    "melody": "8b",
+                    "link": "leden_01"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "46",
+                    "melody": "5g",
+                    "link": "leden_01"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "46",
+                    "melody": "24a",
+                    "link": "leden_01"
+                },
+                {
+                    "page": "562",
+                    "melody": "108a",
+                    "link": "o_panne_marii_2"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "48",
+                    "melody": "26a",
+                    "link": "leden_01"
+                }
+            ]
+        }
+    ]
+}

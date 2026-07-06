@@ -1,0 +1,24 @@
+{
+    "type": "partial",
+    "name": "Sv. Antonína z Padovy, kněze a učitele církve",
+    "date": "13. června",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "604",
+                    "melody": "113r",
+                    "replacements": {
+                        "1": "An--to--ní--na"
+                    }
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_ucitelich_cirkve",
+        "o_duchovnich_pastyrich"
+    ]
+}

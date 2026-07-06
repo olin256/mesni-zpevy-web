@@ -1,0 +1,95 @@
+{
+    "type": "full",
+    "name": "O mučednících",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "575",
+                    "melody": "69k"
+                },
+                {
+                    "page": "576",
+                    "melody": "67a",
+                    "info_before": "O mučednících pastýřích:"
+                },
+                {
+                    "page": "577",
+                    "melody": "71b",
+                    "info_before": "O mučedníkovi:",
+                    "replacements": "show_all"
+                },
+                {
+                    "page": "577",
+                    "melody": "113c",
+                    "info_before": "O mučednici:"
+                },
+                {
+                    "page": "598",
+                    "melody": "112a",
+                    "info_before": "O panně mučednici:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "579",
+                    "melody": "98e",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "579",
+                    "melody": "62b"
+                },
+                {
+                    "page": "580",
+                    "melody": "65o"
+                },
+                {
+                    "page": "580",
+                    "melody": "33c",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "581",
+                    "melody": "92k"
+                },
+                {
+                    "page": "582",
+                    "melody": "74i"
+                },
+                {
+                    "page": "582",
+                    "melody": "92k",
+                    "info_before": "O mučednících pastýřích:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "583",
+                    "melody": "5d"
+                },
+                {
+                    "page": "584/585",
+                    "melody": "88a"
+                },
+                {
+                    "page": "585",
+                    "melody": "36g",
+                    "info_before": "O mučednících pastýřích:"
+                }
+            ]
+        }
+    ]
+}

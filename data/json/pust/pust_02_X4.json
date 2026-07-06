@@ -1,0 +1,45 @@
+{
+    "type": "full",
+    "name": "Čtvrtek po 2. neděli postní",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "67",
+                    "melody": "31a",
+                    "link": "popelecni_streda_X4"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "91",
+                    "melody": "37b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "69",
+                    "melody": "29a",
+                    "link": "popelecni_streda_X4"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "70",
+                    "melody": "33a",
+                    "link": "popelecni_streda_X4"
+                }
+            ]
+        }
+    ]
+}

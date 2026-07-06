@@ -1,0 +1,65 @@
+{
+    "type": "full",
+    "name": "Sv. Vojtěcha, biskupa a mučedníka",
+    "date": "23. dubna",
+    "rank": "svátek",
+    "info": "V Mešních zpěvěch zastarale vedeno jen jako památka, svátek pouze jako hlavního patrona pražské arcidiecéze.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "653",
+                    "melody": "121a"
+                },
+                {
+                    "page": "604",
+                    "melody": "113r",
+                    "link": "o_svatych",
+                    "replacements": {
+                        "1": "Voj--tě--cha"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "654",
+                    "melody": "134a",
+                    "replacements": {
+                        "1": "Voj--tě--cha",
+                        "4": "Voj--tě--chu"
+                    }
+                },
+                {
+                    "page": "655",
+                    "melody": "117l"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "656",
+                    "melody": "205a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "656/657",
+                    "melody": "206a"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_mucednicich",
+        "o_duchovnich_pastyrich"
+    ]
+}

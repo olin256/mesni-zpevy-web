@@ -1,0 +1,61 @@
+{
+    "type": "full",
+    "name": "3. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "191",
+                    "melody": "74p",
+                    "link": "mezidobi_03_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "55",
+                    "links": [
+                        {
+                            "filename": "Ps019_11",
+                            "kb_page": "28"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "191",
+                    "melody": "65d",
+                    "link": "mezidobi_03_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "192",
+                    "melody": "68a",
+                    "link": "mezidobi_03_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "193",
+                    "melody": "130a",
+                    "link": "mezidobi_03_A"
+                }
+            ]
+        }
+    ]
+}

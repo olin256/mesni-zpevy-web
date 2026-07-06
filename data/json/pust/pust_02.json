@@ -1,0 +1,77 @@
+{
+    "type": "full",
+    "name": "2. neděle postní",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "84",
+                    "melody": "38a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "info_before": "V ročním cyklu A:",
+                    "response": "4",
+                    "links": [
+                        {
+                            "filename": "Ps033_20",
+                            "kb_page": "70"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu B:",
+                    "response": "49",
+                    "links": [
+                        {
+                            "filename": "Ps116_06",
+                            "kb_page": "230"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu C:",
+                    "response": "20",
+                    "links": [
+                        {
+                            "filename": "Ps027_13",
+                            "kb_page": "54"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "85",
+                    "melody": "39a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "86",
+                    "melody": "69c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "86/87",
+                    "melody": "32a"
+                }
+            ]
+        }
+    ]
+}

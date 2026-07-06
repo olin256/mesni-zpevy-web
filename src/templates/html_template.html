@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="assets/css/style.css" />
+
+    <meta name="description" content="Online verze zpěvníku Mešní zpěvy">
+
+    <!-- 🔹 Favicony -->
+    <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+    <link rel="alternate icon" href="assets/icons/favicon.ico" type="image/x-icon"> <!-- Fallback pro starší prohlížeče -->
+
+    <!-- 🔹 Apple touch ikona -->
+    <!-- Doporučený rozměr: 180x180 px -->
+    <link rel="apple-touch-icon" href="https://mesnizpevy.cz/assets/icons/mz_logo-180.png">
+
+    <!-- 🔹 Ikony pro Android a PWA -->
+    <!-- Doporučené rozměry: 192x192 px a 512x512 px -->
+    <link rel="manifest" href="manifest.json">
+
+    <!-- 🔹 Open Graph metadata (sociální sítě, Firefox dlaždice apod.) -->
+    <meta property="og:title" content="Mešní zpěvy online">
+    <meta property="og:description" content="Online verze zpěvníku Mešní zpěvy; obsahuje noty s textem všech slok písní.">
+    <meta property="og:url" content="https://mesnizpevy.cz/">
+    <meta property="og:type" content="website">
+    <!-- Doporučený rozměr: 1200x630 px (JPEG nebo PNG) -->
+    <meta property="og:image" content="https://mesnizpevy.cz/assets/images/og-image.png">
+
+    <!-- 🔹 Twitter Card metadata (volitelné, ale doporučené) -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Mešní zpěvy online">
+    <meta name="twitter:description" content="Online verze zpěvníku Mešní zpěvy; obsahuje noty s textem všech slok písní.">
+    <meta name="twitter:image" content="https://mesnizpevy.cz/assets/images/og-image.png">
+</head>
+<body>
+<header>
+    <div class="navbar">
+        <a href="./" class="brand">
+            <img src="assets/icons/mz_logo.svg" alt="Logo MZ">
+            <span>Mešní zpěvy</span>
+        </a>
+        <button class="menu-toggle" onclick="toggleMenu()">☰</button>
+        <div class="nav-links" id="navLinks">
+            <a href="predmluva.html">Předmluva</a>
+            <a href="rejstrik.html">Rejstřík</a>
+            <a href="hledani.html">Hledání</a>
+            <a href="o_projektu.html">O projektu</a>
+            <a href="pro_varhaniky.html">Pro varhaníky</a>
+            <a href="dalsi_materialy.html">Další materiály</a>
+            <form action="hledani.html" method="get" class="site-search-form">
+                <input type="search" placeholder="č. strany nebo text" required name="q" autocomplete="off">
+                <button type="submit">»</button>
+            </form>
+        </div>
+    </div>
+</header>
+<main class="container">
+</main>
+<footer class="container">
+Tento web je vyvíjen pod patronátem <a href="https://sdh.cz/">Společnosti pro duchovní hudbu</a>.
+</footer>
+
+<script>
+function toggleMenu() {
+    document.getElementById('navLinks').classList.toggle('active');
+}
+</script>
+<script src="assets/js/cz-calendar.js"></script>
+<script src="assets/js/liturgical-day-links.js"></script>
+<script src="assets/js/site-search.js"></script>
+</body>
+</html>

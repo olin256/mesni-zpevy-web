@@ -1,0 +1,64 @@
+{
+    "type": "full",
+    "name": "31. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "358",
+                    "melody": "74o"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "7",
+                    "links": [
+                        {
+                            "filename": "Ps145_02",
+                            "kb_page": "283"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "359",
+                    "melody": "91b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "210",
+                    "melody": "81a",
+                    "link": "mezidobi_07_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "134",
+                    "melody": "92b",
+                    "link": "zeleny_ctvrtek"
+                },
+                {
+                    "page": "172",
+                    "melody": "70a",
+                    "link": "velikonoce_6"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "type": "full",
+    "name": "29. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "344",
+                    "melody": "88c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "4",
+                    "links": [
+                        {
+                            "filename": "Ps033_20",
+                            "kb_page": "70"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "345",
+                    "melody": "56a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "206",
+                    "melody": "77a",
+                    "link": "mezidobi_06_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "346",
+                    "melody": "92l"
+                }
+            ]
+        }
+    ]
+}

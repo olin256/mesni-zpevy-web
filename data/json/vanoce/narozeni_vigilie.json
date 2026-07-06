@@ -1,0 +1,43 @@
+{
+    "type": "full",
+    "name": "Narození Páně",
+    "subtitle": "Vigilie",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "27",
+                    "melody": "1b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "28",
+                    "melody": "20b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "28",
+                    "melody": "8a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "29",
+                    "melody": "12a"
+                }
+            ]
+        }
+    ]
+}

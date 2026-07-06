@@ -1,0 +1,962 @@
+json_path,json_name,json_subtitle,status,method,notes,csv_line,id,uziti,zalm,verse,lekcionar,strana,doba,prilezitost,cyklus,odpoved,kb
+data/json/advent/advent_1.json,1. neděle adventní,,matched,exact-fixed,,2,Ps122_01,ID_0001,Žl 122(121),1-2.(4-5.6-7).8-9,1A,69,Advent,1. neděle adventní,A,1,259
+data/json/advent/advent_1.json,1. neděle adventní,,matched,exact-fixed,,3,Ps080_03,ID_0002,Žl 80(79),2ac+3b.15-16.18-19,1B,17,Advent,1. neděle adventní,B,2,149
+data/json/advent/advent_1.json,1. neděle adventní,,matched,exact-fixed,,4,Ps025_09,ID_0003,Žl 25(24),4-5ab.8-9.10+14,1C,16,Advent,1. neděle adventní,C,3,44
+data/json/advent/advent_2.json,2. neděle adventní,,matched,exact-fixed,,11,Ps072_04,ID_0010,Žl 72(71),1-2.7-8.12-13.17,1A,72,Advent,2. neděle adventní,A,4,144
+data/json/advent/advent_2.json,2. neděle adventní,,matched,exact-fixed,,12,Ps085_05,ID_0011,Žl 85(84),9ab+10.11-12.13-14,1B,20,Advent,2. neděle adventní,B,4,159
+data/json/advent/advent_2.json,2. neděle adventní,,matched,exact-fixed,,13,Ps126_01,ID_0012,Žl 126(125),1-2ab.2cd-3.4-5.6,1C,20,Advent,2. neděle adventní,C,5,263
+data/json/advent/advent_3.json,3. neděle adventní,,matched,exact-fixed,,20,Ps146_06,ID_0019,Žl 146(145),6c-7.8-9a.9bc-10,1A,76,Advent,3. neděle adventní,A,2,294
+data/json/advent/advent_3.json,3. neděle adventní,,matched,exact-fixed,,21,Lk1_01,ID_0020,Lk 1,46-48a.48b-50.53-54,1B,23,Advent,3. neděle adventní,B,6,317
+data/json/advent/advent_3.json,3. neděle adventní,,matched,exact-fixed,,22,Iz12_02,ID_0021,Iz 12,2-3.4bcd.5-6,1C,23,Advent,3. neděle adventní,C,39,310
+data/json/advent/advent_4.json,4. neděle adventní,,matched,exact-fixed,,28,Ps024_02,ID_0027,Žl 24(23),1-2.3-4ab.5-6,1A,78,Advent,4. neděle adventní,A,8,36
+data/json/advent/advent_4.json,4. neděle adventní,,matched,exact-fixed,,29,Ps089_05,ID_0028,Žl 89(88),2-3.4-5.27+29,1B,27,Advent,4. neděle adventní,B,9,163
+data/json/advent/advent_4.json,4. neděle adventní,,matched,exact-fixed,,30,Ps080_03,ID_0029,Žl 80(79),2ac+3b.15-16.18-19,1C,26,Advent,4. neděle adventní,C,2,149
+data/json/mezidobi/mezidobi_02_A.json,2. neděle v mezidobí A,,matched,exact,,280,Ps040_03,ID_0279,Žl 40(39),2+4ab.7-8a.8b-9.10,1A,246,e-Mezidobí,2. neděle v mezidobí,A,45,89
+data/json/mezidobi/mezidobi_02_B.json,2. neděle v mezidobí B,,matched,exact,,281,Ps040_03,ID_0280,Žl 40(39),2+4ab.7-8a.8b-9.10,1B,208,e-Mezidobí,2. neděle v mezidobí,B,45,89
+data/json/mezidobi/mezidobi_02_C.json,2. neděle v mezidobí C,,matched,exact,,282,Ps096_11,ID_0281,Žl 96(95),1-2a.2b-3.7-8a.9-10a,1C,213,e-Mezidobí,2. neděle v mezidobí,C,40,179
+data/json/mezidobi/mezidobi_03_A.json,3. neděle v mezidobí A,,matched,exact,,295,Ps027_04,ID_0294,Žl 27(26),1.4.13-14,1A,249,e-Mezidobí,3. neděle v mezidobí,A,20,53
+data/json/mezidobi/mezidobi_03_B.json,3. neděle v mezidobí B,,matched,exact,,296,Ps025_07,ID_0295,Žl 25(24),4-5ab.6+7bc.8-9,1B,211,e-Mezidobí,3. neděle v mezidobí,B,17,40
+data/json/mezidobi/mezidobi_03_C.json,3. neděle v mezidobí C,,matched,exact,,297,Ps019_11,ID_0296,Žl 19(18),8.9.10.15,1C,217,e-Mezidobí,3. neděle v mezidobí,C,55,28
+data/json/mezidobi/mezidobi_04_A.json,4. neděle v mezidobí A,,matched,exact,,310,Ps146_05,ID_0309,Žl 146(145),6c-7.8-9a.9bc-10,1A,253,e-Mezidobí,4. neděle v mezidobí,A,31,295
+data/json/mezidobi/mezidobi_04_B.json,4. neděle v mezidobí B,,matched,exact,,311,Ps095_02,ID_0310,Žl 95(94),1-2.6-7.8-9,1B,214,e-Mezidobí,4. neděle v mezidobí,B,21,178
+data/json/mezidobi/mezidobi_04_C.json,4. neděle v mezidobí C,,matched,exact,,312,Ps071_01,ID_0311,Žl 71(70),1-2.3-4a.5-6ab.15ab+17,1C,221,e-Mezidobí,4. neděle v mezidobí,C,46,141
+data/json/mezidobi/mezidobi_05_A.json,5. neděle v mezidobí A,,matched,exact,,326,Ps112_12,ID_0325,Žl 112(111),4-5.6-7.8a+9,1A,257,e-Mezidobí,5. neděle v mezidobí,A,47,223
+data/json/mezidobi/mezidobi_05_B.json,5. neděle v mezidobí B,,matched,exact,,327,Ps147_05,ID_0326,Žl 147(146),1-2.3-4.5-6,1B,217,e-Mezidobí,5. neděle v mezidobí,B,26,296
+data/json/mezidobi/mezidobi_05_C.json,5. neděle v mezidobí C,,matched,exact,,328,Ps138_05,ID_0327,Žl 138(137),1-2a.2bc+3.4-5.7c-8,1C,226,e-Mezidobí,5. neděle v mezidobí,C,7,278
+data/json/mezidobi/mezidobi_06_A.json,6. neděle v mezidobí A,,matched,exact,,341,Ps119_02,ID_0340,Žl 119(118),1-2.4-5.17-18.33-34,1A,259,e-Mezidobí,6. neděle v mezidobí,A,11,249
+data/json/mezidobi/mezidobi_06_B.json,6. neděle v mezidobí B,,matched,exact,,342,Ps032_01,ID_0341,Žl 32(31),1-2.5.11,1B,220,e-Mezidobí,6. neděle v mezidobí,B,9,63
+data/json/mezidobi/mezidobi_06_C.json,6. neděle v mezidobí C,,matched,exact,,343,Ps001_02,ID_0342,Žl 1,1-2.3.4+6,1C,230,e-Mezidobí,6. neděle v mezidobí,C,49,9
+data/json/mezidobi/mezidobi_07_A.json,7. neděle v mezidobí A,,matched,exact,,356,Ps103_11,ID_0355,Žl 103(102),1-2.3-4.8+10.12-13,1A,264,e-Mezidobí,7. neděle v mezidobí,A,17,201
+data/json/mezidobi/mezidobi_07_B.json,7. neděle v mezidobí B,,matched,exact,,357,Ps041_01,ID_0356,Žl 41(40),2-3.4-5.13-14,1B,223,e-Mezidobí,7. neděle v mezidobí,B,57,93
+data/json/mezidobi/mezidobi_07_C.json,7. neděle v mezidobí C,,matched,exact,,358,Ps103_11,ID_0357,Žl 103(102),1-2.3-4.8+10.12-13,1C,234,e-Mezidobí,7. neděle v mezidobí,C,17,201
+data/json/mezidobi/mezidobi_08_A.json,8. neděle v mezidobí A,,matched,exact,,371,Ps062_01,ID_0370,Žl 62(61),2-3.6-7.8-9ab,1A,267,e-Mezidobí,8. neděle v mezidobí,A,50,124
+data/json/mezidobi/mezidobi_08_B.json,8. neděle v mezidobí B,,matched,exact,,372,Ps103_11,ID_0371,Žl 103(102),1-2.3-4.8+10.12-13,1B,226,e-Mezidobí,8. neděle v mezidobí,B,17,201
+data/json/mezidobi/mezidobi_08_C.json,8. neděle v mezidobí C,,matched,exact,,373,Ps092_01,ID_0372,Žl 92(91),2-3.13-14.15-16,1C,237,e-Mezidobí,8. neděle v mezidobí,C,39,175
+data/json/mezidobi/mezidobi_09_A.json,9. neděle v mezidobí A,,matched,exact,,386,Ps031_01,ID_0385,Žl 31(30),2-3a.3b-4.17+25,1A,270,E-Mezidobí,9. neděle v mezidobí,A,52,58
+data/json/mezidobi/mezidobi_09_B.json,9. neděle v mezidobí B,,matched,exact,,387,Ps081_01,ID_0386,Žl 81(80),3-4.5-6ab.6c-8a.10-11ab,1B,229,e-Mezidobí,9. neděle v mezidobí,B,39,151
+data/json/mezidobi/mezidobi_09_C.json,9. neděle v mezidobí C,,matched,exact,,388,Ps117_02,ID_0387,Žl 117(116),1.2,1C,240,e-Mezidobí,9. neděle v mezidobí,C,54,233
+data/json/mezidobi/mezidobi_10_A.json,10. neděle v mezidobí A,,matched,exact,,401,Ps050_03,ID_0400,Žl 50(49),1+8.12-13.14-15,1A,273,e-Mezidobí,10. neděle v mezidobí,A,11,107
+data/json/mezidobi/mezidobi_10_B.json,10. neděle v mezidobí B,,matched,exact,,402,Ps130_01,ID_0401,Žl 130(129),1-2.3-4.5-6a.6b-8,1B,234,e-Mezidobí,10. neděle v mezidobí,B,26,268
+data/json/mezidobi/mezidobi_10_C.json,10. neděle v mezidobí C,,matched,exact,,403,Ps030_01,ID_0402,Žl 30(29),2+4.5-6.11+12a+13b,1C,244,e-Mezidobí,10. neděle v mezidobí,C,34,56
+data/json/mezidobi/mezidobi_11_A.json,11. neděle v mezidobí A,,matched,exact,,416,Ps100_07,ID_0415,Žl 100(99),1-2.3.5,1A,276,e-Mezidobí,11. neděle v mezidobí,A,55,194
+data/json/mezidobi/mezidobi_11_B.json,11. neděle v mezidobí B,,matched,exact,,417,Ps092_01,ID_0416,Žl 92(91),2-3.13-14.15-16,1B,237,e-Mezidobí,11. neděle v mezidobí,B,39,175
+data/json/mezidobi/mezidobi_11_C.json,11. neděle v mezidobí C,,matched,exact,,418,Ps032_06,ID_0417,Žl 32(31),1-2.5.7.11,1C,247,e-Mezidobí,11. neděle v mezidobí,C,51,62
+data/json/mezidobi/mezidobi_12_A.json,12. neděle v mezidobí A,,matched,exact,,431,Ps069_09,ID_0430,Žl 69(68),8-10.14+17.33-35,1A,279,e-Mezidobí,12. neděle v mezidobí,A,56,135
+data/json/mezidobi/mezidobi_12_B.json,12. neděle v mezidobí B,,matched,exact,,432,Ps107_02,ID_0431,Žl 107(106),23-24.25-26.28-29.30-31,1B,240,e-Mezidobí,12. neděle v mezidobí,B,39,217
+data/json/mezidobi/mezidobi_12_C.json,12. neděle v mezidobí C,,matched,exact,,433,Ps063_02,ID_0432,Žl 63(62),2.3-4.5-6.8-9,1C,252,e-Mezidobí,12. neděle v mezidobí,C,50,126
+data/json/mezidobi/mezidobi_13_A.json,13. neděle v mezidobí A,,matched,exact,,446,Ps089_02,ID_0445,Žl 89(88),2-3.16-17.18-19,1A,282,e-Mezidobí,13. neděle v mezidobí,A,9,165
+data/json/mezidobi/mezidobi_13_B.json,13. neděle v mezidobí B,,matched,exact,,447,Ps030_01,ID_0446,Žl 30(29),2+4.5-6.11+12a+13b,1B,243,e-Mezidobí,13. neděle v mezidobí,B,34,56
+data/json/mezidobi/mezidobi_13_C.json,13. neděle v mezidobí C,,matched,exact,,448,Ps016_06,ID_0447,Žl 16(15),1-2a+5.7-8.9-10.11,1C,255,e-Mezidobí,13. neděle v mezidobí,C,45,17
+data/json/mezidobi/mezidobi_14_A.json,14. neděle v mezidobí A,,matched,exact,,461,Ps145_02,ID_0460,Žl 145(144),1-2.8-9.10-11.13cd-14,1A,285,e-Mezidobí,14. neděle v mezidobí,A,7,283
+data/json/mezidobi/mezidobi_14_B.json,14. neděle v mezidobí B,,matched,exact,,462,Ps123_03,ID_0461,Žl 123(122),1-2a.2bcd.3-4,1B,248,e-Mezidobí,14. neděle v mezidobí,B,33,261
+data/json/mezidobi/mezidobi_14_C.json,14. neděle v mezidobí C,,matched,exact,,463,Ps066_01,ID_0462,Žl 66(65),1-3a.4-5.6-7a.16+20,1C,260,e-Mezidobí,14. neděle v mezidobí,C,41,128
+data/json/mezidobi/mezidobi_15_A.json,15. neděle v mezidobí A,,matched,exact,,476,Ps065_01,ID_0475,Žl 65(64),10abcd.10e-11.12-13.14,1A,288,e-Mezidobí,15. neděle v mezidobí,A,32,127
+data/json/mezidobi/mezidobi_15_B.json,15. neděle v mezidobí B,,matched,exact,,477,Ps085_05,ID_0476,Žl 85(84),9ab+10.11-12.13-14,1B,251,e-Mezidobí,15. neděle v mezidobí,B,4,159
+data/json/mezidobi/mezidobi_15_C.json,15. neděle v mezidobí C,,matched,exact,,479,Ps069_01,ID_0478,Žl 69(68),14+17.30-31.36ab+37,1C,264,e-Mezidobí,15. neděle v mezidobí,C,56,138
+data/json/mezidobi/mezidobi_16_A.json,16. neděle v mezidobí A,,matched,exact,,493,Ps086_03,ID_0492,Žl 86(85),5-6.9-10.15-16a,1A,293,e-Mezidobí,16. neděle v mezidobí,A,5,161
+data/json/mezidobi/mezidobi_16_B.json,16. neděle v mezidobí B,,matched,exact,,494,Ps023_01,ID_0493,Žl 23(22),1-3.4.5.6,1B,256,e-Mezidobí,16. neděle v mezidobí,B,23,34
+data/json/mezidobi/mezidobi_16_C.json,16. neděle v mezidobí C,,matched,exact,,495,Ps015_01,ID_0494,Žl 15(14),2-3ab.3cd-4ab.5,1C,269,e-Mezidobí,16. neděle v mezidobí,C,11,16
+data/json/mezidobi/mezidobi_17_A.json,17. neděle v mezidobí A,,matched,exact,,508,Ps119_19,ID_0507,Žl 119(118),57+72.76-77.127-128.129-130,1A,299,e-Mezidobí,17. neděle v mezidobí,A,11,253
+data/json/mezidobi/mezidobi_17_B.json,17. neděle v mezidobí B,,matched,exact,,509,Ps145_08,ID_0508,Žl 145(144),10-11.15-16.17-18,1B,258,e-Mezidobí,17. neděle v mezidobí,B,49,293
+data/json/mezidobi/mezidobi_17_B.json,17. neděle v mezidobí B,,matched,exact,,510,Ps145_28,ID_0509,Žl 145(144),10-11.15-16.17-18,1B,258,e-Mezidobí,17. neděle v mezidobí,B,49,292
+data/json/mezidobi/mezidobi_17_C.json,17. neděle v mezidobí C,,matched,exact,,511,Ps138_06,ID_0510,Žl 138(137),1-2a.2bc+3.6-7ab.7c-8,1C,272,e-Mezidobí,17. neděle v mezidobí,C,7,279
+data/json/mezidobi/mezidobi_18_A.json,18. neděle v mezidobí A,,matched,exact,,524,Ps145_27,ID_0523,Žl 145(144),8-9.15-16.17-18,1A,302,e-Mezidobí,18. neděle v mezidobí,A,49,290
+data/json/mezidobi/mezidobi_18_B.json,18. neděle v mezidobí B,,matched,exact,,525,Ps078_04,ID_0524,Žl 78(77),3+4bc.23-24.25+54,1B,262,e-Mezidobí,18. neděle v mezidobí,B,39,147
+data/json/mezidobi/mezidobi_18_C.json,18. neděle v mezidobí C,,matched,exact,,526,Ps090_07,ID_0525,Žl 90(89),3-4.5-6.12-13.14+17,1C,275,e-Mezidobí,18. neděle v mezidobí,C,12,171
+data/json/mezidobi/mezidobi_19_A.json,19. neděle v mezidobí A,,matched,exact,,539,Ps085_05,ID_0538,Žl 85(84),9ab+10.11-12.13-14,1A,305,e-Mezidobí,19. neděle v mezidobí,A,4,159
+data/json/mezidobi/mezidobi_19_B.json,19. neděle v mezidobí B,,matched,exact,,540,Ps034_08,ID_0539,Žl 34(33),2-3.4-5.6-7.8-9,1B,265,e-Mezidobí,19. neděle v mezidobí,B,25,75
+data/json/mezidobi/mezidobi_19_C.json,19. neděle v mezidobí C,,matched,exact,,541,Ps033_07,ID_0540,Žl 33(32),1+12.18-19.20+22,1C,278,e-Mezidobí,19. neděle v mezidobí,C,11,67
+data/json/mezidobi/mezidobi_20_A.json,20. neděle v mezidobí A,,matched,exact,,554,Ps067_01,ID_0553,Žl 67(66),2-3.5.6+8,1A,308,e-Mezidobí,20. neděle v mezidobí,A,14,130
+data/json/mezidobi/mezidobi_20_B.json,20. neděle v mezidobí B,,matched,exact,,555,Ps034_02,ID_0554,Žl 34(33),2-3.10-11.12-13.14-15,1B,268,e-Mezidobí,20. neděle v mezidobí,B,25,82
+data/json/mezidobi/mezidobi_20_C.json,20. neděle v mezidobí C,,matched,exact,,556,Ps040_01,ID_0555,Žl 40(39),2.3.4.18,1C,285,e-Mezidobí,20. neděle v mezidobí,C,33,88
+data/json/mezidobi/mezidobi_21_A.json,21. neděle v mezidobí A,,matched,exact,,569,Ps138_08,ID_0568,Žl 138(137),1-2a.2bc+3.6+8bc,1A,311,e-Mezidobí,21. neděle v mezidobí,A,7,280
+data/json/mezidobi/mezidobi_21_B.json,21. neděle v mezidobí B,,matched,exact,,570,Ps034_04,ID_0569,Žl 34(33),2-3.16-17.18-19.20-21.22-23,1B,271,e-Mezidobí,21. neděle v mezidobí,B,25,83
+data/json/mezidobi/mezidobi_21_C.json,21. neděle v mezidobí C,,matched,exact,,571,Ps117_02,ID_0570,Žl 117(116),1.2,1C,287,e-Mezidobí,21. neděle v mezidobí,C,54,233
+data/json/mezidobi/mezidobi_22_A.json,22. neděle v mezidobí A,,matched,exact,,584,Ps063_02,ID_0583,Žl 63(62),2.3-4.5-6.8-9,1A,314,e-Mezidobí,22. neděle v mezidobí,A,50,126
+data/json/mezidobi/mezidobi_22_B.json,22. neděle v mezidobí B,,matched,exact,,585,Ps015_01,ID_0584,Žl 15(14),2-3ab.3cd-4ab.5,1B,275,e-Mezidobí,22. neděle v mezidobí,B,11,16
+data/json/mezidobi/mezidobi_22_C.json,22. neděle v mezidobí C,,matched,exact,,586,Ps068_05,ID_0585,Žl 68(67),4-5ac.6-7ab.10-11,1C,290,e-Mezidobí,22. neděle v mezidobí,C,39,133
+data/json/mezidobi/mezidobi_23_A.json,23. neděle v mezidobí A,,matched,exact,,599,Ps095_02,ID_0598,Žl 95(94),1-2.6-7.8-9,1A,317,e-Mezidobí,23. neděle v mezidobí,A,21,178
+data/json/mezidobi/mezidobi_23_B.json,23. neděle v mezidobí B,,matched,exact,,600,Ps146_05,ID_0599,Žl 146(145),6c-7.8-9a.9bc-10,1B,278,e-Mezidobí,23. neděle v mezidobí,B,31,295
+data/json/mezidobi/mezidobi_23_C.json,23. neděle v mezidobí C,,matched,exact,,601,Ps090_07,ID_0600,Žl 90(89),3-4.5-6.12-13.14+17,1C,293,e-Mezidobí,23. neděle v mezidobí,C,12,171
+data/json/mezidobi/mezidobi_24_A.json,24. neděle v mezidobí A,,matched,exact,,614,Ps103_12,ID_0613,Žl 103(102),1-2.3-4.9-10.11-12,1A,321,e-Mezidobí,24. neděle v mezidobí,A,17,202
+data/json/mezidobi/mezidobi_24_B.json,24. neděle v mezidobí B,,matched,exact,,615,Ps116_01,ID_0614,Žl 116(114),1-2.3-4.5-6.8-9,1B,282,e-Mezidobí,24. neděle v mezidobí,B,49,228
+data/json/mezidobi/mezidobi_24_C.json,24. neděle v mezidobí C,,matched,exact,,616,Ps051_04,ID_0615,Žl 51(50),3-4.12-13.17+19,1C,298,e-Mezidobí,24. neděle v mezidobí,C,16,118
+data/json/mezidobi/mezidobi_24_C.json,24. neděle v mezidobí C,,matched,exact,,617,Ps051_05,ID_0616,Žl 51(50),3-4.12-13.17+19,1C,298,e-Mezidobí,24. neděle v mezidobí,C,57,118
+data/json/mezidobi/mezidobi_25_A.json,25. neděle v mezidobí A,,matched,exact,,630,Ps145_21,ID_0629,Žl 145(144),2-3.8-9.17-18,1A,324,e-Mezidobí,25. neděle v mezidobí,A,49,286
+data/json/mezidobi/mezidobi_25_B.json,25. neděle v mezidobí B,,matched,exact,,631,Ps054_01,ID_0630,Žl 54(53),3-4.5.6+8,1B,285,e-Mezidobí,25. neděle v mezidobí,B,49,122
+data/json/mezidobi/mezidobi_25_C.json,25. neděle v mezidobí C,,matched,exact,,632,Ps113_04,ID_0631,Žl 113(112),1-2.4-6.7-8,1C,303,e-Mezidobí,25. neděle v mezidobí,C,58,
+data/json/mezidobi/mezidobi_26_A.json,26. neděle v mezidobí A,,matched,exact,,645,Ps025_02,ID_0644,Žl 25(24),4-5.6-7.8-9,1A,327,e-Mezidobí,26. neděle v mezidobí,A,4,39
+data/json/mezidobi/mezidobi_26_B.json,26. neděle v mezidobí B,,matched,exact,,646,Ps019_06,ID_0645,Žl 19(18),8.10.12-13.14,1B,288,e-Mezidobí,26. neděle v mezidobí,B,22,29
+data/json/mezidobi/mezidobi_26_C.json,26. neděle v mezidobí C,,matched,exact,,647,Ps146_05,ID_0646,Žl 146(145),6c-7.8-9a.9bc-10,1C,307,e-Mezidobí,26. neděle v mezidobí,C,31,295
+data/json/mezidobi/mezidobi_27_A.json,27. neděle v mezidobí A,,matched,exact,,660,Ps080_05,ID_0659,Žl 80(79),9+12.13-14.15-16.19-20,1A,332,e-Mezidobí,27. neděle v mezidobí,A,4,150
+data/json/mezidobi/mezidobi_27_B.json,27. neděle v mezidobí B,,matched,exact,,661,Ps128_02,ID_0660,Žl 128(127),1-2.3.4-5.6,1B,292,e-Mezidobí,27. neděle v mezidobí,B,11,267
+data/json/mezidobi/mezidobi_27_C.json,27. neděle v mezidobí C,,matched,exact,,662,Ps095_02,ID_0661,Žl 95(94),1-2.6-7.8-9,1C,312,e-Mezidobí,27. neděle v mezidobí,C,21,178
+data/json/mezidobi/mezidobi_28_A.json,28. neděle v mezidobí A,,matched,exact,,675,Ps023_01,ID_0674,Žl 23(22),1-3.4.5.6,1A,336,e-Mezidobí,28. neděle v mezidobí,A,23,34
+data/json/mezidobi/mezidobi_28_B.json,28. neděle v mezidobí B,,matched,exact,,676,Ps090_01,ID_0675,Žl 90(89),12-13.14-15.16-17,1B,295,e-Mezidobí,28. neděle v mezidobí,B,12,172
+data/json/mezidobi/mezidobi_28_C.json,28. neděle v mezidobí C,,matched,exact,,677,Ps098_01,ID_0676,Žl 98(97),1.2-3ab.3c-4,1C,314,e-Mezidobí,28. neděle v mezidobí,C,38,190
+data/json/mezidobi/mezidobi_28_C.json,28. neděle v mezidobí C,,matched,exact,,678,Ps098_02,ID_0677,Žl 98(97),1.2-3ab.3c-4,1C,314,e-Mezidobí,28. neděle v mezidobí,C,41,189
+data/json/mezidobi/mezidobi_29_A.json,29. neděle v mezidobí A,,matched,exact,,691,Ps096_15,ID_0690,Žl 96(95),1+3.4-5.7-8.9-10a+c,1A,340,e-Mezidobí,29. neděle v mezidobí,A,58,184
+data/json/mezidobi/mezidobi_29_B.json,29. neděle v mezidobí B,,matched,exact,,692,Ps033_20,ID_0691,Žl 33(32),4-5.18-19.20+22,1B,299,e-Mezidobí,29. neděle v mezidobí,B,4,70
+data/json/mezidobi/mezidobi_29_C.json,29. neděle v mezidobí C,,matched,exact,,693,Ps121_01,ID_0692,Žl 121(120),1-2.3-4.5-6.7-8,1C,317,e-Mezidobí,29. neděle v mezidobí,C,49,255
+data/json/mezidobi/mezidobi_30_A.json,30. neděle v mezidobí A,,matched,exact,,706,Ps018_01,ID_0705,Žl 18(17),2-3a.3bc-4.47+51ab,1A,343,e-Mezidobí,30. neděle v mezidobí,A,5,24
+data/json/mezidobi/mezidobi_30_B.json,30. neděle v mezidobí B,,matched,exact,,707,Ps126_01,ID_0706,Žl 126(125),1-2ab.2cd-3.4-5.6,1B,302,e-Mezidobí,30. neděle v mezidobí,B,5,263
+data/json/mezidobi/mezidobi_30_C.json,30. neděle v mezidobí C,,matched,exact,,708,Ps034_05,ID_0707,Žl 34(33),2-3.17-18.19+23,1C,320,e-Mezidobí,30. neděle v mezidobí,C,49,84
+data/json/mezidobi/mezidobi_31_A.json,31. neděle v mezidobí A,,matched,exact,,721,Ps131_01,ID_0720,Žl 131(130),01.02.2003,1A,346,e-Mezidobí,31. neděle v mezidobí,A,59,271
+data/json/mezidobi/mezidobi_31_B.json,31. neděle v mezidobí B,,matched,exact,,722,Ps018_01,ID_0721,Žl 18(17),2-3a.3bc-4.47+51ab,1B,305,e-Mezidobí,31. neděle v mezidobí,B,5,24
+data/json/mezidobi/mezidobi_31_C.json,31. neděle v mezidobí C,,matched,exact,,723,Ps145_02,ID_0722,Žl 145(144),1-2.8-9.10-11.13cd-14,1C,323,e-Mezidobí,31. neděle v mezidobí,C,7,283
+data/json/mezidobi/mezidobi_32_A.json,32. neděle v mezidobí A,,matched,exact,,736,Ps063_01,ID_0735,Žl 63(62),2.3-4.5-6.7-8,1A,349,e-Mezidobí,32. neděle v mezidobí,A,50,125
+data/json/mezidobi/mezidobi_32_B.json,32. neděle v mezidobí B,,matched,exact,,737,Ps146_05,ID_0736,Žl 146(145),6c-7.8-9a.9bc-10,1B,309,e-Mezidobí,32. neděle v mezidobí,B,31,295
+data/json/mezidobi/mezidobi_32_C.json,32. neděle v mezidobí C,,matched,exact,,738,Ps017_01,ID_0737,Žl 17(16),1.5-6.8+15,1C,327,e-Mezidobí,32. neděle v mezidobí,C,52,21
+data/json/mezidobi/mezidobi_33_A.json,33. neděle v mezidobí A,,matched,exact,,751,Ps128_01,ID_0750,Žl 128(127),1-2.3.4-5,1A,352,e-Mezidobí,33. neděle v mezidobí,A,11,266
+data/json/mezidobi/mezidobi_33_B.json,33. neděle v mezidobí B,,matched,exact,,752,Ps016_03,ID_0751,Žl 16(15),5+8.9-10.11,1B,312,e-Mezidobí,33. neděle v mezidobí,B,33,20
+data/json/mezidobi/mezidobi_33_C.json,33. neděle v mezidobí C,,matched,exact,,753,Ps098_12,ID_0752,Žl 98(97),5-6.7-8.9,1C,330,e-Mezidobí,33. neděle v mezidobí,C,43,192
+data/json/o_svatych/o_apostolech_a_evangelistech.json,O apoštolech a evangelistech,,unmatched,manual,V CSV není nalezen přímý společný formulář tohoto názvu.,,,,,,,,,,,,
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1125,Ps106_03,ID_1124,Žl 106(105),19-20.21-22.23,5,106,g-Společné,O duchovních pastýřích mimo dobu velikonoční - První čtení - 1,,57,
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1126,Ps016_01,ID_1125,Žl 16(15),1-2a+5.7-8.11,5,107,g-Společné,O duchovních pastýřích mimo dobu velikonoční - První čtení - 2,,45,19
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1127,Ps089_04,ID_1126,Žl 89(88),2-3.4-5.21-22.25+27,5,109,g-Společné,O duchovních pastýřích mimo dobu velikonoční - První čtení - 3,,9,162
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1128,Ps040_03,ID_1127,Žl 40(39),2+4ab.7-8a.8b-9.10,5,110,g-Společné,O duchovních pastýřích mimo dobu velikonoční - První čtení - 4,,45,89
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1129,Ps096_09,ID_1128,Žl 96(95),1-2a.2b-3.7-8a.10,5,112,g-Společné,O duchovních pastýřích mimo dobu velikonoční - První čtení - 5,,54,180
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1130,Ps089_04,ID_1129,Žl 89(88),2-3.4-5.21-22.25+27,5,113,g-Společné,O duchovních pastýřích mimo dobu velikonoční - První čtení - 6,,9,162
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1131,Ps096_09,ID_1130,Žl 96(95),1-2a.2b-3.7-8a.10,5,114,g-Společné,O duchovních pastýřích mimo dobu velikonoční - První čtení - 7,,54,180
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1132,Ps117_01,ID_1131,Žl 117(116),1.2,5,116,g-Společné,O duchovních pastýřích mimo dobu velikonoční - První čtení - 8,,42,
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1133,Ps117_02,ID_1132,Žl 117(116),1.2,5,116,g-Společné,O duchovních pastýřích mimo dobu velikonoční - První čtení - 8,,54,233
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1134,Ps023_01,ID_1133,Žl 23(22),1-3.4.5.6,5,117,g-Společné,O duchovních pastýřích mimo dobu velikonoční - První čtení - 9,,23,34
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1135,Ps117_01,ID_1134,Žl 117(116),1.2,5,118,g-Společné,O duchovních pastýřích v době velikonoční - První čtení - 1,,42,
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1136,Ps110_01,ID_1135,Žl 110(109),1.2.3.4,5,119,g-Společné,O duchovních pastýřích v době velikonoční - První čtení - 2,,63,218
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1137,Ps110_02,ID_1136,Žl 110(109),1.2.3.4,5,119,g-Společné,O duchovních pastýřích v době velikonoční - První čtení - 2,,42,219
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1138,Ps117_01,ID_1137,Žl 117(116),1.2,5,121,g-Společné,O duchovních pastýřích v době velikonoční - První čtení - 3,,42,
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1139,Ps016_01,ID_1138,Žl 16(15),1-2a+5.7-8.11,KB,19,g-Společné,O duchovních pastýřích KB,,45,19
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1140,Ps023_01,ID_1139,Žl 23(22),1-3.4.5.6,KB,34,g-Společné,O duchovních pastýřích KB,,23,34
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1141,Ps040_03,ID_1140,Žl 40(39),2+4ab.7-8a.8b-9.10,KB,89,g-Společné,O duchovních pastýřích KB,,45,89
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1142,Ps089_04,ID_1141,Žl 89(88),2-3.4-5.21-22.25+27,KB,162,g-Společné,O duchovních pastýřích KB,,9,162
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1143,Ps096_09,ID_1142,Žl 96(95),1-2a.2b-3.7-8a.10,KB,180,g-Společné,O duchovních pastýřích KB,,54,180
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1144,Ps096_10,ID_1143,Žl 96(95),1-2a.2b-3.7-8a.10,KB,180,g-Společné,O duchovních pastýřích KB,,55,180
+data/json/o_svatych/o_duchovnich_pastyrich.json,O duchovních pastýřích,,matched,manual,,1145,Ps117_02,ID_1144,Žl 117(116),1.2,KB,233,g-Společné,O duchovních pastýřích KB,,54,233
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1109,Ps031_07,ID_1108,Žl 31(30),3cd-4.6+8ab.16bc-17,5,77,g-Společné,O mučednících mimo dobu velikonoční - První čtení - 1,,65,60
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1110,Ps034_09,ID_1109,Žl 34(33),2-3.4-5.6-7.8-9,5,78,g-Společné,O mučednících mimo dobu velikonoční - První čtení - 2,,11,74
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1111,Ps034_11,ID_1110,Žl 34(33),2-3.4-5.6-7.8-9,5,78,g-Společné,O mučednících mimo dobu velikonoční - První čtení - 2,,49,74
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1112,Ps124_02,ID_1111,Žl 124(123),2-3.4-5.7b-8,5,80,g-Společné,O mučednících mimo dobu velikonoční - První čtení - 3,,20,262
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1113,Ps031_07,ID_1112,Žl 31(30),3cd-4.6+8ab.16bc-17,5,82,g-Společné,O mučednících mimo dobu velikonoční - První čtení - 4,,65,60
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1114,Ps126_01,ID_1113,Žl 126(125),1-2ab.2cd-3.4-5.6,5,83,g-Společné,O mučednících mimo dobu velikonoční - První čtení - 5,,5,263
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1115,Ps124_02,ID_1114,Žl 124(123),2-3.4-5.7b-8,5,85,g-Společné,O mučednících mimo dobu velikonoční - První čtení - 6,,20,262
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1116,Ps031_07,ID_1115,Žl 31(30),3cd-4.6+8ab.16bc-17,5,86,g-Společné,O mučednících v době velikonoční - První čtení - 1,,65,60
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1117,Ps124_03,ID_1116,Žl 124(123),2-3.4-5.7b-8,5,88,g-Společné,O mučednících v době velikonoční - První čtení - 2,,76,
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1118,Ps034_09,ID_1117,Žl 34(33),2-3.4-5.6-7.8-9,5,89,g-Společné,O mučednících v době velikonoční - První čtení - 3,,11,74
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1119,Ps034_11,ID_1118,Žl 34(33),2-3.4-5.6-7.8-9,5,89,g-Společné,O mučednících v době velikonoční - První čtení - 3,,49,74
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1120,Ps126_02,ID_1119,Žl 126(125),1-2ab.2cd-3.4-5.6,5,91,g-Společné,O mučednících v době velikonoční - První čtení - 4,,42,263
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1121,Ps031_07,ID_1120,Žl 31(30),3cd-4.6+8ab.16bc-17,KB,60,g-Společné,O mučednících KB,,65,60
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1122,Ps034_09,ID_1121,Žl 34(33),2-3.4-5.6-7.8-9,KB,74,g-Společné,O mučednících KB,,11,74
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1123,Ps124_02,ID_1122,Žl 124(123),2-3.4-5.7b-8,KB,262,g-Společné,O mučednících KB,,20,262
+data/json/o_svatych/o_mucednicich.json,O mučednících,,matched,manual,,1124,Ps126_02,ID_1123,Žl 126(125),1-2ab.2cd-3.4-5.6,KB,263,g-Společné,O mučednících KB,,42,263
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1156,Ps148_02,ID_1155,Žl 148,1-2.11-13a.13c-14,5,163,g-Společné,O pannách mimo dobu velikonoční - První čtení - 1,,43,300
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1157,Ps045_04,ID_1156,Žl 45(44),11-12.14-15.16-17,5,165,g-Společné,O pannách mimo dobu velikonoční - První čtení - 2,,71,101
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1158,Ps045_05,ID_1157,Žl 45(44),11-12.14-15.16-17,5,165,g-Společné,O pannách mimo dobu velikonoční - První čtení - 2,,71,103
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1159,Ps148_03,ID_1158,Žl 148,1-2.11-13a.13c-14,5,166,g-Společné,O pannách v době velikonoční - První čtení - 1,,42,301
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1160,Ps045_04,ID_1159,Žl 45(44),11-12.14-15.16-17,5,167,g-Společné,O pannách v době velikonoční - První čtení - 2,,71,101
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1161,Ps045_05,ID_1160,Žl 45(44),11-12.14-15.16-17,5,167,g-Společné,O pannách v době velikonoční - První čtení - 2,,71,103
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1162,Ps045_04,ID_1161,Žl 45(44),11-12.14-15.16-17,KB,101,g-Společné,O pannách KB,,71,101
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1163,Ps045_06,ID_1162,Žl 45(44),11-12.14-15.16-17,KB,102,g-Společné,O pannách KB,,42,102
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1164,Ps045_10,ID_1163,Žl 45(44),11-12.14-15.16-17,KB,102,g-Společné,O pannách KB,,43,102
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1165,Ps045_05,ID_1164,Žl 45(44),11-12.14-15.16-17,KB,103,g-Společné,O pannách KB,,71,103
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1166,Ps148_02,ID_1165,Žl 148,1-2.11-13a.13c-14,KB,300,g-Společné,O pannách KB,,43,300
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1167,Ps148_03,ID_1166,Žl 148,1-2.11-13a.13c-14,KB,301,g-Společné,O pannách KB,,42,301
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1168,Ps148_04,ID_1167,Žl 148,1-2.11-13a.13c-14,KB,302,g-Společné,O pannách KB,,7,302
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1169,Ps148_05,ID_1168,Žl 148,1-2.11-13a.13c-14,KB,302,g-Společné,O pannách KB,,71,302
+data/json/o_svatych/o_pannach.json,O pannách,,matched,manual,,1170,Ps148_06,ID_1169,Žl 148,1-2.11-13b.13c-14,KB,303,g-Společné,O pannách KB,,39,303
+data/json/o_svatych/o_panne_marii_1.json,O Panně Marii I.,,matched,manual,,1085,Jdt13_01,ID_1084,Jdt 13,18bcde.19,5,39,g-Společné,O Panně Marii mimo dobu velikonoční - 1,,64,309
+data/json/o_svatych/o_panne_marii_1.json,O Panně Marii I.,,matched,manual,,1086,Lk1_02,ID_1085,Lk 1,46-48a.48b-49.50-51.52-53.54-55,5,40,g-Společné,O Panně Marii mimo dobu velikonoční - 2,,6,316
+data/json/o_svatych/o_panne_marii_1.json,O Panně Marii I.,,matched,manual,,1087,1Sam2_01,ID_1086,1 Sam 2,1.4-5.6-7.8abcd,5,42,g-Společné,O Panně Marii mimo dobu velikonoční - 3,,58,306
+data/json/o_svatych/o_panne_marii_1.json,O Panně Marii I.,,matched,manual,,1088,Ps113_03,ID_1087,Žl 113(112),1-2.3-4.5-6.7-8,5,43,g-Společné,O Panně Marii mimo dobu velikonoční - 4,,78,
+data/json/o_svatych/o_panne_marii_1.json,O Panně Marii I.,,matched,manual,,1089,Ps045_07,ID_1088,Žl 45(44),11-12.14-15.16-17,5,45,g-Společné,O Panně Marii mimo dobu velikonoční - 5,,67,101
+data/json/o_svatych/o_panne_marii_1.json,O Panně Marii I.,,matched,manual,,1090,Ps045_08,ID_1089,Žl 45(44),11-12.14-15.16-17,5,45,g-Společné,O Panně Marii mimo dobu velikonoční - 5,,67,103
+data/json/o_svatych/o_panne_marii_1.json,O Panně Marii I.,,matched,manual,,1091,Ps045_07,ID_1090,Žl 45(44),11-12.14-15.16-17,5,47,g-Společné,O Panně Marii mimo dobu velikonoční - 6,,67,101
+data/json/o_svatych/o_panne_marii_1.json,O Panně Marii I.,,matched,manual,,1092,Ps045_08,ID_1091,Žl 45(44),11-12.14-15.16-17,5,47,g-Společné,O Panně Marii mimo dobu velikonoční - 6,,67,103
+data/json/o_svatych/o_panne_marii_1.json,O Panně Marii I.,,matched,manual,,1093,1Sam2_01,ID_1092,1 Sam 2,1.4-5.6-7.8abcd,5,48,g-Společné,O Panně Marii mimo dobu velikonoční - 7,,58,306
+data/json/o_svatych/o_panne_marii_1.json,O Panně Marii I.,,matched,manual,,1094,Ps113_02,ID_1093,Žl 113(112),1-2.3-4.5-6.7-8,5,50,g-Společné,O Panně Marii mimo dobu velikonoční - 8,,58,224
+data/json/o_svatych/o_panne_marii_1.json,O Panně Marii I.,,matched,manual,,1095,1Sam2_01,ID_1094,1 Sam 2,1.4-5.6-7.8abcd,5,52,g-Společné,O Panně Marii mimo dobu velikonoční - 9,,58,306
+data/json/o_svatych/o_panne_marii_1.json,O Panně Marii I.,,matched,manual,,1096,Ps113_03,ID_1095,Žl 113(112),1-2.3-4.5-6.7-8,5,53,g-Společné,O Panně Marii mimo dobu velikonoční - 10,,78,
+data/json/o_svatych/o_panne_marii_1.json,O Panně Marii I.,,matched,manual,,1097,Lk1_02,ID_1096,Lk 1,46-48a.48b-49.50-51.52-53.54-55,5,55,g-Společné,O Panně Marii mimo dobu velikonoční - 11,,6,316
+data/json/o_svatych/o_panne_marii_2.json,O Panně Marii II.,,matched,manual,,1085,Jdt13_01,ID_1084,Jdt 13,18bcde.19,5,39,g-Společné,O Panně Marii mimo dobu velikonoční - 1,,64,309
+data/json/o_svatych/o_panne_marii_2.json,O Panně Marii II.,,matched,manual,,1086,Lk1_02,ID_1085,Lk 1,46-48a.48b-49.50-51.52-53.54-55,5,40,g-Společné,O Panně Marii mimo dobu velikonoční - 2,,6,316
+data/json/o_svatych/o_panne_marii_2.json,O Panně Marii II.,,matched,manual,,1087,1Sam2_01,ID_1086,1 Sam 2,1.4-5.6-7.8abcd,5,42,g-Společné,O Panně Marii mimo dobu velikonoční - 3,,58,306
+data/json/o_svatych/o_panne_marii_2.json,O Panně Marii II.,,matched,manual,,1088,Ps113_03,ID_1087,Žl 113(112),1-2.3-4.5-6.7-8,5,43,g-Společné,O Panně Marii mimo dobu velikonoční - 4,,78,
+data/json/o_svatych/o_panne_marii_2.json,O Panně Marii II.,,matched,manual,,1089,Ps045_07,ID_1088,Žl 45(44),11-12.14-15.16-17,5,45,g-Společné,O Panně Marii mimo dobu velikonoční - 5,,67,101
+data/json/o_svatych/o_panne_marii_2.json,O Panně Marii II.,,matched,manual,,1090,Ps045_08,ID_1089,Žl 45(44),11-12.14-15.16-17,5,45,g-Společné,O Panně Marii mimo dobu velikonoční - 5,,67,103
+data/json/o_svatych/o_panne_marii_2.json,O Panně Marii II.,,matched,manual,,1091,Ps045_07,ID_1090,Žl 45(44),11-12.14-15.16-17,5,47,g-Společné,O Panně Marii mimo dobu velikonoční - 6,,67,101
+data/json/o_svatych/o_panne_marii_2.json,O Panně Marii II.,,matched,manual,,1092,Ps045_08,ID_1091,Žl 45(44),11-12.14-15.16-17,5,47,g-Společné,O Panně Marii mimo dobu velikonoční - 6,,67,103
+data/json/o_svatych/o_panne_marii_2.json,O Panně Marii II.,,matched,manual,,1093,1Sam2_01,ID_1092,1 Sam 2,1.4-5.6-7.8abcd,5,48,g-Společné,O Panně Marii mimo dobu velikonoční - 7,,58,306
+data/json/o_svatych/o_panne_marii_2.json,O Panně Marii II.,,matched,manual,,1094,Ps113_02,ID_1093,Žl 113(112),1-2.3-4.5-6.7-8,5,50,g-Společné,O Panně Marii mimo dobu velikonoční - 8,,58,224
+data/json/o_svatych/o_panne_marii_2.json,O Panně Marii II.,,matched,manual,,1095,1Sam2_01,ID_1094,1 Sam 2,1.4-5.6-7.8abcd,5,52,g-Společné,O Panně Marii mimo dobu velikonoční - 9,,58,306
+data/json/o_svatych/o_panne_marii_2.json,O Panně Marii II.,,matched,manual,,1096,Ps113_03,ID_1095,Žl 113(112),1-2.3-4.5-6.7-8,5,53,g-Společné,O Panně Marii mimo dobu velikonoční - 10,,78,
+data/json/o_svatych/o_panne_marii_2.json,O Panně Marii II.,,matched,manual,,1097,Lk1_02,ID_1096,Lk 1,46-48a.48b-49.50-51.52-53.54-55,5,55,g-Společné,O Panně Marii mimo dobu velikonoční - 11,,6,316
+data/json/o_svatych/o_panne_marii_advent.json,O Panně Marii v době adventní,,matched,manual,,1085,Jdt13_01,ID_1084,Jdt 13,18bcde.19,5,39,g-Společné,O Panně Marii mimo dobu velikonoční - 1,,64,309
+data/json/o_svatych/o_panne_marii_advent.json,O Panně Marii v době adventní,,matched,manual,,1086,Lk1_02,ID_1085,Lk 1,46-48a.48b-49.50-51.52-53.54-55,5,40,g-Společné,O Panně Marii mimo dobu velikonoční - 2,,6,316
+data/json/o_svatych/o_panne_marii_advent.json,O Panně Marii v době adventní,,matched,manual,,1087,1Sam2_01,ID_1086,1 Sam 2,1.4-5.6-7.8abcd,5,42,g-Společné,O Panně Marii mimo dobu velikonoční - 3,,58,306
+data/json/o_svatych/o_panne_marii_advent.json,O Panně Marii v době adventní,,matched,manual,,1088,Ps113_03,ID_1087,Žl 113(112),1-2.3-4.5-6.7-8,5,43,g-Společné,O Panně Marii mimo dobu velikonoční - 4,,78,
+data/json/o_svatych/o_panne_marii_advent.json,O Panně Marii v době adventní,,matched,manual,,1089,Ps045_07,ID_1088,Žl 45(44),11-12.14-15.16-17,5,45,g-Společné,O Panně Marii mimo dobu velikonoční - 5,,67,101
+data/json/o_svatych/o_panne_marii_advent.json,O Panně Marii v době adventní,,matched,manual,,1090,Ps045_08,ID_1089,Žl 45(44),11-12.14-15.16-17,5,45,g-Společné,O Panně Marii mimo dobu velikonoční - 5,,67,103
+data/json/o_svatych/o_panne_marii_advent.json,O Panně Marii v době adventní,,matched,manual,,1091,Ps045_07,ID_1090,Žl 45(44),11-12.14-15.16-17,5,47,g-Společné,O Panně Marii mimo dobu velikonoční - 6,,67,101
+data/json/o_svatych/o_panne_marii_advent.json,O Panně Marii v době adventní,,matched,manual,,1092,Ps045_08,ID_1091,Žl 45(44),11-12.14-15.16-17,5,47,g-Společné,O Panně Marii mimo dobu velikonoční - 6,,67,103
+data/json/o_svatych/o_panne_marii_advent.json,O Panně Marii v době adventní,,matched,manual,,1093,1Sam2_01,ID_1092,1 Sam 2,1.4-5.6-7.8abcd,5,48,g-Společné,O Panně Marii mimo dobu velikonoční - 7,,58,306
+data/json/o_svatych/o_panne_marii_advent.json,O Panně Marii v době adventní,,matched,manual,,1094,Ps113_02,ID_1093,Žl 113(112),1-2.3-4.5-6.7-8,5,50,g-Společné,O Panně Marii mimo dobu velikonoční - 8,,58,224
+data/json/o_svatych/o_panne_marii_advent.json,O Panně Marii v době adventní,,matched,manual,,1095,1Sam2_01,ID_1094,1 Sam 2,1.4-5.6-7.8abcd,5,52,g-Společné,O Panně Marii mimo dobu velikonoční - 9,,58,306
+data/json/o_svatych/o_panne_marii_advent.json,O Panně Marii v době adventní,,matched,manual,,1096,Ps113_03,ID_1095,Žl 113(112),1-2.3-4.5-6.7-8,5,53,g-Společné,O Panně Marii mimo dobu velikonoční - 10,,78,
+data/json/o_svatych/o_panne_marii_advent.json,O Panně Marii v době adventní,,matched,manual,,1097,Lk1_02,ID_1096,Lk 1,46-48a.48b-49.50-51.52-53.54-55,5,55,g-Společné,O Panně Marii mimo dobu velikonoční - 11,,6,316
+data/json/o_svatych/o_panne_marii_pust.json,O Panně Marii v době postní,,matched,manual,,1085,Jdt13_01,ID_1084,Jdt 13,18bcde.19,5,39,g-Společné,O Panně Marii mimo dobu velikonoční - 1,,64,309
+data/json/o_svatych/o_panne_marii_pust.json,O Panně Marii v době postní,,matched,manual,,1086,Lk1_02,ID_1085,Lk 1,46-48a.48b-49.50-51.52-53.54-55,5,40,g-Společné,O Panně Marii mimo dobu velikonoční - 2,,6,316
+data/json/o_svatych/o_panne_marii_pust.json,O Panně Marii v době postní,,matched,manual,,1087,1Sam2_01,ID_1086,1 Sam 2,1.4-5.6-7.8abcd,5,42,g-Společné,O Panně Marii mimo dobu velikonoční - 3,,58,306
+data/json/o_svatych/o_panne_marii_pust.json,O Panně Marii v době postní,,matched,manual,,1088,Ps113_03,ID_1087,Žl 113(112),1-2.3-4.5-6.7-8,5,43,g-Společné,O Panně Marii mimo dobu velikonoční - 4,,78,
+data/json/o_svatych/o_panne_marii_pust.json,O Panně Marii v době postní,,matched,manual,,1089,Ps045_07,ID_1088,Žl 45(44),11-12.14-15.16-17,5,45,g-Společné,O Panně Marii mimo dobu velikonoční - 5,,67,101
+data/json/o_svatych/o_panne_marii_pust.json,O Panně Marii v době postní,,matched,manual,,1090,Ps045_08,ID_1089,Žl 45(44),11-12.14-15.16-17,5,45,g-Společné,O Panně Marii mimo dobu velikonoční - 5,,67,103
+data/json/o_svatych/o_panne_marii_pust.json,O Panně Marii v době postní,,matched,manual,,1091,Ps045_07,ID_1090,Žl 45(44),11-12.14-15.16-17,5,47,g-Společné,O Panně Marii mimo dobu velikonoční - 6,,67,101
+data/json/o_svatych/o_panne_marii_pust.json,O Panně Marii v době postní,,matched,manual,,1092,Ps045_08,ID_1091,Žl 45(44),11-12.14-15.16-17,5,47,g-Společné,O Panně Marii mimo dobu velikonoční - 6,,67,103
+data/json/o_svatych/o_panne_marii_pust.json,O Panně Marii v době postní,,matched,manual,,1093,1Sam2_01,ID_1092,1 Sam 2,1.4-5.6-7.8abcd,5,48,g-Společné,O Panně Marii mimo dobu velikonoční - 7,,58,306
+data/json/o_svatych/o_panne_marii_pust.json,O Panně Marii v době postní,,matched,manual,,1094,Ps113_02,ID_1093,Žl 113(112),1-2.3-4.5-6.7-8,5,50,g-Společné,O Panně Marii mimo dobu velikonoční - 8,,58,224
+data/json/o_svatych/o_panne_marii_pust.json,O Panně Marii v době postní,,matched,manual,,1095,1Sam2_01,ID_1094,1 Sam 2,1.4-5.6-7.8abcd,5,52,g-Společné,O Panně Marii mimo dobu velikonoční - 9,,58,306
+data/json/o_svatych/o_panne_marii_pust.json,O Panně Marii v době postní,,matched,manual,,1096,Ps113_03,ID_1095,Žl 113(112),1-2.3-4.5-6.7-8,5,53,g-Společné,O Panně Marii mimo dobu velikonoční - 10,,78,
+data/json/o_svatych/o_panne_marii_pust.json,O Panně Marii v době postní,,matched,manual,,1097,Lk1_02,ID_1096,Lk 1,46-48a.48b-49.50-51.52-53.54-55,5,55,g-Společné,O Panně Marii mimo dobu velikonoční - 11,,6,316
+data/json/o_svatych/o_panne_marii_vanoce.json,O Panně Marii v době vánoční,,matched,manual,,1085,Jdt13_01,ID_1084,Jdt 13,18bcde.19,5,39,g-Společné,O Panně Marii mimo dobu velikonoční - 1,,64,309
+data/json/o_svatych/o_panne_marii_vanoce.json,O Panně Marii v době vánoční,,matched,manual,,1086,Lk1_02,ID_1085,Lk 1,46-48a.48b-49.50-51.52-53.54-55,5,40,g-Společné,O Panně Marii mimo dobu velikonoční - 2,,6,316
+data/json/o_svatych/o_panne_marii_vanoce.json,O Panně Marii v době vánoční,,matched,manual,,1087,1Sam2_01,ID_1086,1 Sam 2,1.4-5.6-7.8abcd,5,42,g-Společné,O Panně Marii mimo dobu velikonoční - 3,,58,306
+data/json/o_svatych/o_panne_marii_vanoce.json,O Panně Marii v době vánoční,,matched,manual,,1088,Ps113_03,ID_1087,Žl 113(112),1-2.3-4.5-6.7-8,5,43,g-Společné,O Panně Marii mimo dobu velikonoční - 4,,78,
+data/json/o_svatych/o_panne_marii_vanoce.json,O Panně Marii v době vánoční,,matched,manual,,1089,Ps045_07,ID_1088,Žl 45(44),11-12.14-15.16-17,5,45,g-Společné,O Panně Marii mimo dobu velikonoční - 5,,67,101
+data/json/o_svatych/o_panne_marii_vanoce.json,O Panně Marii v době vánoční,,matched,manual,,1090,Ps045_08,ID_1089,Žl 45(44),11-12.14-15.16-17,5,45,g-Společné,O Panně Marii mimo dobu velikonoční - 5,,67,103
+data/json/o_svatych/o_panne_marii_vanoce.json,O Panně Marii v době vánoční,,matched,manual,,1091,Ps045_07,ID_1090,Žl 45(44),11-12.14-15.16-17,5,47,g-Společné,O Panně Marii mimo dobu velikonoční - 6,,67,101
+data/json/o_svatych/o_panne_marii_vanoce.json,O Panně Marii v době vánoční,,matched,manual,,1092,Ps045_08,ID_1091,Žl 45(44),11-12.14-15.16-17,5,47,g-Společné,O Panně Marii mimo dobu velikonoční - 6,,67,103
+data/json/o_svatych/o_panne_marii_vanoce.json,O Panně Marii v době vánoční,,matched,manual,,1093,1Sam2_01,ID_1092,1 Sam 2,1.4-5.6-7.8abcd,5,48,g-Společné,O Panně Marii mimo dobu velikonoční - 7,,58,306
+data/json/o_svatych/o_panne_marii_vanoce.json,O Panně Marii v době vánoční,,matched,manual,,1094,Ps113_02,ID_1093,Žl 113(112),1-2.3-4.5-6.7-8,5,50,g-Společné,O Panně Marii mimo dobu velikonoční - 8,,58,224
+data/json/o_svatych/o_panne_marii_vanoce.json,O Panně Marii v době vánoční,,matched,manual,,1095,1Sam2_01,ID_1094,1 Sam 2,1.4-5.6-7.8abcd,5,52,g-Společné,O Panně Marii mimo dobu velikonoční - 9,,58,306
+data/json/o_svatych/o_panne_marii_vanoce.json,O Panně Marii v době vánoční,,matched,manual,,1096,Ps113_03,ID_1095,Žl 113(112),1-2.3-4.5-6.7-8,5,53,g-Společné,O Panně Marii mimo dobu velikonoční - 10,,78,
+data/json/o_svatych/o_panne_marii_vanoce.json,O Panně Marii v době vánoční,,matched,manual,,1097,Lk1_02,ID_1096,Lk 1,46-48a.48b-49.50-51.52-53.54-55,5,55,g-Společné,O Panně Marii mimo dobu velikonoční - 11,,6,316
+data/json/o_svatych/o_panne_marii_velikonoce.json,O Panně Marii v době velikonoční,,matched,manual,,1098,Lk1_02,ID_1097,Lk 1,46-48a.48b-49.50-51.52-53.54-55,5,56,g-Společné,O Panně Marii v době velikonoční - první čtení - 1,,6,316
+data/json/o_svatych/o_panne_marii_velikonoce.json,O Panně Marii v době velikonoční,,matched,manual,,1099,Ps045_06,ID_1098,Žl 45(44),11-12.14-15.16-17,5,58,g-Společné,O Panně Marii v době velikonoční - první čtení - 2,,42,102
+data/json/o_svatych/o_panne_marii_velikonoce.json,O Panně Marii v době velikonoční,,matched,manual,,1100,Jdt13_01,ID_1099,Jdt 13,18bcde.19,5,59,g-Společné,O Panně Marii v době velikonoční - první čtení - 3,,64,309
+data/json/o_svatych/o_reholnicich.json,O řeholnících,,matched,manual,,1174,Ps016_01,ID_1173,Žl 16(15),1-2a+5.7-8.11,5,177,g-Společné,O svatých mimo dobu velikonoční - První čtení - 4 - O řeholnících,,45,19
+data/json/o_svatych/o_reholnicich.json,O řeholnících,,matched,manual,,1175,Ps015_01,ID_1174,Žl 15(14),2-3ab.3cd-4ab.5,5,179,g-Společné,O svatých mimo dobu velikonoční - První čtení - 5 - O řeholnících,,11,16
+data/json/o_svatych/o_reholnicich.json,O řeholnících,,matched,manual,,1176,Ps016_01,ID_1175,Žl 16(15),1-2a+5.7-8.11,5,180,g-Společné,O svatých mimo dobu velikonoční - První čtení - 6 - O řeholnících,,45,19
+data/json/o_svatych/o_reholnicich.json,O řeholnících,,matched,manual,,1190,Ps016_01,ID_1189,Žl 16(15),1-2a+5.7-8.11,5,201,g-Společné,O svatých v době velikonoční - První čtení - 1 - O řeholnících,,45,19
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1171,Ps016_01,ID_1170,Žl 16(15),1-2a+5.7-8.11,5,173,g-Společné,O svatých mimo dobu velikonoční - První čtení - 1,,45,19
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1172,Ps015_01,ID_1171,Žl 15(14),2-3ab.3cd-4ab.5,5,174,g-Společné,O svatých mimo dobu velikonoční - První čtení - 2,,11,16
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1173,Ps112_03,ID_1172,Žl 112(111),1-2.3-4.5-6.7-8.9,5,176,g-Společné,O svatých mimo dobu velikonoční - První čtení - 3,,11,220
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1174,Ps016_01,ID_1173,Žl 16(15),1-2a+5.7-8.11,5,177,g-Společné,O svatých mimo dobu velikonoční - První čtení - 4 - O řeholnících,,45,19
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1175,Ps015_01,ID_1174,Žl 15(14),2-3ab.3cd-4ab.5,5,179,g-Společné,O svatých mimo dobu velikonoční - První čtení - 5 - O řeholnících,,11,16
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1176,Ps016_01,ID_1175,Žl 16(15),1-2a+5.7-8.11,5,180,g-Společné,O svatých mimo dobu velikonoční - První čtení - 6 - O řeholnících,,45,19
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1177,Ps128_01,ID_1176,Žl 128(127),1-2.3.4-5,5,182,g-Společné,O svatých mimo dobu velikonoční - První čtení - 7,,11,266
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1178,Ps103_09,ID_1177,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,5,183,g-Společné,"O svatých mimo dobu velikonoční - První čtení - 8 - O svatých, kteří vynikali milosrdnými skutky",,31,200
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1179,Ps103_23,ID_1178,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,5,183,g-Společné,"O svatých mimo dobu velikonoční - První čtení - 8 - O svatých, kteří vynikali milosrdnými skutky",,17,200
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1180,Ps131_01,ID_1179,Žl 131(130),01.02.2003,5,185,g-Společné,O svatých mimo dobu velikonoční - První čtení - 9 - O vdovách,,59,271
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1181,Ps034_17,ID_1180,Žl 34(33),2-3.4-5.6-7.8-9.10-11,5,187,g-Společné,O svatých mimo dobu velikonoční - První čtení - 10,,49,76
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1182,Ps131_01,ID_1181,Žl 131(130),01.02.2003,5,189,g-Společné,O svatých mimo dobu velikonoční - První čtení - 11,,59,271
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1183,Ps112_03,ID_1182,Žl 112(111),1-2.3-4.5-6.7-8.9,5,190,g-Společné,O svatých mimo dobu velikonoční - První čtení - 12,,11,220
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1184,Ps131_01,ID_1183,Žl 131(130),01.02.2003,5,192,g-Společné,O svatých mimo dobu velikonoční - První čtení - 13,,59,271
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1185,Ps128_01,ID_1184,Žl 128(127),1-2.3.4-5,5,193,g-Společné,O svatých mimo dobu velikonoční - První čtení - 14,,11,266
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1186,Ps112_05,ID_1185,Žl 112(111),1-2.3-4.5-6.7-8.9,5,195,g-Společné,"O svatých mimo dobu velikonoční - První čtení - 15 - O svatých, kteří vynikali milosrdnými skutky",,11,221
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1187,Ps016_01,ID_1186,Žl 16(15),1-2a+5.7-8.11,5,197,g-Společné,O svatých mimo dobu velikonoční - První čtení - 16,,45,19
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1188,Ps001_01,ID_1187,Žl 1,1-2.3.4+6,5,198,g-Společné,O svatých mimo dobu velikonoční - První čtení - 17,,11,9
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1189,Ps034_15,ID_1188,Žl 34(33),2-3.4-5.6-7.8-9.10-11,5,199,g-Společné,O svatých mimo dobu velikonoční - První čtení - 18,,25,77
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1190,Ps016_01,ID_1189,Žl 16(15),1-2a+5.7-8.11,5,201,g-Společné,O svatých v době velikonoční - První čtení - 1 - O řeholnících,,45,19
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1191,Ps023_01,ID_1190,Žl 23(22),1-3.4.5.6,5,202,g-Společné,O svatých v době velikonoční - První čtení - 2,,23,34
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1192,Ps103_09,ID_1191,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,5,204,g-Společné,O svatých v době velikonoční - První čtení - 3,,31,200
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1193,Ps103_23,ID_1192,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,5,204,g-Společné,O svatých v době velikonoční - První čtení - 3,,17,200
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1194,Ps034_15,ID_1193,Žl 34(33),2-3.4-5.6-7.8-9.10-11,5,205,g-Společné,O svatých v době velikonoční - První čtení - 4,,25,77
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1195,Ps001_01,ID_1194,Žl 1,1-2.3.4+6,KB,9,g-Společné,O svatých KB,,11,9
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1196,Ps001_02,ID_1195,Žl 1,1-2.3.4+6,KB,9,g-Společné,O svatých KB,,49,9
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1197,Ps015_01,ID_1196,Žl 15(14),2-3ab.3cd-4ab.5,KB,16,g-Společné,O svatých KB,,11,16
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1198,Ps016_01,ID_1197,Žl 16(15),1-2a+5.7-8.11,KB,19,g-Společné,O svatých KB,,45,19
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1199,Ps016_08,ID_1198,Žl 16(15),1-2a+5.7-8.11,KB,19,g-Společné,O svatých KB,,11,19
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1200,Ps023_01,ID_1199,Žl 23(22),1-3.4.5.6,KB,34,g-Společné,O svatých KB,,23,34
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1201,Ps034_16,ID_1200,Žl 34(33),2-3.4-5.6-7.8-9.10-11,KB,76,g-Společné,O svatých KB,,11,76
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1202,Ps034_17,ID_1201,Žl 34(33),2-3.4-5.6-7.8-9.10-11,KB,76,g-Společné,O svatých KB,,49,76
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1203,Ps034_15,ID_1202,Žl 34(33),2-3.4-5.6-7.8-9.10-11,KB,77,g-Společné,O svatých KB,,25,77
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1204,Ps103_09,ID_1203,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,KB,200,g-Společné,O svatých KB,,31,200
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1205,Ps103_23,ID_1204,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,KB,200,g-Společné,O svatých KB,,17,200
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1206,Ps112_03,ID_1205,Žl 112(111),1-2.3-4.5-6.7-8.9,KB,220,g-Společné,O svatých KB,,11,220
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1207,Ps112_05,ID_1206,Žl 112(111),1-2.3-4.5-6.7-8.9,KB,221,g-Společné,O svatých KB,,11,221
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1208,Ps128_01,ID_1207,Žl 128(127),1-2.3.4-5,KB,266,g-Společné,O svatých KB,,11,266
+data/json/o_svatych/o_svatych.json,O svatých,,matched,manual,,1209,Ps131_01,ID_1208,Žl 131(130),01.02.2003,KB,271,g-Společné,O svatých KB,,59,271
+data/json/o_svatych/o_svatych_milosrdnych.json,"O svatých, kteří vynikali milosrdnými skutky",,matched,manual,,1178,Ps103_09,ID_1177,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,5,183,g-Společné,"O svatých mimo dobu velikonoční - První čtení - 8 - O svatých, kteří vynikali milosrdnými skutky",,31,200
+data/json/o_svatych/o_svatych_milosrdnych.json,"O svatých, kteří vynikali milosrdnými skutky",,matched,manual,,1179,Ps103_23,ID_1178,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,5,183,g-Společné,"O svatých mimo dobu velikonoční - První čtení - 8 - O svatých, kteří vynikali milosrdnými skutky",,17,200
+data/json/o_svatych/o_svatych_milosrdnych.json,"O svatých, kteří vynikali milosrdnými skutky",,matched,manual,,1186,Ps112_05,ID_1185,Žl 112(111),1-2.3-4.5-6.7-8.9,5,195,g-Společné,"O svatých mimo dobu velikonoční - První čtení - 15 - O svatých, kteří vynikali milosrdnými skutky",,11,221
+data/json/o_svatych/o_ucitelich_cirkve.json,O učitelích církve,,matched,manual,,1146,Ps037_05,ID_1145,Žl 37(36),3-4.5-6.30-31,5,142,g-Společné,O učitelích církve mimo dobu velikonoční - První čtení - 1,,46,87
+data/json/o_svatych/o_ucitelich_cirkve.json,O učitelích církve,,matched,manual,,1147,Ps019_07,ID_1146,Žl 19(18),8.9.10.11,5,144,g-Společné,O učitelích církve mimo dobu velikonoční - První čtení - 2,,22,27
+data/json/o_svatych/o_ucitelich_cirkve.json,O učitelích církve,,matched,manual,,1148,Ps119_24,ID_1147,Žl 119(118),9.10.11.12.13.14,5,145,g-Společné,O učitelích církve mimo dobu velikonoční - První čtení - 3,,22,251
+data/json/o_svatych/o_ucitelich_cirkve.json,O učitelích církve,,matched,manual,,1149,Ps119_25,ID_1148,Žl 119(118),9.10.11.12.13.14,5,145,g-Společné,O učitelích církve mimo dobu velikonoční - První čtení - 3,,11,252
+data/json/o_svatych/o_ucitelich_cirkve.json,O učitelích církve,,matched,manual,,1150,Ps037_05,ID_1149,Žl 37(36),3-4.5-6.30-31,5,146,g-Společné,O učitelích církve mimo dobu velikonoční - První čtení - 4,,46,87
+data/json/o_svatych/o_ucitelich_cirkve.json,O učitelích církve,,matched,manual,,1151,Ps019_07,ID_1150,Žl 19(18),8.9.10.11,5,148,g-Společné,O učitelích církve v době velikonoční - První čtení - 1,,22,27
+data/json/o_svatych/o_ucitelich_cirkve.json,O učitelích církve,,matched,manual,,1152,Ps037_05,ID_1151,Žl 37(36),3-4.5-6.30-31,5,150,g-Společné,O učitelích církve v době velikonoční - První čtení - 2,,46,87
+data/json/o_svatych/o_ucitelich_cirkve.json,O učitelích církve,,matched,manual,,1153,Ps037_05,ID_1152,Žl 37(36),3-4.5-6.30-31,KB,,g-Společné,O učitelích církve KB,,46,87
+data/json/o_svatych/o_ucitelich_cirkve.json,O učitelích církve,,matched,manual,,1154,Ps119_24,ID_1153,Žl 119(118),9.10.11.12.13.14,KB,,g-Společné,O učitelích církve KB,,22,251
+data/json/o_svatych/o_ucitelich_cirkve.json,O učitelích církve,,matched,manual,,1155,Ps119_25,ID_1154,Žl 119(118),9.10.11.12.13.14,KB,,g-Společné,O učitelích církve KB,,11,252
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1171,Ps016_01,ID_1170,Žl 16(15),1-2a+5.7-8.11,5,173,g-Společné,O svatých mimo dobu velikonoční - První čtení - 1,,45,19
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1172,Ps015_01,ID_1171,Žl 15(14),2-3ab.3cd-4ab.5,5,174,g-Společné,O svatých mimo dobu velikonoční - První čtení - 2,,11,16
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1173,Ps112_03,ID_1172,Žl 112(111),1-2.3-4.5-6.7-8.9,5,176,g-Společné,O svatých mimo dobu velikonoční - První čtení - 3,,11,220
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1174,Ps016_01,ID_1173,Žl 16(15),1-2a+5.7-8.11,5,177,g-Společné,O svatých mimo dobu velikonoční - První čtení - 4 - O řeholnících,,45,19
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1175,Ps015_01,ID_1174,Žl 15(14),2-3ab.3cd-4ab.5,5,179,g-Společné,O svatých mimo dobu velikonoční - První čtení - 5 - O řeholnících,,11,16
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1176,Ps016_01,ID_1175,Žl 16(15),1-2a+5.7-8.11,5,180,g-Společné,O svatých mimo dobu velikonoční - První čtení - 6 - O řeholnících,,45,19
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1177,Ps128_01,ID_1176,Žl 128(127),1-2.3.4-5,5,182,g-Společné,O svatých mimo dobu velikonoční - První čtení - 7,,11,266
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1178,Ps103_09,ID_1177,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,5,183,g-Společné,"O svatých mimo dobu velikonoční - První čtení - 8 - O svatých, kteří vynikali milosrdnými skutky",,31,200
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1179,Ps103_23,ID_1178,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,5,183,g-Společné,"O svatých mimo dobu velikonoční - První čtení - 8 - O svatých, kteří vynikali milosrdnými skutky",,17,200
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1180,Ps131_01,ID_1179,Žl 131(130),01.02.2003,5,185,g-Společné,O svatých mimo dobu velikonoční - První čtení - 9 - O vdovách,,59,271
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1181,Ps034_17,ID_1180,Žl 34(33),2-3.4-5.6-7.8-9.10-11,5,187,g-Společné,O svatých mimo dobu velikonoční - První čtení - 10,,49,76
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1182,Ps131_01,ID_1181,Žl 131(130),01.02.2003,5,189,g-Společné,O svatých mimo dobu velikonoční - První čtení - 11,,59,271
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1183,Ps112_03,ID_1182,Žl 112(111),1-2.3-4.5-6.7-8.9,5,190,g-Společné,O svatých mimo dobu velikonoční - První čtení - 12,,11,220
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1184,Ps131_01,ID_1183,Žl 131(130),01.02.2003,5,192,g-Společné,O svatých mimo dobu velikonoční - První čtení - 13,,59,271
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1185,Ps128_01,ID_1184,Žl 128(127),1-2.3.4-5,5,193,g-Společné,O svatých mimo dobu velikonoční - První čtení - 14,,11,266
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1186,Ps112_05,ID_1185,Žl 112(111),1-2.3-4.5-6.7-8.9,5,195,g-Společné,"O svatých mimo dobu velikonoční - První čtení - 15 - O svatých, kteří vynikali milosrdnými skutky",,11,221
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1187,Ps016_01,ID_1186,Žl 16(15),1-2a+5.7-8.11,5,197,g-Společné,O svatých mimo dobu velikonoční - První čtení - 16,,45,19
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1188,Ps001_01,ID_1187,Žl 1,1-2.3.4+6,5,198,g-Společné,O svatých mimo dobu velikonoční - První čtení - 17,,11,9
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1189,Ps034_15,ID_1188,Žl 34(33),2-3.4-5.6-7.8-9.10-11,5,199,g-Společné,O svatých mimo dobu velikonoční - První čtení - 18,,25,77
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1190,Ps016_01,ID_1189,Žl 16(15),1-2a+5.7-8.11,5,201,g-Společné,O svatých v době velikonoční - První čtení - 1 - O řeholnících,,45,19
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1191,Ps023_01,ID_1190,Žl 23(22),1-3.4.5.6,5,202,g-Společné,O svatých v době velikonoční - První čtení - 2,,23,34
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1192,Ps103_09,ID_1191,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,5,204,g-Společné,O svatých v době velikonoční - První čtení - 3,,31,200
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1193,Ps103_23,ID_1192,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,5,204,g-Společné,O svatých v době velikonoční - První čtení - 3,,17,200
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1194,Ps034_15,ID_1193,Žl 34(33),2-3.4-5.6-7.8-9.10-11,5,205,g-Společné,O svatých v době velikonoční - První čtení - 4,,25,77
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1195,Ps001_01,ID_1194,Žl 1,1-2.3.4+6,KB,9,g-Společné,O svatých KB,,11,9
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1196,Ps001_02,ID_1195,Žl 1,1-2.3.4+6,KB,9,g-Společné,O svatých KB,,49,9
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1197,Ps015_01,ID_1196,Žl 15(14),2-3ab.3cd-4ab.5,KB,16,g-Společné,O svatých KB,,11,16
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1198,Ps016_01,ID_1197,Žl 16(15),1-2a+5.7-8.11,KB,19,g-Společné,O svatých KB,,45,19
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1199,Ps016_08,ID_1198,Žl 16(15),1-2a+5.7-8.11,KB,19,g-Společné,O svatých KB,,11,19
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1200,Ps023_01,ID_1199,Žl 23(22),1-3.4.5.6,KB,34,g-Společné,O svatých KB,,23,34
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1201,Ps034_16,ID_1200,Žl 34(33),2-3.4-5.6-7.8-9.10-11,KB,76,g-Společné,O svatých KB,,11,76
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1202,Ps034_17,ID_1201,Žl 34(33),2-3.4-5.6-7.8-9.10-11,KB,76,g-Společné,O svatých KB,,49,76
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1203,Ps034_15,ID_1202,Žl 34(33),2-3.4-5.6-7.8-9.10-11,KB,77,g-Společné,O svatých KB,,25,77
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1204,Ps103_09,ID_1203,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,KB,200,g-Společné,O svatých KB,,31,200
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1205,Ps103_23,ID_1204,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,KB,200,g-Společné,O svatých KB,,17,200
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1206,Ps112_03,ID_1205,Žl 112(111),1-2.3-4.5-6.7-8.9,KB,220,g-Společné,O svatých KB,,11,220
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1207,Ps112_05,ID_1206,Žl 112(111),1-2.3-4.5-6.7-8.9,KB,221,g-Společné,O svatých KB,,11,221
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1208,Ps128_01,ID_1207,Žl 128(127),1-2.3.4-5,KB,266,g-Společné,O svatých KB,,11,266
+data/json/o_svatych/o_vychovatelich.json,O vychovatelích,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1209,Ps131_01,ID_1208,Žl 131(130),01.02.2003,KB,271,g-Společné,O svatých KB,,59,271
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1065,Ps084_02,ID_1064,Žl 84(83),3.4.5+10.11,5,20,g-Společné,Při výročí posvěcení kostela - 1,,1,155
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1066,1Kron29_01,ID_1065,1 Kron 29,10bc.11abc.11d-12a.12bcd,5,21,g-Společné,Při výročí posvěcení kostela - 2,,72,307
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1067,Ps084_05,ID_1066,Žl 84(83),3.4.5+10.11,5,23,g-Společné,Při výročí posvěcení kostela - 3,,48,156
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1068,1Kron29_01,ID_1067,1 Kron 29,10bc.11abc.11d-12a.12bcd,5,24,g-Společné,Při výročí posvěcení kostela - 4,,72,307
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1069,Ps046_01,ID_1068,Žl 46(45),2-3.5-6.8-9,5,25,g-Společné,Při výročí posvěcení kostela - 5,,1,104
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1070,Ps095_04,ID_1069,Žl 95(94),1-2.3-5.6-7,5,27,g-Společné,Při výročí posvěcení kostela v době velikonoční – 1,,55,
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1071,Ps084_05,ID_1070,Žl 84(83),3.4.5+10.11,5,28,g-Společné,Při výročí posvěcení kostela v době velikonoční - 2,,48,156
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1072,Ps122_03,ID_1071,Žl 122(121),1-2.3-4.8-9,5,30,g-Společné,Při výročí posvěcení kostela v době velikonoční - 3,,1,256
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1073,Ps046_01,ID_1072,Žl 46(45),2-3.5-6.8-9,KB,104,g-Společné,Výroční den posvěcení kostela KB,,1,104
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1074,Ps084_02,ID_1073,Žl 84(83),3.4.5+10.11,KB,155,g-Společné,Výroční den posvěcení kostela KB,,1,155
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1075,Ps084_03,ID_1074,Žl 84(83),3.4.5+10.11,KB,155,g-Společné,Výroční den posvěcení kostela KB,,39,155
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1076,Ps084_04,ID_1075,Žl 84(83),3.4.5+10.11,KB,156,g-Společné,Výroční den posvěcení kostela KB,,39,156
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1077,Ps084_05,ID_1076,Žl 84(83),3.4.5+10.11,KB,156,g-Společné,Výroční den posvěcení kostela KB,,48,156
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1078,Ps084_06,ID_1077,Žl 84(83),3.4.5+10.11,KB,157,g-Společné,Výroční den posvěcení kostela KB,,48,157
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1079,Ps084_07,ID_1078,Žl 84(83),3.4.5+10.11,KB,157,g-Společné,Výroční den posvěcení kostela KB,,60,157
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1080,Ps095_05,ID_1079,Žl 95(94),1-2.3-5.6-7,KB,177,g-Společné,Výroční den posvěcení kostela KB,,39,177
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1081,Ps095_06,ID_1080,Žl 95(94),1-2.3-5.6-7,KB,177,g-Společné,Výroční den posvěcení kostela KB,,60,177
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1082,Ps122_03,ID_1081,Žl 122(121),1-2.3-4.8-9,KB,256,g-Společné,Výroční den posvěcení kostela KB,,1,256
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1083,Ps122_04,ID_1082,Žl 122(121),1-2.3-4.8-9,KB,256,g-Společné,Výroční den posvěcení kostela KB,,38,256
+data/json/o_svatych/vyroci_posveceni_kostela.json,Výročí posvěcení kostela,,matched,manual,,1084,1Kron29_01,ID_1083,1 Kron 29,10bc.11abc.11d-12a.12bcd,KB,307,g-Společné,Výroční den posvěcení kostela KB,,72,307
+data/json/pust/popelecni_streda.json,Popeleční středa,,matched,exact-fixed,,88,Ps051_10,ID_0087,Žl 51(50),3-4.5-6a.12-13.14+17,2,113,c-Postní,Popeleční středa,,16,115
+data/json/pust/popelecni_streda_X4.json,Čtvrtek po Popeleční středě,,matched,exact-fixed,,90,Ps001_01,ID_0089,Žl 1,1-2.3.4+6,2,115,c-Postní,Čtvrtek po Popeleční středě,,11,9
+data/json/pust/popelecni_streda_X5.json,Pátek po Popeleční středě,,matched,exact-fixed,,91,Ps051_13,ID_0090,Žl 51(50),3-4.5-6a.18-19,2,118,c-Postní,Pátek po Popeleční středě,,16,109
+data/json/pust/popelecni_streda_X6.json,Sobota po Popeleční středě,,matched,exact-fixed,,92,Ps086_01,ID_0091,Žl 86(85),1-2.3-4.5-6,2,120,c-Postní,Sobota po Popeleční středě,,5,160
+data/json/pust/pust_01.json,1. neděle postní,,matched,exact-fixed,,93,Ps051_10,ID_0092,Žl 51(50),3-4.5-6a.12-13.14+17,1A,117,c-Postní,1. neděle postní,A,16,115
+data/json/pust/pust_01.json,1. neděle postní,,matched,exact-fixed,,94,Ps025_07,ID_0093,Žl 25(24),4-5ab.6+7bc.8-9,1B,70,c-Postní,1 neděle postní,B,17,40
+data/json/pust/pust_01.json,1. neděle postní,,matched,exact-fixed,,95,Ps091_01,ID_0094,Žl 91(90),1-2.10-11.12-13.14-15,1C,71,c-Postní,1. neděle postní,C,18,174
+data/json/pust/pust_01_X1.json,Pondělí po 1. neděli postní,,matched,exact-fixed,,96,Ps019_10,ID_0095,Žl 19(18),8.9.10.15,2,122,c-Postní,Pondělí po 1. neděli postní,,21,28
+data/json/pust/pust_01_X2.json,Úterý po 1. neděli postní,,matched,exact-fixed,,97,Ps034_26,ID_0096,Žl 34(33),4-5.6-7.16-17.18-19,2,125,c-Postní,Úterý po 1. neděli postní,,25,85
+data/json/pust/pust_01_X3.json,Středa po 1. neděli postní,,matched,exact-fixed,,98,Ps051_06,ID_0097,Žl 51(50),3-4.12-13.18-19,2,127,c-Postní,Středa po 1. neděli postní,,57,119
+data/json/pust/pust_01_X4.json,Čtvrtek po 1. neděli postní,,matched,exact-fixed,,99,Ps138_03,ID_0098,Žl 138(137),1-2a.2bc+3.4-5.7c-8,2,129,c-Postní,Čtvrtek po 1. neděli postní,,39,278
+data/json/pust/pust_01_X5.json,Pátek po 1. neděli postní,,matched,exact-fixed,,100,Ps130_01,ID_0099,Žl 130(129),1-2.3-4.5-6a.6b-8,2,131,c-Postní,Pátek po 1. neděli postní,,26,268
+data/json/pust/pust_01_X6.json,Sobota po 1. neděli postní,,matched,exact-fixed,,101,Ps119_03,ID_0100,Žl 119(118),1-2.4-5.7-8,2,133,c-Postní,Sobota po 1. neděli postní,,11,248
+data/json/pust/pust_02.json,2. neděle postní,,matched,exact-fixed,,102,Ps033_20,ID_0101,Žl 33(32),4-5.18-19.20+22,1A,121,c-Postní,2. neděle postní,A,4,70
+data/json/pust/pust_02.json,2. neděle postní,,matched,exact-fixed,,103,Ps116_06,ID_0102,Žl 116(115),10+15.16-17.18-19,1B,74,c-Postní,2. neděle postní,B,49,230
+data/json/pust/pust_02.json,2. neděle postní,,matched,exact-fixed,,104,Ps027_13,ID_0103,Žl 27(26),1.7-8a.8b-9abc.13-14,1C,75,c-Postní,2. neděle postní,C,20,54
+data/json/pust/pust_02_X1.json,Pondělí po 2. neděli postní,,matched,exact-fixed,,105,Ps079_01,ID_0104,Žl 79(78),8.9.11+13,2,135,c-Postní,Pondělí po 2. neděli postní,,57,148
+data/json/pust/pust_02_X2.json,Úterý po 2. neděli postní,,matched,exact-fixed,,106,Ps050_09,ID_0105,Žl 50(49),8-9.16bc-17.21+23,2,138,c-Postní,Úterý po 2. neděli postní,,11,108
+data/json/pust/pust_02_X3.json,Středa po 2. neděli postní,,matched,exact-fixed,,107,Ps031_09,ID_0106,Žl 31(30),5-6.14.15-16,2,140,c-Postní,Středa po 2. neděli postní,,5,61
+data/json/pust/pust_02_X4.json,Čtvrtek po 2. neděli postní,,matched,exact-fixed,,108,Ps001_02,ID_0107,Žl 1,1-2.3.4+6,2,142,c-Postní,Čtvrtek po 2. neděli postní,,49,9
+data/json/pust/pust_02_X5.json,Pátek po 2. neděli postní,,matched,exact-fixed,,109,Ps105_10,ID_0108,Žl 105(104),16-17.18-19.20-21,2,145,c-Postní,Pátek po 2. neděli postní,,39,215
+data/json/pust/pust_02_X6.json,Sobota po 2. neděli postní,,matched,exact-fixed,,110,Ps103_12,ID_0109,Žl 103(102),1-2.3-4.9-10.11-12,2,147,c-Postní,Sobota po 2. neděli postní,,17,202
+data/json/pust/pust_03.json,3. neděle postní,,matched,exact-fixed,,112,Ps095_02,ID_0111,Žl 95(94),1-2.6-7.8-9,1A,124,c-Postní,3. neděle postní,A,21,178
+data/json/pust/pust_03.json,3. neděle postní,,matched,exact-fixed,,113,Ps019_07,ID_0112,Žl 19(18),8.9.10.11,1B,78,c-Postní,3. neděle postní,B,22,27
+data/json/pust/pust_03.json,3. neděle postní,,matched,exact-fixed,,114,Ps103_05,ID_0113,Žl 103(102),1-2.3-4.6-7.8+11,1C,79,c-Postní,3. neděle postní,C,17,198
+data/json/pust/pust_03_X1.json,Pátek po 2. neděli postní,,matched,exact-fixed,"Soubor se jmenuje jako pondělí po 3. neděli, ale JSON name je Pátek po 2. neděli postní; párováno podle aktuálního name.",109,Ps105_10,ID_0108,Žl 105(104),16-17.18-19.20-21,2,145,c-Postní,Pátek po 2. neděli postní,,39,215
+data/json/pust/pust_03_X2.json,Úterý po 3. neděli postní,,matched,exact-fixed,,116,Ps025_07,ID_0115,Žl 25(24),4-5ab.6+7bc.8-9,2,157,c-Postní,Úterý po 3. neděli postní,,17,40
+data/json/pust/pust_03_X3.json,Středa po 3. neděli postní,,matched,exact-fixed,,117,Ps147_03,ID_0116,Žl 147,12-13.15-16.19-20,2,160,c-Postní,Středa po 3. neděli postní,,39,298
+data/json/pust/pust_03_X4.json,Čtvrtek po 3. neděli postní,,matched,exact-fixed,,118,Ps095_02,ID_0117,Žl 95(94),1-2.6-7.8-9,2,162,c-Postní,Čtvrtek po 3. neděli postní,,21,178
+data/json/pust/pust_03_X5.json,Pátek po 3. neděli postní,,matched,exact-fixed,,119,Ps081_02,ID_0118,Žl 81(80),6c-8a.8bc-9.10-11ab.14+17,2,165,c-Postní,Pátek po 3. neděli postní,,39,152
+data/json/pust/pust_03_X6.json,Sobota po 3. neděli postní,,matched,exact-fixed,,120,Ps051_07,ID_0119,Žl 51(50),3-4.18-19.20-21ab,2,167,c-Postní,Sobota po 3. neděli postní,,57,120
+data/json/pust/pust_04_A.json,4. neděle postní A,,matched,exact-fixed,,122,Ps023_01,ID_0121,Žl 23(22),1-3.4.5.6,1A,132,c-Postní,4. neděle postní,A,23,34
+data/json/pust/pust_04_B.json,4. neděle postní B,,matched,exact-fixed,,123,Ps137_01,ID_0122,Žl 137(136),1-2.3.4-5.6,1B,88,c-Postní,4. neděle postní,B,24,275
+data/json/pust/pust_04_C.json,4. neděle postní C,,matched,exact-fixed,,124,Ps034_07,ID_0123,Žl 34(33),2-3.4-5.6-7,1C,89,c-Postní,4. neděle postní,C,25,73
+data/json/pust/pust_04_X1.json,Pondělí po 4. neděli postní,,matched,exact-fixed,,125,Ps030_01,ID_0124,Žl 30(29),2+4.5-6.11-12a+13b,2,173,c-Postní,Pondělí po 4. neděli postní,,34,56
+data/json/pust/pust_04_X2.json,Úterý po 4. neděli postní,,matched,exact-fixed,,126,Ps046_02,ID_0125,Žl 46(45),2-3.5-6.8-9,2,176,c-Postní,Úterý po 4. neděli postní,,49,104
+data/json/pust/pust_04_X3.json,Středa po 4. neděli postní,,matched,exact-fixed,,127,Ps145_26,ID_0126,Žl 145(144),8-9.13cd-14.17-18,2,178,c-Postní,Středa po 4. neděli postní,,17,289
+data/json/pust/pust_04_X4.json,Čtvrtek po 4. neděli postní,,matched,exact-fixed,,128,Ps106_02,ID_0127,Žl 106(105),19-20.21-22.23,2,181,c-Postní,Čtvrtek po 4. neděli postní,,26,216
+data/json/pust/pust_04_X5.json,Pátek po 4. neděli postní,,matched,exact-fixed,,129,Ps034_01,ID_0128,Žl 34(33),17-18.19-20.21+23,2,183,c-Postní,Pátek po 4. neděli postní,,11,86
+data/json/pust/pust_04_X6.json,Sobota po 4. neděli postní,,matched,exact-fixed,,130,Ps007_01,ID_0129,Žl 7,2-3.9bc-10.11-12,2,185,c-Postní,Sobota po 4. neděli postní,,33,11
+data/json/pust/pust_05_AB.json,5. neděle postní A/B,,matched,exact-fixed,,132,Ps130_01,ID_0131,Žl 130(129),1-2.3-4.5-6a.6b-8,1A,137,c-Postní,5. neděle postní,A,26,268
+data/json/pust/pust_05_AB.json,5. neděle postní A/B,,matched,exact-fixed,,133,Ps051_03,ID_0132,Žl 51(50),3-4.12-13.14-15,1B,98,c-Postní,5. neděle postní,B,27,117
+data/json/pust/pust_05_C.json,5. neděle postní C,,matched,exact-fixed,,134,Ps126_01,ID_0133,Žl 126(125),1-2ab.2cd-3.4-5.6,1C,100,c-Postní,5. neděle postní,C,5,263
+data/json/pust/pust_05_X1.json,Pondělí po 5. neděli postní,,matched,exact-fixed,,135,Ps023_02,ID_0134,Žl 23(22),1-3.4.5.6,2,195,c-Postní,Pondělí po 5. neděli postní,,33,35
+data/json/pust/pust_05_X2.json,Úterý po 5. neděli postní,,matched,exact-fixed,,136,Ps102_04,ID_0135,Žl 102(101),2-3.16-18.19-21,2,198,c-Postní,Úterý po 5. neděli postní,,52,195
+data/json/pust/pust_05_X3.json,Středa po 5. neděli postní,,matched,exact-fixed,,137,Dan3_01,ID_0136,Dan 3,52a.52b.53.54.55.56,2,201,c-Postní,Středa po 5. neděli postní,,60,315
+data/json/pust/pust_05_X4.json,Čtvrtek po 5. neděli postní,,matched,exact-fixed,,138,Ps105_08,ID_0137,Žl 105(104),4-5.6-7.8-9,2,203,c-Postní,Čtvrtek po 5. neděli postní,,58,214
+data/json/pust/pust_05_X5.json,Pátek po 5. neděli postní,,matched,exact-fixed,,139,Ps018_02,ID_0138,Žl 18(17),2-3a.3bc-4.5-6.7,2,205,c-Postní,Pátek po 5. neděli postní,,5,23
+data/json/pust/pust_05_X6.json,Sobota po 5. neděli postní,,matched,exact-fixed,,140,Jer31_01,ID_0139,Jer 31,10.11-12ab.13,2,208,c-Postní,Sobota po 5. neděli postní,,68,313
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1251,Ps104_08,ID_1250,Žl 104(103),1ab+24.27-28.30-31.33-34,61,70,h-Příležitosti,Při biřmování 1,,44,210
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1252,Ps145_20,ID_1251,Žl 145(144),2-3.4-5.8-9.10-11.15-16,61,71,h-Příležitosti,Při biřmování 2,,7,285
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1253,Ps022_06,ID_1252,Žl 22(21),23-24.26-27.28+31-32,61,72,h-Příležitosti,Při biřmování 3,,7,32
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1254,Ps023_01,ID_1253,Žl 23(22),1-3.4.5.6,61,73,h-Příležitosti,Při biřmování 4,,23,34
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1255,Ps104_08,ID_1254,Žl 104(103),1ab+24.27-28.30-31.33-34,61,75,h-Příležitosti,Při biřmování 5,,44,210
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1256,Ps104_08,ID_1255,Žl 104(103),1ab+24.27-28.30-31.33-34,61,76,h-Příležitosti,Při biřmování v době velikonoční 1,,44,210
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1257,Ps117_02,ID_1256,Žl 117(116),1.2,61,77,h-Příležitosti,Při biřmování v době velikonoční 2,,54,233
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1258,Ps145_20,ID_1257,Žl 145(144),2-3.4-5.8-9.10-11.15-16,61,78,h-Příležitosti,Při biřmování v době velikonoční 3,,7,285
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1259,Ps096_13,ID_1258,Žl 96(95),1-2a.2b-3.9-10a.11-12a,61,79,h-Příležitosti,Při biřmování v době velikonoční 4,,54,181
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1260,Ps117_02,ID_1259,Žl 117(116),1.2,61,80,h-Příležitosti,Při biřmování v době velikonoční 5,,54,233
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1261,Ps023_01,ID_1260,Žl 23(22),1-3.4.5.6,KB,34,h-Příležitosti,Při biřmování KB,,23,34
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1262,Ps096_13,ID_1261,Žl 96(95),1-2a.2b-3.9-10a.11-12a,KB,181,h-Příležitosti,Při biřmování KB,,54,181
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1263,Ps096_14,ID_1262,Žl 96(95),1-2a.2b-3.9-10a.11-12a,KB,181,h-Příležitosti,Při biřmování KB,,55,181
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1264,Ps104_07,ID_1263,Žl 104(103),1ab+24.27-28.30-31.33-34,KB,209,h-Příležitosti,Při biřmování KB,,31,209
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1265,Ps104_08,ID_1264,Žl 104(103),1ab+24.27-28.30-31.33-34,KB,210,h-Příležitosti,Při biřmování KB,,44,210
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1266,Ps117_02,ID_1265,Žl 117(116),1.2,KB,233,h-Příležitosti,Při biřmování KB,,54,233
+data/json/ruzne_prilezitosti/birmovani.json,Při biřmování,,matched,manual,,1267,Ps145_20,ID_1266,Žl 145(144),2-3.4-5.8-9.10-11.15-16,KB,285,h-Příležitosti,Při biřmování KB,,7,285
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1214,Ps089_10,ID_1213,Žl 89(88),3-4.16-17.21-22.25+27,61,23,h-Příležitosti,Při křtu dospělých 1,,9,166
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1215,Ps023_01,ID_1214,Žl 23(22),1-3.4.5.6,61,24,h-Příležitosti,Při křtu dospělých 2,,23,34
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1216,Ps066_06,ID_1215,Žl 66(65),1-3a.8-9.16-17,61,25,h-Příležitosti,Při křtu dospělých 3,,41,129
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1217,Ps008_02,ID_1216,Žl 8,2a+4-5.6-7.8-9,61,26,h-Příležitosti,Při křtu dospělých 4,,60,13
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1218,Ps04243_02,ID_1217,"Žl 42,43(41,42)","2.3; 43 (42), 3.4",61,28,h-Příležitosti,Při křtu dospělých 5,,36,97
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1219,Ps051_17,ID_1218,Žl 51(50),3-4.8-9.12-13.14+17,61,29,h-Příležitosti,Při křtu dospělých 6,,27,116
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1220,Ps063_02,ID_1219,Žl 63(62),2.3-4.5-6.8-9,61,30,h-Příležitosti,Při křtu dospělých 7,,50,126
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1221,Ps032_02,ID_1220,Žl 32(31),1-2.5.11,61,31,h-Příležitosti,Při křtu dospělých 8,,69,64
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1222,Ps051_17,ID_1221,Žl 51(50),3-4.8-9.12-13.14+17,61,32,h-Příležitosti,Při křtu dospělých 9,,27,116
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1223,Ps034_22,ID_1222,Žl 34(33),2-3.6-7.8-9,61,33,h-Příležitosti,Při křtu dospělých v době velikonoční 1,,11,80
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1224,Ps027_12,ID_1223,Žl 27(26),1.4.8b-9abc.13-14,61,34,h-Příležitosti,Při křtu dospělých v době velikonoční 2,,9,52
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1225,Ps066_06,ID_1224,Žl 66(65),1-3a.8-9.16-17,61,35,h-Příležitosti,Při křtu dospělých v době velikonoční 3,,41,129
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1226,Ps008_02,ID_1225,Žl 8,2a+4-5.6-7.8-9,KB,13,h-Příležitosti,Při Křtu dospělých KB,,60,13
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1227,Ps023_01,ID_1226,Žl 23(22),1-3.4.5.6,KB,34,h-Příležitosti,Při Křtu dospělých KB,,23,34
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1228,Ps027_11,ID_1227,Žl 27(26),1.4.8b-9abc.13-14,KB,52,h-Příležitosti,Při Křtu dospělých KB,,20,52
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1229,Ps027_12,ID_1228,Žl 27(26),1.4.8b-9abc.13-14,KB,52,h-Příležitosti,Při Křtu dospělých KB,,9,52
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1230,Ps032_02,ID_1229,Žl 32(31),1-2.5.11,KB,64,h-Příležitosti,Při Křtu dospělých KB,,69,64
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1231,Ps034_22,ID_1230,Žl 34(33),2-3.6-7.8-9,KB,80,h-Příležitosti,Při Křtu dospělých KB,,11,80
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1232,Ps034_24,ID_1231,Žl 34(33),2-3.6-7.8-9(14-15.16-17),KB,81,h-Příležitosti,Při Křtu dospělých KB,,25,81
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1233,Ps04243_02,ID_1232,"Žl 42,43(41,42)","2.3; 43 (42), 3.4",KB,97,h-Příležitosti,Při Křtu dospělých KB,,36,97
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1234,Ps051_17,ID_1233,Žl 51(50),3-4.8-9.12-13.14+17,KB,116,h-Příležitosti,Při Křtu dospělých KB,,27,116
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1235,Ps063_02,ID_1234,Žl 63(62),2.3-4.5-6.8-9,KB,126,h-Příležitosti,Při Křtu dospělých KB,,50,126
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1236,Ps066_06,ID_1235,Žl 66(65),1-3a.8-9.16-17,KB,129,h-Příležitosti,Při Křtu dospělých KB,,41,129
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1237,Ps066_07,ID_1236,Žl 66(65),1-3a.8-9.16-17,KB,129,h-Příležitosti,Při Křtu dospělých KB,,42,129
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1238,Ps089_10,ID_1237,Žl 89(88),3-4.16-17.21-22.25+27,KB,166,h-Příležitosti,Při Křtu dospělých KB,,9,166
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1239,Ps023_01,ID_1238,Žl 23(22),1-3.4.5.6,61,48,h-Příležitosti,Při křtu malých dětí 1,,23,34
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1240,Ps034_23,ID_1239,Žl 34(33),2-3.6-7.8-9,61,49,h-Příležitosti,Při křtu malých dětí 2,,25,
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1241,Ps027_11,ID_1240,Žl 27(26),1.4.8b-9abc.13-14,61,50,h-Příležitosti,Při křtu malých dětí 3,,20,52
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1242,Ps023_01,ID_1241,Žl 23(22),1-3.4.5.6,KB,34,h-Příležitosti,Při křtu malých dětí KB,,23,34
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1243,Ps027_11,ID_1242,Žl 27(26),1.4.8b-9abc.13-14,KB,52,h-Příležitosti,Při křtu malých dětí KB,,20,52
+data/json/ruzne_prilezitosti/krest.json,Při křtu,,matched,manual,,1244,Ps034_24,ID_1243,Žl 34(33),2-3.6-7.8-9(14-15.16-17),KB,81,h-Příležitosti,Při křtu malých dětí KB,,25,81
+data/json/ruzne_prilezitosti/o_nejdrazsi_krvi_pane.json,O nejdražší krvi Páně,,matched,manual,,1611,Ps116_11,ID_1610,Žl 116(115),12-13.15+16bc.17-18,62,599,votivní,O nejdražší krvi Páně mimo dobu velikonoční 1,,29,231
+data/json/ruzne_prilezitosti/o_nejdrazsi_krvi_pane.json,O nejdražší krvi Páně,,matched,manual,,1612,Ps040_03,ID_1611,Žl 40(39),2+4ab.7-8a.8b-9.10,62,600,votivní,O nejdražší krvi Páně mimo dobu velikonoční 2,,45,89
+data/json/ruzne_prilezitosti/o_nejdrazsi_krvi_pane.json,O nejdražší krvi Páně,,matched,manual,,1613,Ps040_03,ID_1612,Žl 40(39),2+4ab.7-8a.8b-9.10,62,601,votivní,O nejdražší krvi Páně v době velikonoční 1,,45,89
+data/json/ruzne_prilezitosti/o_nejdrazsi_krvi_pane.json,O nejdražší krvi Páně,,matched,manual,,1614,Ps116_11,ID_1613,Žl 116(115),12-13.15+16bc.17-18,62,602,votivní,O nejdražší krvi Páně v době velikonoční 2,,29,231
+data/json/ruzne_prilezitosti/o_nejdrazsi_krvi_pane.json,O nejdražší krvi Páně,,matched,manual,,1615,Ps040_03,ID_1614,Žl 40(39),2+4ab.7-8a.8b-9.10,KB,89,votivní,O nejdražší krvi Páně KB,,45,89
+data/json/ruzne_prilezitosti/o_nejdrazsi_krvi_pane.json,O nejdražší krvi Páně,,matched,manual,,1616,Ps116_11,ID_1615,Žl 116(115),12-13.15+16bc.17-18,KB,231,votivní,O nejdražší krvi Páně KB,,29,231
+data/json/ruzne_prilezitosti/o_nejsvetejsim_jmenu_jezis.json,O nejsvětějším jménu Ježíš,,matched,manual,,1603,Ps113_01,ID_1602,Žl 113(112),1-2.3-4.5-6,62,591,votivní,O nejsvětějším jménu Ježíš 1,,58,
+data/json/ruzne_prilezitosti/o_nejsvetejsim_jmenu_jezis.json,O nejsvětějším jménu Ježíš,,matched,manual,,1604,Iz12_01,ID_1603,Iz 12,2-3.4bcd.5-6,62,592,votivní,O nejsvětějším jménu Ježíš 2,,7,310
+data/json/ruzne_prilezitosti/o_nejsvetejsim_jmenu_jezis.json,O nejsvětějším jménu Ježíš,,matched,manual,,1605,Ps113_01,ID_1604,Žl 113(112),1-2.3-4.5-6,62,593,votivní,O nejsvětějším jménu Ježíš v době velikonoční 1,,58,
+data/json/ruzne_prilezitosti/o_nejsvetejsim_jmenu_jezis.json,O nejsvětějším jménu Ježíš,,matched,manual,,1606,Iz12_01,ID_1605,Iz 12,2-3.4bcd.5-6,62,594,votivní,O nejsvětějším jménu Ježíš v době velikonoční 2,,7,310
+data/json/ruzne_prilezitosti/o_nejsvetejsim_jmenu_jezis.json,O nejsvětějším jménu Ježíš,,matched,manual,,1607,Iz12_01,ID_1606,Iz 12,2-3.4bcd.5-6,62,595,votivní,O nejsvětějším jménu Ježíš v době velikonoční 3,,7,310
+data/json/ruzne_prilezitosti/o_nejsvetejsim_jmenu_jezis.json,O nejsvětějším jménu Ježíš,,matched,manual,,1608,Ps113_02,ID_1607,Žl 113(112),1-2.3-4.5-6.7-8,KB,224,votivní,O nejsvětějším jménu Ježíš KB,,58,224
+data/json/ruzne_prilezitosti/o_nejsvetejsim_jmenu_jezis.json,O nejsvětějším jménu Ježíš,,matched,manual,,1609,Ps113_06,ID_1608,Žl 113(112),1-2.3-4.5-6.7-8,KB,225,votivní,O nejsvětějším jménu Ježíš KB,,42,225
+data/json/ruzne_prilezitosti/o_nejsvetejsim_jmenu_jezis.json,O nejsvětějším jménu Ježíš,,matched,manual,,1610,Iz12_01,ID_1609,Iz 12,2-3.4bcd.5-6,KB,310,votivní,O nejsvětějším jménu Ježíš KB,,7,310
+data/json/ruzne_prilezitosti/podekovani_bohu.json,Na poděkování Bohu,,matched,manual,,1530,1Kron29_01,ID_1529,1 Kron 29,10bc.11abc.11d-12a.12bcd,61,484,za-na,Na poděkování Bohu 1,,72,307
+data/json/ruzne_prilezitosti/podekovani_bohu.json,Na poděkování Bohu,,matched,manual,,1531,Ps138_02,ID_1530,Žl 138(137),1-2a.2bc+3.4-5,61,485,za-na,Na poděkování Bohu 2,,7,277
+data/json/ruzne_prilezitosti/podekovani_bohu.json,Na poděkování Bohu,,matched,manual,,1532,Ps145_18,ID_1531,Žl 145(144),2-3.4-5.6-7.8-9.10-11,61,486,za-na,Na poděkování Bohu 3,,39,284
+data/json/ruzne_prilezitosti/podekovani_bohu.json,Na poděkování Bohu,,matched,manual,,1533,Ps113_02,ID_1532,Žl 113(112),1-2.3-4.5-6.7-8,61,487,za-na,Na poděkování Bohu 4,,58,224
+data/json/ruzne_prilezitosti/podekovani_bohu.json,Na poděkování Bohu,,matched,manual,,1534,Ps113_02,ID_1533,Žl 113(112),1-2.3-4.5-6.7-8,KB,224,za-na,Na poděkování Bohu KB,,58,224
+data/json/ruzne_prilezitosti/podekovani_bohu.json,Na poděkování Bohu,,matched,manual,,1535,Ps113_06,ID_1534,Žl 113(112),1-2.3-4.5-6.7-8,KB,225,za-na,Na poděkování Bohu KB,,42,225
+data/json/ruzne_prilezitosti/podekovani_bohu.json,Na poděkování Bohu,,matched,manual,,1536,Ps138_02,ID_1535,Žl 138(137),1-2a.2bc+3.4-5,KB,277,za-na,Na poděkování Bohu KB,,7,277
+data/json/ruzne_prilezitosti/podekovani_bohu.json,Na poděkování Bohu,,matched,manual,,1537,Ps138_07,ID_1536,Žl 138(137),1-2a.2bc+3.6-7ab.7c-8,KB,279,za-na,Na poděkování Bohu KB,,39,279
+data/json/ruzne_prilezitosti/podekovani_bohu.json,Na poděkování Bohu,,matched,manual,,1538,Ps145_18,ID_1537,Žl 145(144),2-3.4-5.6-7.8-9.10-11,KB,284,za-na,Na poděkování Bohu KB,,39,284
+data/json/ruzne_prilezitosti/podekovani_bohu.json,Na poděkování Bohu,,matched,manual,,1539,Ps145_19,ID_1538,Žl 145(144),2-3.4-5.6-7.8-9.10-11,KB,284,za-na,Na poděkování Bohu KB,,49,284
+data/json/ruzne_prilezitosti/podekovani_bohu.json,Na poděkování Bohu,,matched,manual,,1540,Ps145_20,ID_1539,Žl 145(144),2-3.4-5.8-9.10-11.15-16,KB,285,za-na,Na poděkování Bohu KB,,7,285
+data/json/ruzne_prilezitosti/podekovani_bohu.json,Na poděkování Bohu,,matched,manual,,1541,1Kron29_01,ID_1540,1 Kron 29,10bc.11abc.11d-12a.12bcd,KB,307,za-na,Na poděkování Bohu KB,,72,307
+data/json/ruzne_prilezitosti/podekovani_za_urodu.json,Na poděkování za úrodu,,matched,manual,,1511,Ps067_05,ID_1510,Žl 67(66),2-3.5.7-8,61,449,za-na,Na poděkování za úrodu 1,,39,132
+data/json/ruzne_prilezitosti/podekovani_za_urodu.json,Na poděkování za úrodu,,matched,manual,,1512,Ps126_03,ID_1511,Žl 126(125),4-5.6,61,450,za-na,Na poděkování za úrodu 2,,15,
+data/json/ruzne_prilezitosti/podekovani_za_urodu.json,Na poděkování za úrodu,,matched,manual,,1513,Ps067_05,ID_1512,Žl 67(66),2-3.5.7-8,KB,132,za-na,Na poděkování za úrodu KB,,39,132
+data/json/ruzne_prilezitosti/podekovani_za_urodu.json,Na poděkování za úrodu,,matched,manual,,1514,Ps126_04,ID_1513,Žl 126(125),2c-3.4-5.6,KB,264,za-na,Na poděkování za úrodu KB,,15,264
+data/json/ruzne_prilezitosti/pri_pohrbu_ditete.json,Při mších za zemřelé,,matched,manual,Název JSONu je obecný/odlišný; párováno podle názvu souboru na pohřeb dítěte.,1660,Ps023_01,ID_1659,Žl 23(22),1-3.4.5.6,62,668,zemř-pohřeb,Při pohřbu pokřtěného dítěte mimo dobu velikonoční 1,,23,34
+data/json/ruzne_prilezitosti/pri_pohrbu_ditete.json,Při mších za zemřelé,,matched,manual,Název JSONu je obecný/odlišný; párováno podle názvu souboru na pohřeb dítěte.,1661,Ps025_06,ID_1660,Žl 25(24),4-5ab.6+7bc.20-21,62,669,zemř-pohřeb,Při pohřbu pokřtěného dítěte mimo dobu velikonoční 2,,3,
+data/json/ruzne_prilezitosti/pri_pohrbu_ditete.json,Při mších za zemřelé,,matched,manual,Název JSONu je obecný/odlišný; párováno podle názvu souboru na pohřeb dítěte.,1662,Ps148_06,ID_1661,Žl 148,1-2.11-13b.13c-14,62,670,zemř-pohřeb,Při pohřbu pokřtěného dítěte v době velikonoční 1,,39,303
+data/json/ruzne_prilezitosti/pri_pohrbu_ditete.json,Při mších za zemřelé,,matched,manual,Název JSONu je obecný/odlišný; párováno podle názvu souboru na pohřeb dítěte.,1663,Ps04243_03,ID_1662,"Žl 42,43(41,42)","2.3.5bcd; 43 (42), 3.4",62,671,zemř-pohřeb,Při pohřbu pokřtěného dítěte v době velikonoční 2,,50,95
+data/json/ruzne_prilezitosti/pri_pohrbu_ditete.json,Při mších za zemřelé,,matched,manual,Název JSONu je obecný/odlišný; párováno podle názvu souboru na pohřeb dítěte.,1664,Ps023_01,ID_1663,Žl 23(22),1-3.4.5.6,KB,34,zemř-pohřeb,Při pohřbu dítěte KB,,23,34
+data/json/ruzne_prilezitosti/pri_pohrbu_ditete.json,Při mších za zemřelé,,matched,manual,Název JSONu je obecný/odlišný; párováno podle názvu souboru na pohřeb dítěte.,1665,Ps042_02,ID_1664,Žl 42(41),2.3.5bcd,KB,94,zemř-pohřeb,Při pohřbu dítěte KB,,36,94
+data/json/ruzne_prilezitosti/pri_pohrbu_ditete.json,Při mších za zemřelé,,matched,manual,Název JSONu je obecný/odlišný; párováno podle názvu souboru na pohřeb dítěte.,1666,Ps04243_03,ID_1665,"Žl 42,43(41,42)","2.3.5bcd; 43 (42), 3.4",KB,95,zemř-pohřeb,Při pohřbu dítěte KB,,50,95
+data/json/ruzne_prilezitosti/pri_pohrbu_ditete.json,Při mších za zemřelé,,matched,manual,Název JSONu je obecný/odlišný; párováno podle názvu souboru na pohřeb dítěte.,1667,Ps148_06,ID_1666,Žl 148,1-2.11-13b.13c-14,KB,303,zemř-pohřeb,Při pohřbu dítěte KB,,39,303
+data/json/ruzne_prilezitosti/pri_pohrbu_ditete.json,Při mších za zemřelé,,matched,manual,Název JSONu je obecný/odlišný; párováno podle názvu souboru na pohřeb dítěte.,1668,Ps025_03,ID_1667,Žl 25(24),4-5ab.6+7bc.17+20,62,677,zemř-pohřeb,Při pohřbu dosud nepokřtěného dítěte 1,,17,42
+data/json/ruzne_prilezitosti/pri_pohrbu_ditete.json,Při mších za zemřelé,,matched,manual,Název JSONu je obecný/odlišný; párováno podle názvu souboru na pohřeb dítěte.,1669,Ps025_04,ID_1668,Žl 25(24),4-5ab.6+7bc.17+20,62,678,zemř-pohřeb,Při pohřbu dosud nepokřtěného dítěte 2,,3,
+data/json/ruzne_prilezitosti/pri_pohrbu_ditete.json,Při mších za zemřelé,,matched,manual,Název JSONu je obecný/odlišný; párováno podle názvu souboru na pohřeb dítěte.,1670,Ps025_03,ID_1669,Žl 25(24),4-5ab.6+7bc.17+20,KB,42,zemř-pohřeb,Při pohřbu dosud nepokřtěného dítěte KB,,17,42
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1671,Ps023_03,ID_1670,Žl 23(22),1-3.4.5.6,KB,35,zemř-pohřeb,Pohřební obřady KB,,70,35
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1672,Ps025_05,ID_1671,Žl 25(24),4-5ab.6+7bc.20-21,KB,43,zemř-pohřeb,Pohřební obřady KB,,17,43
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1673,Ps025_12,ID_1672,Žl 25(24),6+7bc.17-18.20-21,KB,45,zemř-pohřeb,Pohřební obřady KB,,3,45
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1674,Ps025_13,ID_1673,Žl 25(24),6+7bc.17-18.20-21,KB,45,zemř-pohřeb,Pohřební obřady KB,,51,45
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1675,Ps042_02,ID_1674,Žl 42(41),2.3.5bcd,KB,94,zemř-pohřeb,Pohřební obřady KB,,36,94
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1676,Ps051_15,ID_1675,Žl 51(50),3-4.5-6a.6b+8.9-10.11-12.13-14.15+17,KB,112,zemř-pohřeb,Pohřební obřady KB,,74,112
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1677,Ps093_03,ID_1676,Žl 93(92),1ab.1c-2.5,KB,176,zemř-pohřeb,Pohřební obřady KB,,5,176
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1678,Ps114_02,ID_1677,Žl 114(113A),"1-2.3-4.5-6.7-8 115 (113B), 1-2.3-4.5-6.7-8.11-12a",KB,226,zemř-pohřeb,Pohřební obřady KB,,76,226
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1679,Ps114_03,ID_1678,Žl 114(113A),"1-2.3-4.5-6.7-8 115 (113B), 1-2.3-4.5-6.7-8.11-12a",KB,226,zemř-pohřeb,Pohřební obřady KB,,77,226
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1680,Ps116_02,ID_1679,Žl 116(114),1-2.3-4.5-6.8-9,KB,228,zemř-pohřeb,Pohřební obřady KB,,53,228
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1681,Ps116_07,ID_1680,Žl 116(115),10+15.16-17.18-19,KB,230,zemř-pohřeb,Pohřební obřady KB,,53,230
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1682,Ps118_03,ID_1681,Žl 118(117),1-2.3-4.5-7.8-9.10-12.13-14.15-16.17-18.19-20.21-22.23-24.25+28,KB,234,zemř-pohřeb,Pohřební obřady KB,,61,234
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1683,Ps121_01,ID_1682,Žl 121(120),1-2.3-4.5-6.7-8,KB,255,zemř-pohřeb,Pohřební obřady KB,,49,255
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1684,Ps122_01,ID_1683,Žl 122(121),1-2.(4-5.6-7.)8-9,KB,259,zemř-pohřeb,Pohřební obřady KB,,1,259
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1685,Ps123_03,ID_1684,Žl 123(122),1-2a.2bcd.3-4,KB,261,zemř-pohřeb,Pohřební obřady KB,,33,261
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1686,Ps126_01,ID_1685,Žl 126(125),1-2ab.2cd-3.4-5.6,KB,263,zemř-pohřeb,Pohřební obřady KB,,5,263
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1687,Ps130_03,ID_1686,Žl 130(129),1-2.3-4.5-6a.6b-8,KB,269,zemř-pohřeb,Pohřební obřady KB,,59,269
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1688,Ps130_04,ID_1687,Žl 130(129),1-2.3-4.5-6a.6b-8,KB,269,zemř-pohřeb,Pohřební obřady KB,,66,269
+data/json/ruzne_prilezitosti/pri_pohrbu_dospelych.json,Při pohřbu dospělých,,matched,manual,,1689,Ps132_03,ID_1688,Žl 132(131),11.13-14.17-18,KB,274,zemř-pohřeb,Pohřební obřady KB,,9,274
+data/json/ruzne_prilezitosti/priprava_na_krest_skrutinium_1.json,Při přípravě na křest,Při prvním skrutiniu,matched,manual,Spárováno podle odkazu v JSONu na příslušnou postní neděli.,112,Ps095_02,ID_0111,Žl 95(94),1-2.6-7.8-9,1A,124,c-Postní,3. neděle postní,A,21,178
+data/json/ruzne_prilezitosti/priprava_na_krest_skrutinium_2.json,Při přípravě na křest,Při druhém skrutiniu,matched,manual,Spárováno podle odkazu v JSONu na příslušnou postní neděli.,122,Ps023_01,ID_0121,Žl 23(22),1-3.4.5.6,1A,132,c-Postní,4. neděle postní,A,23,34
+data/json/ruzne_prilezitosti/priprava_na_krest_skrutinium_3.json,Při přípravě na křest,Při třetím skrutiniu,matched,manual,Spárováno podle odkazu v JSONu na příslušnou postní neděli.,132,Ps130_01,ID_0131,Žl 130(129),1-2.3-4.5-6a.6b-8,1A,137,c-Postní,5. neděle postní,A,26,268
+data/json/ruzne_prilezitosti/priprava_na_krest_skrutinium_3.json,Při přípravě na křest,Při třetím skrutiniu,matched,manual,Spárováno podle odkazu v JSONu na příslušnou postní neděli.,133,Ps051_03,ID_0132,Žl 51(50),3-4.12-13.14-15,1B,98,c-Postní,5. neděle postní,B,27,117
+data/json/ruzne_prilezitosti/priprava_na_krest_zarazeni.json,Při přípravě na křest,Při zařazení mezi čekatele křtu,matched,manual,,1210,Ps033_19,ID_1209,Žl 33(32),4-5.12-13.18-19.20+22,61,14,h-Příležitosti,Při přijetí do katechumenátu,,11,
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1324,Ps033_11,ID_1323,Žl 33(32),12+18.20-21.22,61,192,h-Příležitosti,Při svatbě mimo dobu velikonoční 1,,32,
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1325,Ps148_01,ID_1324,Žl 148,1-2.3-4.9-10.11-13b,61,193,h-Příležitosti,Při svatbě mimo dobu velikonoční 2,,39,299
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1326,Ps145_24,ID_1325,Žl 145(144),8-9.10+15.17-18,61,195,h-Příležitosti,Při svatbě mimo dobu velikonoční 3,,49,288
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1327,Ps033_11,ID_1326,Žl 33(32),12+18.20-21.22,61,196,h-Příležitosti,Při svatbě mimo dobu velikonoční 4,,32,
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1328,Ps103_13,ID_1327,Žl 103(102),1-2.8+13.17-18a,61,196,h-Příležitosti,Při svatbě mimo dobu velikonoční 5,,17,203
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1329,Ps128_01,ID_1328,Žl 128(127),1-2.3.4-5,61,198,h-Příležitosti,Při svatbě mimo dobu velikonoční 6,,11,266
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1330,Ps034_12,ID_1329,Žl 34(33),2-3.4-5.6-7.8-9,61,199,h-Příležitosti,Při svatbě mimo dobu velikonoční 7,,31,
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1331,Ps112_05,ID_1330,Žl 112(111),1-2.3-4.5-6.7-8.9,61,200,h-Příležitosti,Při svatbě mimo dobu velikonoční 8,,11,221
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1332,Ps103_18,ID_1331,Žl 103(102),1-2.8+13.17-18a,61,201,h-Příležitosti,Při svatbě v době velikonoční,,31,203
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1333,Ps033_12,ID_1332,Žl 33(32),12+18.20-21.22,KB,72,h-Příležitosti,Při svatbě KB,,39,72
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1334,Ps033_13,ID_1333,Žl 33(32),12+18.20-21.22,KB,72,h-Příležitosti,Při svatbě KB,,49,72
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1335,Ps034_09,ID_1334,Žl 34(33),2-3.4-5.6-7.8-9,KB,74,h-Příležitosti,Při svatbě KB,,11,74
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1336,Ps034_11,ID_1335,Žl 34(33),2-3.4-5.6-7.8-9,KB,74,h-Příležitosti,Při svatbě KB,,49,74
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1337,Ps103_18,ID_1336,Žl 103(102),1-2.8+13.17-18a,KB,203,h-Příležitosti,Při svatbě KB,,31,203
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1338,Ps103_13,ID_1337,Žl 103(102),1-2.8+13.17-18a,KB,203,h-Příležitosti,Při svatbě KB,,17,203
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1339,Ps112_03,ID_1338,Žl 112(111),1-2.3-4.5-6.7-8.9,KB,220,h-Příležitosti,Při svatbě KB,,11,220
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1340,Ps112_04,ID_1339,Žl 112(111),1-2.3-4.5-6.7-8.9,KB,220,h-Příležitosti,Při svatbě KB,,49,220
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1341,Ps112_05,ID_1340,Žl 112(111),1-2.3-4.5-6.7-8.9,KB,221,h-Příležitosti,Při svatbě KB,,11,221
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1342,Ps112_06,ID_1341,Žl 112(111),1-2.3-4.5-6.7-8.9,KB,221,h-Příležitosti,Při svatbě KB,,49,221
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1343,Ps128_01,ID_1342,Žl 128(127),1-2.3.4-5,KB,266,h-Příležitosti,Při svatbě KB,,11,266
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1344,Ps145_24,ID_1343,Žl 145(144),8-9.10+15.17-18,KB,288,h-Příležitosti,Při svatbě KB,,49,288
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1345,Ps145_25,ID_1344,Žl 145(144),8-9.10+15.17-18,KB,288,h-Příležitosti,Při svatbě KB,,17,288
+data/json/ruzne_prilezitosti/svatba.json,Při svatbě,,matched,manual,,1346,Ps148_01,ID_1345,Žl 148,1-2.3-4.9-10.11-13b,KB,299,h-Příležitosti,Při svatbě KB,,39,299
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1366,Ps019_12,ID_1365,Žl 19(18),8.9.10.15,61,254,h-Příležitosti,Při svěcení kostela 1,,22,
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1367,Ps019_11,ID_1366,Žl 19(18),8.9.10.15,KB,28,e-Mezidobí,Při svěcení kostela KB,,55,28
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1368,Ps095_04,ID_1367,Žl 95(94),1-2.3-5.6-7,61,255,h-Příležitosti,Při svěcení oltáře mimo dobu velikonoční 1,,55,
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1369,Ps084_02,ID_1368,Žl 84(83),3.4.5+10.11,61,256,h-Příležitosti,Při svěcení oltáře mimo dobu velikonoční 2,,1,155
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1370,Ps122_03,ID_1369,Žl 122(121),1-2.3-4.8-9,61,258,h-Příležitosti,Při svěcení oltáře mimo dobu velikonoční 3,,1,256
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1371,Ps118_10,ID_1370,Žl 118(117),15-16.19-20.22-23.27,61,258,h-Příležitosti,Při svěcení oltáře v době velikonoční 1,,39,245
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1372,Ps122_03,ID_1371,Žl 122(121),1-2.3-4.8-9,61,259,h-Příležitosti,Při svěcení oltáře v době velikonoční 2,,1,256
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1373,Ps084_03,ID_1372,Žl 84(83),3.4.5+10.11,KB,155,h-Příležitosti,Při svěcení oltáře KB,,39,155
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1374,Ps084_04,ID_1373,Žl 84(83),3.4.5+10.11,KB,156,h-Příležitosti,Při svěcení oltáře KB,,39,156
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1375,Ps084_07,ID_1374,Žl 84(83),3.4.5+10.11,KB,157,h-Příležitosti,Při svěcení oltáře KB,,60,157
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1376,Ps095_05,ID_1375,Žl 95(94),1-2.3-5.6-7,KB,177,h-Příležitosti,Při svěcení oltáře KB,,39,177
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1377,Ps095_06,ID_1376,Žl 95(94),1-2.3-5.6-7,KB,177,h-Příležitosti,Při svěcení oltáře KB,,60,177
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1378,Ps118_08,ID_1377,Žl 118(117),15-16.19-20.22-23.27,KB,244,h-Příležitosti,Při svěcení oltáře KB,,42,244
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1379,Ps118_09,ID_1378,Žl 118(117),15-16.19-20.22-23.27,KB,245,h-Příležitosti,Při svěcení oltáře KB,,38,245
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1380,Ps118_10,ID_1379,Žl 118(117),15-16.19-20.22-23.27,KB,245,h-Příležitosti,Při svěcení oltáře KB,,39,245
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1381,Ps119_08,ID_1380,Žl 119(118),129.130.133.135.144,KB,254,h-Příležitosti,Při svěcení oltáře KB,,22,254
+data/json/ruzne_prilezitosti/sveceni_kostela.json,Při svěcení kostela a oltáře,,matched,manual,,1382,Ps122_04,ID_1381,Žl 122(121),1-2.3-4.8-9,KB,256,h-Příležitosti,Při svěcení oltáře KB,,38,256
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1385,Ps067_07,ID_1384,Žl 67(66),2-3.5.7-8,61,268,za-na,Za církev 1,,14,
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1386,Ps098_06,ID_1385,Žl 98(97),1.2-3ab.3c-4.5-6,61,269,za-na,Za církev 2,,10,191
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1387,Ps096_12,ID_1386,Žl 96(95),1-2a.2b-3.7-8a.9-10a,61,270,za-na,Za církev 3,,54,179
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1388,Ps025_08,ID_1387,Žl 25(24),4-5ab.6+7bc.8-9.10+14,61,271,za-na,Za církev 4,,4,41
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1389,Ps027_02,ID_1388,Žl 27(26),1.2.3.5,61,272,za-na,Za církev 5,,50,46
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1390,Ps117_01,ID_1389,Žl 117(116),1.2,61,273,za-na,Za církev – v době velikonoční 1,,42,
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1391,Ps123_02,ID_1390,Žl 123(122),1-2a.2bcd,61,274,za-na,Za církev – v době velikonoční 2,,4,260
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1392,Ps110_01,ID_1391,Žl 110(109),1.2.3.4,61,275,za-na,Za církev – v době velikonoční 3,,63,218
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1393,Ps019_05,ID_1392,Žl 19(18),2-3.4-5.6-7,61,276,za-na,Za církev – v době velikonoční 4,,76,
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1394,Ps019_01,ID_1393,Žl 19(18),2-3.4-5,KB,26,za-na,Za církev KB,,14,26
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1395,Ps025_08,ID_1394,Žl 25(24),4-5ab.6+7bc.8-9.10+14,KB,41,za-na,Za církev KB,,4,41
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1396,Ps027_02,ID_1395,Žl 27(26),1.2.3.5,KB,46,za-na,Za církev KB,,50,46
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1397,Ps067_01,ID_1396,Žl 67(66),2-3.5.6+8,KB,130,za-na,Za církev KB,,14,130
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1398,Ps067_05,ID_1397,Žl 67(66),2-3.5.7-8,KB,132,za-na,Za církev KB,,39,132
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1399,Ps096_12,ID_1398,Žl 96(95),1-2a.2b-3.7-8a.9-10a,KB,179,za-na,Za církev KB,,54,179
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1400,Ps098_06,ID_1399,Žl 98(97),1.2-3ab.3c-4.5-6,KB,191,za-na,Za církev KB,,10,191
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1401,Ps117_02,ID_1400,Žl 117(116),1.2,KB,233,za-na,Za církev KB,,54,233
+data/json/ruzne_prilezitosti/za_cirkev.json,Za církev,,matched,manual,,1402,Ps123_02,ID_1401,Žl 123(122),1-2a.2bcd,KB,260,za-na,Za církev KB,,4,260
+data/json/ruzne_prilezitosti/za_jednotu_krestanu.json,Za jednotu křesťanů,,matched,manual,,1441,Jer31_03,ID_1440,Jer 31,10.11-12ab.13cd+14b,61,347,za-na,Za jednotu křesťanů 1,,68,314
+data/json/ruzne_prilezitosti/za_jednotu_krestanu.json,Za jednotu křesťanů,,matched,manual,,1442,Ps023_01,ID_1441,Žl 23(22),1-3.4.5.6,61,348,za-na,Za jednotu křesťanů 2,,23,34
+data/json/ruzne_prilezitosti/za_jednotu_krestanu.json,Za jednotu křesťanů,,matched,manual,,1443,Ps122_09,ID_1442,Žl 122(121),1-2.4-5.6-7.8-9,61,349,za-na,Za jednotu křesťanů 3,,42,
+data/json/ruzne_prilezitosti/za_jednotu_krestanu.json,Za jednotu křesťanů,,matched,manual,,1444,Ps100_04,ID_1443,Žl 100(99),1-2.3.4.5,61,350,za-na,Za jednotu křesťanů 4,,68,
+data/json/ruzne_prilezitosti/za_jednotu_krestanu.json,Za jednotu křesťanů,,matched,manual,,1445,Ps023_01,ID_1444,Žl 23(22),1-3.4.5.6,KB,34,za-na,Za jednotu křesťanů KB,,23,34
+data/json/ruzne_prilezitosti/za_jednotu_krestanu.json,Za jednotu křesťanů,,matched,manual,,1446,Ps100_04,ID_1445,Žl 100(99),1-2.3.4.5,KB,193,za-na,Za jednotu křesťanů KB,,68,193
+data/json/ruzne_prilezitosti/za_jednotu_krestanu.json,Za jednotu křesťanů,,matched,manual,,1447,Ps100_06,ID_1446,Žl 100(99),1-2.3.5,KB,194,za-na,Za jednotu křesťanů KB,,40,194
+data/json/ruzne_prilezitosti/za_jednotu_krestanu.json,Za jednotu křesťanů,,matched,manual,,1448,Ps118_15,ID_1447,Žl 118(117),22-23.25-26.28,KB,247,za-na,Za jednotu křesťanů KB,,38,247
+data/json/ruzne_prilezitosti/za_jednotu_krestanu.json,Za jednotu křesťanů,,matched,manual,,1449,Ps122_01,ID_1448,Žl 122(121),1-2.(4-5.6-7.)8-9,KB,259,za-na,Za jednotu křesťanů KB,,1,259
+data/json/ruzne_prilezitosti/za_jednotu_krestanu.json,Za jednotu křesťanů,,matched,manual,,1450,Ps122_02,ID_1449,Žl 122(121),1-2.(4-5.6-7.)8-9,KB,259,za-na,Za jednotu křesťanů KB,,38,259
+data/json/ruzne_prilezitosti/za_jednotu_krestanu.json,Za jednotu křesťanů,,matched,manual,,1451,Jer31_03,ID_1450,Jer 31,10.11-12ab.13cd+14b,KB,314,za-na,Za jednotu křesťanů KB,,68,314
+data/json/ruzne_prilezitosti/za_knezska_povolani.json,Za kněžská povolání,,matched,manual,,1426,Ps040_04,ID_1425,Žl 40(39),2+4ab.7-8a.8b-9.10.12,61,319,za-na,Za kněžská nebo řeholní povolání 1,,45,90
+data/json/ruzne_prilezitosti/za_knezska_povolani.json,Za kněžská povolání,,matched,manual,,1427,Ps027_07,ID_1426,Žl 27(26),1.4.5.8b-9ab.9cd+11,61,321,za-na,Za kněžská nebo řeholní povolání 2,,20,49
+data/json/ruzne_prilezitosti/za_knezska_povolani.json,Za kněžská povolání,,matched,manual,,1428,Ps040_04,ID_1427,Žl 40(39),2+4ab.7-8a.8b-9.10.12,61,322,za-na,Za kněžská nebo řeholní povolání 3,,45,90
+data/json/ruzne_prilezitosti/za_knezska_povolani.json,Za kněžská povolání,,matched,manual,,1429,Ps084_09,ID_1428,Žl 84(83),3-4.5+8a.11,61,323,za-na,Za kněžská nebo řeholní povolání 4,,1,154
+data/json/ruzne_prilezitosti/za_knezska_povolani.json,Za kněžská povolání,,matched,manual,,1430,Ps040_04,ID_1429,Žl 40(39),2+4ab.7-8a.8b-9.10.12,61,324,za-na,Za kněžská nebo řeholní povolání 5,,45,90
+data/json/ruzne_prilezitosti/za_knezska_povolani.json,Za kněžská povolání,,matched,manual,,1431,Ps016_04,ID_1430,Žl 16(15),1-2a+5.7-8.11,61,325,za-na,Za kněžská nebo řeholní povolání 6,,33,
+data/json/ruzne_prilezitosti/za_knezska_povolani.json,Za kněžská povolání,,matched,manual,,1432,Ps027_07,ID_1431,Žl 27(26),1.4.5.8b-9ab.9cd+11,61,326,za-na,Za kněžská nebo řeholní povolání 7,,20,49
+data/json/ruzne_prilezitosti/za_knezska_povolani.json,Za kněžská povolání,,matched,manual,,1433,Ps016_01,ID_1432,Žl 16(15),1-2a+5.7-8.11,KB,19,za-na,Za kněžská povolání KB,,45,19
+data/json/ruzne_prilezitosti/za_knezska_povolani.json,Za kněžská povolání,,matched,manual,,1434,Ps027_07,ID_1433,Žl 27(26),1.4.5.8b-9ab.9cd+11,KB,49,za-na,Za kněžská povolání KB,,20,49
+data/json/ruzne_prilezitosti/za_knezska_povolani.json,Za kněžská povolání,,matched,manual,,1435,Ps040_04,ID_1434,Žl 40(39),2+4ab.7-8a.8b-9.10.12,KB,90,za-na,Za kněžská povolání KB,,45,90
+data/json/ruzne_prilezitosti/za_knezska_povolani.json,Za kněžská povolání,,matched,manual,,1436,Ps084_09,ID_1435,Žl 84(83),3-4.5+8a.11,KB,154,za-na,Za kněžská povolání KB,,1,154
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1452,Ps098_06,ID_1451,Žl 98(97),1.2-3ab.3c-4.5-6,61,361,za-na,Za misie mimo dobu velikonoční 1,,10,191
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1453,Ps067_07,ID_1452,Žl 67(66),2-3.5.7-8,61,362,za-na,Za misie mimo dobu velikonoční 2,,14,
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1454,Ps098_06,ID_1453,Žl 98(97),1.2-3ab.3c-4.5-6,61,363,za-na,Za misie mimo dobu velikonoční 3,,10,191
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1455,Ps067_07,ID_1454,Žl 67(66),2-3.5.7-8,61,364,za-na,Za misie mimo dobu velikonoční 4,,14,
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1456,Ps019_01,ID_1455,Žl 19(18),2-3.4-5,61,365,za-na,Za misie mimo dobu velikonoční 5,,14,26
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1457,Ps096_11,ID_1456,Žl 96(95),1-2a.2b-3.7-8a.9-10a,61,366,za-na,Za misie v době velikonoční 1,,40,179
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1458,Ps117_01,ID_1457,Žl 117(116),1.2,61,367,za-na,Za misie v době velikonoční 2,,42,
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1459,Ps096_11,ID_1458,Žl 96(95),1-2a.2b-3.7-8a.9-10a,61,368,za-na,Za misie v době velikonoční 3,,40,179
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1460,Ps019_01,ID_1459,Žl 19(18),2-3.4-5,KB,26,za-na,Za misie KB,,14,26
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1461,Ps067_01,ID_1460,Žl 67(66),2-3.5.6+8,KB,130,za-na,Za misie KB,,14,130
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1462,Ps096_11,ID_1461,Žl 96(95),1-2a.2b-3.7-8a.9-10a,KB,179,za-na,Za misie KB,,40,179
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1463,Ps098_02,ID_1462,Žl 98(97),1.2-3ab.3c-4,KB,189,za-na,Za misie KB,,41,189
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1464,Ps098_05,ID_1463,Žl 98(97),1.2-3ab.3c-4.5-6,KB,191,za-na,Za misie KB,,14,191
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1465,Ps098_06,ID_1464,Žl 98(97),1.2-3ab.3c-4.5-6,KB,191,za-na,Za misie KB,,10,191
+data/json/ruzne_prilezitosti/za_misie.json,Za misie,,matched,manual,,1466,Ps117_02,ID_1465,Žl 117(116),1.2,KB,233,za-na,Za misie KB,,54,233
+data/json/ruzne_prilezitosti/za_nemocne.json,Za nemocné,,matched,manual,,1521,Ps102_03,ID_1520,Žl 102(101),3.24-25.19-21,61,469,za-na,Za nemocné 1,,52,
+data/json/ruzne_prilezitosti/za_nemocne.json,Za nemocné,,matched,manual,,1522,Iz38_02,ID_1521,Iz 38,10.11.12abcd.16,61,471,za-na,Za nemocné 2,,59,312
+data/json/ruzne_prilezitosti/za_nemocne.json,Za nemocné,,matched,manual,,1523,Ps102_03,ID_1522,Žl 102(101),3.24-25.19-21,61,472,za-na,Za nemocné v době velikonoční,,52,
+data/json/ruzne_prilezitosti/za_nemocne.json,Za nemocné,,matched,manual,,1524,Ps102_03,ID_1523,Žl 102(101),3.24-25.19-21,KB,196,za-na,Za nemocné KB,,52,196
+data/json/ruzne_prilezitosti/za_nemocne.json,Za nemocné,,matched,manual,,1525,Iz38_02,ID_1524,Iz 38,10.11.12abcd.16,KB,312,za-na,Za nemocné KB,,59,312
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1542,Ps103_08,ID_1541,Žl 103(102),1-2.3-4.8-9.11-12,61,495,za-na,Za odpuštění hříchů 1,,31,199
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1543,Ps051_10,ID_1542,Žl 51(50),3-4.5-6a.12-13.14+17,61,496,za-na,Za odpuštění hříchů 2,,16,115
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1544,Ps103_07,ID_1543,Žl 103(102),1-2.3-4.8-9.11-12,61,497,za-na,Za odpuštění hříchů 3,,17,199
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1545,Ps130_06,ID_1544,Žl 130(129),1-2.3-4.5-6a.6b-8,61,499,za-na,Za odpuštění hříchů 4,,75,270
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1546,Ps051_12,ID_1545,Žl 51(50),3-4.5-6a.12-13.14+17,KB,114,za-na,Za odpuštění hříchů KB,,51,114
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1547,Ps051_10,ID_1546,Žl 51(50),3-4.5-6a.12-13.14+17,KB,115,za-na,Za odpuštění hříchů KB,,16,115
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1548,Ps051_11,ID_1547,Žl 51(50),3-4.5-6a.12-13.14+17,KB,115,za-na,Za odpuštění hříchů KB,,19,115
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1549,Ps051_17,ID_1548,Žl 51(50),3-4.8-9.12-13.14+17,KB,116,za-na,Za odpuštění hříchů KB,,27,116
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1550,Ps051_04,ID_1549,Žl 51(50),3-4.12-13.17+19,KB,118,za-na,Za odpuštění hříchů KB,,16,118
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1551,Ps051_05,ID_1550,Žl 51(50),3-4.12-13.17+19,KB,118,za-na,Za odpuštění hříchů KB,,57,118
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1552,Ps103_07,ID_1551,Žl 103(102),1-2.3-4.8-9.11-12,KB,199,za-na,Za odpuštění hříchů KB,,17,199
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1553,Ps103_08,ID_1552,Žl 103(102),1-2.3-4.8-9.11-12,KB,199,za-na,Za odpuštění hříchů KB,,31,199
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1554,Ps130_01,ID_1553,Žl 130(129),1-2.3-4.5-6a.6b-8,KB,268,za-na,Za odpuštění hříchů KB,,26,268
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1555,Ps130_03,ID_1554,Žl 130(129),1-2.3-4.5-6a.6b-8,KB,269,za-na,Za odpuštění hříchů KB,,59,269
+data/json/ruzne_prilezitosti/za_odpusteni_hrichu.json,Za odpuštění hříchů,,matched,manual,,1556,Ps130_05,ID_1555,Žl 130(129),1-2.3-4.5-6a.6b-8,KB,270,za-na,Za odpuštění hříchů KB,,57,270
+data/json/ruzne_prilezitosti/za_papeze_biskupy_kneze.json,"Za papeže, biskupy a kněze",,matched,manual,,1403,Ps089_12,ID_1402,Žl 89(88),4-5.21-22.25+27,61,283,za-na,Za dobrou volbu papeže nebo biskupa,,9,
+data/json/ruzne_prilezitosti/za_papeze_biskupy_kneze.json,"Za papeže, biskupy a kněze",,matched,manual,,1405,Ps084_09,ID_1404,Žl 84(83),3-4.5+8a.11,61,290,za-na,Za kněze 1,,1,
+data/json/ruzne_prilezitosti/za_papeze_biskupy_kneze.json,"Za papeže, biskupy a kněze",,matched,manual,,1406,Ps110_01,ID_1405,Žl 110(109),1.2.3.4,61,290,za-na,Za kněze 1 – druhá možnost,,63,218
+data/json/ruzne_prilezitosti/za_papeze_biskupy_kneze.json,"Za papeže, biskupy a kněze",,matched,manual,,1407,Ps016_04,ID_1406,Žl 16(15),1-2a+5.7-8.11,61,291,za-na,Za kněze 2,,33,
+data/json/ruzne_prilezitosti/za_papeze_biskupy_kneze.json,"Za papeže, biskupy a kněze",,matched,manual,,1408,Ps019_04,ID_1407,Žl 19(18),2-3.4-5.6-7,61,292,za-na,Za kněze 2 – druhá možnost,,40,
+data/json/ruzne_prilezitosti/za_papeze_biskupy_kneze.json,"Za papeže, biskupy a kněze",,matched,manual,,1409,Ps027_07,ID_1408,Žl 27(26),1.4.5.8b-9ab.9cd+11,61,292,za-na,Za kněze 2 – třetí možnost,,20,49
+data/json/ruzne_prilezitosti/za_papeze_biskupy_kneze.json,"Za papeže, biskupy a kněze",,matched,manual,,1410,Ps016_08,ID_1409,Žl 16(15),1-2a+5.7-8.11,KB,19,za-na,za kněze KB,,11,19
+data/json/ruzne_prilezitosti/za_papeze_biskupy_kneze.json,"Za papeže, biskupy a kněze",,matched,manual,,1411,Ps019_02,ID_1410,Žl 19(18),2-3.4-5,KB,26,za-na,za kněze KB,,22,25
+data/json/ruzne_prilezitosti/za_papeze_biskupy_kneze.json,"Za papeže, biskupy a kněze",,matched,manual,,1412,Ps027_08,ID_1411,Žl 27(26),1.4.5.8-9b.9c-11,KB,48,za-na,za kněze KB,,5,48
+data/json/ruzne_prilezitosti/za_papeze_biskupy_kneze.json,"Za papeže, biskupy a kněze",,matched,manual,,1413,Ps084_10,ID_1412,Žl 84(83),3-4.5+8a.11,KB,154,za-na,za kněze KB,,11,154
+data/json/ruzne_prilezitosti/za_posveceni_prace.json,Za posvěcení lidské práce,,matched,manual,,1504,Ps090_05,ID_1503,Žl 90(89),2.3-4.5-6.12-13.14+16,61,440,za-na,Za posvěcení lidské práce 1,,12,169
+data/json/ruzne_prilezitosti/za_posveceni_prace.json,Za posvěcení lidské práce,,matched,manual,,1505,Ps127_01,ID_1504,Žl 127(126),1.2,61,441,za-na,Za posvěcení lidské práce 2,,12,265
+data/json/ruzne_prilezitosti/za_posveceni_prace.json,Za posvěcení lidské práce,,matched,manual,,1506,Ps090_03,ID_1505,Žl 90(89),2.3-4.12-13.14+16,KB,170,za-na,Za posvěcení lidské práce KB,,12,170
+data/json/ruzne_prilezitosti/za_posveceni_prace.json,Za posvěcení lidské práce,,matched,manual,,1507,Ps127_01,ID_1506,Žl 127(126),1.2,KB,265,za-na,Za posvěcení lidské práce KB,,12,265
+data/json/ruzne_prilezitosti/za_zachovani_miru.json,Za zachování míru a spravedlnosti,,matched,manual,,1486,Ps072_01,ID_1485,Žl 72(71),1-2.3-4ab.7-8.12-13.17,61,413,za-na,Za zachování míru a spravedlnosti 1,,4,142
+data/json/ruzne_prilezitosti/za_zachovani_miru.json,Za zachování míru a spravedlnosti,,matched,manual,,1487,Ps085_07,ID_1486,Žl 85(84),9ab+10.11-12.13-14,61,414,za-na,Za zachování míru a spravedlnosti 2,,15,
+data/json/ruzne_prilezitosti/za_zachovani_miru.json,Za zachování míru a spravedlnosti,,matched,manual,,1488,Ps122_10,ID_1487,Žl 122(121),1-2.4-5.6-7.8-9,61,415,za-na,Za zachování míru a spravedlnosti 3,,15,
+data/json/ruzne_prilezitosti/za_zachovani_miru.json,Za zachování míru a spravedlnosti,,matched,manual,,1489,Ps072_01,ID_1488,Žl 72(71),1-2.3-4ab.7-8.12-13.17,KB,142,za-na,Za zachování míru a spravedlnosti KB,,4,142
+data/json/ruzne_prilezitosti/za_zachovani_miru.json,Za zachování míru a spravedlnosti,,matched,manual,,1490,Ps085_05,ID_1489,Žl 85(84),9ab+10.11-12.13-14,KB,159,za-na,Za zachování míru a spravedlnosti KB,,4,159
+data/json/ruzne_prilezitosti/za_zachovani_miru.json,Za zachování míru a spravedlnosti,,matched,manual,,1491,Ps122_08,ID_1490,Žl 122(121),1-2.4-5.6-7.8-9,KB,258,za-na,Za zachování míru a spravedlnosti KB,,4,258
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1633,Ps103_22,ID_1632,Žl 103(102),8+10.13-14.15-16.17-18,62,632,zemř,Při mších za zemřelé mimo dobu velikonoční 1,,47,
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1634,Ps027_10,ID_1633,Žl 27(26),1.4.7+8b+9a.13-14,62,633,zemř,Při mších za zemřelé mimo dobu velikonoční 2,,20,51
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1635,Ps116_03,ID_1634,Žl 116(114),"5-6; (115), 10-11.15-16ac",62,635,zemř,Při mších za zemřelé mimo dobu velikonoční 3,,20,229
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1636,Ps023_03,ID_1635,Žl 23(22),1-3.4.5.6,62,636,zemř,Při mších za zemřelé mimo dobu velikonoční 4,,70,35
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1637,Ps023_03,ID_1636,Žl 23(22),1-3.4.5.6,62,637,zemř,Při mších za zemřelé mimo dobu velikonoční 5,,70,35
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1638,Ps025_14,ID_1637,Žl 25(24),6+7bc.17-18.20-21,62,638,zemř,Při mších za zemřelé mimo dobu velikonoční 6,,17,
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1639,Ps042_01,ID_1638,Žl 42(41),2.3.5bcd,62,639,zemř,Při mších za zemřelé mimo dobu velikonoční 7,,50,
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1640,Ps063_02,ID_1639,Žl 63(62),2.3-4.5-6.8-9,62,640,zemř,Při mších za zemřelé v době velikonoční 1,,50,126
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1641,Ps130_04,ID_1640,Žl 130(129),1-2.3-4.5-6a.6b-8,62,641,zemř,Při mších za zemřelé v době velikonoční 2,,66,269
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1642,Ps143_02,ID_1641,Žl 143(142),1-2.5-6.7ab+8ab.10,62,642,zemř,Při mších za zemřelé v době velikonoční 3,,52,282
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1643,Ps122_11,ID_1642,Žl 122(121),1-2.4-5.6-7.8-9,62,643,zemř,Při mších za zemřelé v době velikonoční 4,,1,
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1644,Ps023_01,ID_1643,Žl 23(22),1-3.4.5.6,KB,34,zemř,Za zemřelé KB,,23,34
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1645,Ps025_12,ID_1644,Žl 25(24),6+7bc.17-18.20-21,KB,45,zemř,Za zemřelé KB,,3,45
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1646,Ps025_13,ID_1645,Žl 25(24),6+7bc.17-18.20-21,KB,45,zemř,Za zemřelé KB,,51,45
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1647,Ps027_10,ID_1646,Žl 27(26),1.4.7+8b+9a.13-14,KB,51,zemř,Za zemřelé KB,,20,51
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1648,Ps042_02,ID_1647,Žl 42(41),2.3.5bcd,KB,94,zemř,Za zemřelé KB,,36,94
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1649,Ps04243_03,ID_1648,"Žl 42,43(41,42)","2.3.5bcd; 43 (42), 3.4",KB,95,zemř,Za zemřelé KB,,50,95
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1650,Ps063_02,ID_1649,Žl 63(62),2.3-4.5-6.8-9,KB,126,zemř,Za zemřelé KB,,50,126
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1651,Ps103_16,ID_1650,Žl 103(102),8+10.13-14.15-16.17-18,KB,205,zemř,Za zemřelé KB,,17,205
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1652,Ps116_03,ID_1651,Žl 116(114+115),5-6.10-11.15-16ac,KB,229,zemř,Za zemřelé KB,,20,229
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1653,Ps130_01,ID_1652,Žl 130(129),1-2.3-4.5-6a.6b-8,KB,268,zemř,Za zemřelé KB,,26,268
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1654,Ps130_03,ID_1653,Žl 130(129),1-2.3-4.5-6a.6b-8,KB,269,zemř,Za zemřelé KB,,59,269
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1655,Ps130_04,ID_1654,Žl 130(129),1-2.3-4.5-6a.6b-8,KB,269,zemř,Za zemřelé KB,,66,269
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1656,Ps130_06,ID_1655,Žl 130(129),1-2.3-4.5-6a.6b-8,KB,270,zemř,Za zemřelé KB,,75,270
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1657,Ps143_02,ID_1656,Žl 143(142),1-2.5-6.7ab+8ab.10,KB,282,zemř,Za zemřelé KB,,52,282
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1658,Ps116_04,ID_1657,Žl 116(114+115),5-6.10-11.15-16ac,KL,354,zemř,Za zemřelé KL,,53,
+data/json/ruzne_prilezitosti/za_zemrele.json,Při mších za zemřelé,,matched,manual,,1659,Ps122_09,ID_1658,Žl 122(121),1-2.4-5.6-7.8-9,KL,400,zemř,Za zemřelé – v době velikonoční KL,,42,
+data/json/ruzne_prilezitosti/zacatek_obcanskeho_roku.json,Na začátku občanského roku,,matched,manual,,1499,Ps008_01,ID_1498,Žl 8,2a+4-5.6-7.8-9,61,436,za-na,Na začátku občanského roku 1,,12,12
+data/json/ruzne_prilezitosti/zacatek_obcanskeho_roku.json,Na začátku občanského roku,,matched,manual,,1500,Ps090_05,ID_1499,Žl 90(89),2.3-4.5-6.12-13.14+16,61,436,za-na,Na začátku občanského roku 2,,12,169
+data/json/ruzne_prilezitosti/zacatek_obcanskeho_roku.json,Na začátku občanského roku,,matched,manual,,1501,Ps008_01,ID_1500,Žl 8,2a+4-5.6-7.8-9,KB,12,za-na,Na začátku občanského roku KB,,12,12
+data/json/ruzne_prilezitosti/zacatek_obcanskeho_roku.json,Na začátku občanského roku,,matched,manual,,1502,Ps049_03,ID_1501,Žl 49(48),2-3.6-7.8-10.11.17-18,KB,106,za-na,Na začátku občanského roku KB,,12,106
+data/json/ruzne_prilezitosti/zacatek_obcanskeho_roku.json,Na začátku občanského roku,,matched,manual,,1503,Ps090_05,ID_1502,Žl 90(89),2.3-4.5-6.12-13.14+16,KB,169,za-na,Na začátku občanského roku KB,,12,169
+data/json/sanktoral/01_18.json,"Panny Marie, Matky jednoty křesťanů",,matched,date+name,,797,Lk1_02,ID_0796,Lk 1,46-48a.48b-49.50-51.52-53.54-55,5,255,f-Svátky,"18. ledna - Panny Marie, Matky jednoty křesťanů",,6,316
+data/json/sanktoral/01_25.json,"Obrácení sv. Pavla, apoštola",,matched,date+name,,805,Ps117_02,ID_0804,Žl 117(116),1.2,5,261,f-Svátky,"25. ledna - Obrácení svatého Pavla, apoštola",,54,233
+data/json/sanktoral/02_02.json,Uvedení Páně do chrámu,,matched,date+name,,813,Ps024_01,ID_0812,Žl 24(23),7.8.9.10,5,266,f-Svátky,2. února - Uvedení Páně do chrámu,,8,38
+data/json/sanktoral/02_11.json,Panny Marie Lurdské,,matched,date+name,,822,Jdt13_01,ID_0821,Jdt 13,18bcde.19,5,273,f-Svátky,11. února - Panny Marie Lurdské,,64,309
+data/json/sanktoral/02_22.json,Stolce svatého apoštola Petra,,matched,date+name,,825,Ps023_01,ID_0824,Žl 23(22),1-3.4.5.6,5,274,f-Svátky,22. února - Stolce svatého apoštola Petra,,23,34
+data/json/sanktoral/03_04.json,Sv. Kazimíra,,matched,date+name,,827,Ps015_01,ID_0826,Žl 15(14),2-3ab.3cd-4ab.5,5,278,f-Svátky,4. března – Sv. Kazimíra,,11,16
+data/json/sanktoral/03_19.json,"Sv. Josefa, Snoubence Panny Marie",,matched,date+name,,835,Ps089_05,ID_0834,Žl 89(88),2-3.4-5.27+29,5,280,f-Svátky,"19. března – Sv. Josefa, snoubence Panny Marie",,9,163
+data/json/sanktoral/03_25.json,Zvěstování Páně,,matched,date+name,,837,Ps040_08,ID_0836,Žl 40(39),7-8a.8b-9.10.11,5,284,f-Svátky,25. března - Zvěstování Páně,,45,92
+data/json/sanktoral/04_23.json,"Sv. Vojtěcha, biskupa a mučedníka",,matched,date+name,,846,Ps096_09,ID_0845,Žl 96(95),1-2a.2b-3.7-8a.10,5,291,f-Svátky,"23. dubna – Sv. Vojtěcha, biskupa a mučedníka",,54,180
+data/json/sanktoral/04_25.json,"Sv. Marka, evangelisty",,matched,date+name,,850,Ps089_06,ID_0849,Žl 89(88),2-3.6-7.16-17,5,294,f-Svátky,"25. dubna – Sv. Marka, evangelisty",,9,164
+data/json/sanktoral/05_01.json,"Sv. Josefa, dělníka",,matched,date+name,,858,Ps090_03,ID_0857,Žl 90(89),2.3-4.12-13.14+16,5,301,f-Svátky,1. května – Sv. Josefa Dělníka,,12,170
+data/json/sanktoral/05_03.json,"Sv. Filipa a Jakuba, apoštolů",,matched,date+name,,860,Ps019_02,ID_0859,Žl 19(18),2-3.4-5,5,305,f-Svátky,"3. května - Sv. Filipa a Jakuba, apoštolů",,22,25
+data/json/sanktoral/05_14.json,"Sv. Matěje, apoštola",,matched,date+name,,869,Ps113_06,ID_0868,Žl 113(112),1-2.3-4.5-6.7-8,5,309,f-Svátky,"14. května – Sv. Matěje, apoštola",,42,225
+data/json/sanktoral/05_14.json,"Sv. Matěje, apoštola",,matched,date+name,,870,Ps113_02,ID_0869,Žl 113(112),1-2.3-4.5-6.7-8,KB,224,f-Svátky,"14. května – Sv. Matěje, apoštola",,58,224
+data/json/sanktoral/05_16.json,"Sv. Jana Nepomuckého, kněze a mučedníka",,matched,date+name,,871,Ps069_08,ID_0870,Žl 69(68),5ab.7ac+8.15bc+31,5,312,f-Svátky,"16. května – Sv. Jana Nepomuckého, kněze a mučedníka",,56,134
+data/json/sanktoral/05_30.json,Sv. Zdislavy,,matched,date+name,,884,Ps128_01,ID_0883,Žl 128(127),1-2.3.4-5,5,316,f-Svátky,30. května – Sv. Zdislavy,,11,266
+data/json/sanktoral/05_31.json,Navštívení Panny Marie,,matched,date+name,,885,Iz12_02,ID_0884,Iz 12,2-3.4bcd.5-6,5,318,f-Svátky,31. května - Navštívení Panny Marie,,39,310
+data/json/sanktoral/06_01.json,"Sv. Justina, mučedníka",,matched,date+name,,886,Ps034_09,ID_0885,Žl 34(33),2-3.4-5.6-7.8-9,5,322,f-Svátky,"1. června – Sv. Justina, mučedníka",,11,74
+data/json/sanktoral/06_01.json,"Sv. Justina, mučedníka",,matched,date+name,,887,Ps034_11,ID_0886,Žl 34(33),2-3.4-5.6-7.8-9,5,322,f-Svátky,"1. června – Sv. Justina, mučedníka",,49,74
+data/json/sanktoral/06_11.json,"Sv. Barnabáše, apoštola",,matched,date+name,,893,Ps098_05,ID_0892,Žl 98(97),1.2-3ab.3c-4.5-6,5,325,f-Svátky,"11. června - Sv.Barnabáše, apoštola",,14,191
+data/json/sanktoral/06_13.json,"Sv. Antonína z Padovy, kněze a učitele církve",,matched,date+name,,894,Ps089_04,ID_0893,Žl 89(88),2-3.4-5.21-22.25+27,5,326,f-Svátky,"13. června – Sv. Antonína z Padovy, kněze a učitele církve",,9,162
+data/json/sanktoral/06_15.json,"Sv. Víta, mučedníka",,matched,date+name,,895,Ps124_02,ID_0894,Žl 124(123),2-3.4-5.7b-8,5,327,f-Svátky,"15. června – Sv. Víta, mučedníka",,20,262
+data/json/sanktoral/06_24.json,Narození sv. Jana Křtitele,,matched,date+name,,901,Ps071_01,ID_0900,Žl 71(70),1-2.3-4a.5-6ab.15ab+17,5,330,f-Svátky,24. června - Narození sv. Jana Křtitele - Vigilie,,46,141
+data/json/sanktoral/06_24.json,Narození sv. Jana Křtitele,,matched,date+name,,902,Ps139_01,ID_0901,Žl 139(138),1-3.13-14ab.14c-15,5,333,f-Svátky,24. června - Narození sv. Jana Křtitele - V den slavnosti,,47,281
+data/json/sanktoral/06_29.json,"Sv. Petra a Pavla, apoštolů",,matched,date+name,,905,Ps019_02,ID_0904,Žl 19(18),2-3.4-5,5,338,f-Svátky,"29. června – Sv. Petra a Pavla, apoštolů - Vigilie",,22,25
+data/json/sanktoral/06_29.json,"Sv. Petra a Pavla, apoštolů",,matched,date+name,,906,Ps034_11,ID_0905,Žl 34(33),2-3.4-5.6-7.8-9,5,341,f-Svátky,"29. června – Sv. Petra a Pavla, apoštolů - v den slavnosti",,49,74
+data/json/sanktoral/07_03.json,"Sv. Tomáše, apoštola",,matched,date+name,,908,Ps117_02,ID_0907,Žl 117(116),1.2,5,345,f-Svátky,"3. července – Sv. Tomáše, apoštola",,54,233
+data/json/sanktoral/07_04.json,"Sv. Prokopa, opata",,matched,date+name,,909,Ps001_01,ID_0908,Žl 1,1-2.3.4+6,5,348,f-Svátky,"4. července – Sv. Prokopa, opata",,11,9
+data/json/sanktoral/07_05.json,"Sv. Cyrila, mnicha, a Metoděje, biskupa, patronů Evropy",,matched,date+name,,912,Ps117_02,ID_0911,Žl 117(116),1.2,5,350,f-Svátky,"5. července – Sv. Cyrila, mnicha a Metoděje, biskupa",,54,233
+data/json/sanktoral/07_11.json,"Sv. Benedikta, opata, patrona Evropy",,matched,date+name,,915,Ps034_20,ID_0914,Žl 34(33),2-3.4+6.9+12.14-15,5,354,f-Svátky,"11. července – Sv. Benedikta, opata, patrona Evropy",,69,79
+data/json/sanktoral/07_13.json,Sv. Jindřicha,,matched,date+name,,916,Ps001_01,ID_0915,Žl 1,1-2.3.4+6,5,355,f-Svátky,13. července - Sv. Jindřicha,,11,9
+data/json/sanktoral/07_14.json,"Bl. Hroznaty, mučedníka",,matched,date+name,,917,Ps031_07,ID_0916,Žl 31(30),3cd-4.6+8ab.16bc-17,5,356,f-Svátky,"14. července – Bl. Hroznaty, mučedníka",,65,60
+data/json/sanktoral/07_22.json,Sv. Marie Magdalény,,matched,date+name,,925,Ps063_02,ID_0924,Žl 63(62),2.3-4.5-6.8-9,5,360,f-Svátky,22. července - Sv. Marie Magdalény,,50,126
+data/json/sanktoral/07_25.json,"Sv. Jakuba, apoštola",,matched,date+name,,928,Ps126_01,ID_0927,Žl 126(125),1-2ab.2cd-3.4-5.6,5,365,f-Svátky,"25. července – Sv. Jakuba, apoštola",,5,263
+data/json/sanktoral/07_26.json,"Sv. Jáchyma a Anny, rodičů Panny Marie",,matched,date+name,,929,Ps128_01,ID_0928,Žl 128(127),1-2.3.4-5,5,368,f-Svátky,"26. července – Sv. Jáchyma a Anny, rodičů Panny Marie (k Sir 26)",,11,266
+data/json/sanktoral/07_26.json,"Sv. Jáchyma a Anny, rodičů Panny Marie",,matched,date+name,,930,Ps132_03,ID_0929,Žl 132(131),11.13-14.17-18,5,368,f-Svátky,"26. července – Sv. Jáchyma a Anny, rodičů Panny Marie (k Sir 44)",,9,274
+data/json/sanktoral/07_29.json,Sv. Marty,,matched,date+name,,932,Ps034_15,ID_0931,Žl 34(33),2-3.4-5.6-7.8-9.10-11,5,369,f-Svátky,29. července – Sv. Marty,,25,77
+data/json/sanktoral/07_29.json,Sv. Marty,,matched,date+name,,933,Ps034_16,ID_0932,Žl 34(33),2-3.4-5.6-7.8-9.10-11,KB,,f-Svátky,29. července – Sv. Marty,,11,76
+data/json/sanktoral/07_31.json,"Sv. Ignáce z Loyoly, kněze",,matched,date+name,,936,Ps034_16,ID_0935,Žl 34(33),2-3.4-5.6-7.8-9.10-11,KB,,f-Svátky,"31. července – Sv. Ignáce z Loyoly, kněze",,11,76
+data/json/sanktoral/07_31.json,"Sv. Ignáce z Loyoly, kněze",,matched,date+name,,937,Ps034_15,ID_0936,Žl 34(33),2-3.4-5.6-7.8-9.10-11,5,371,f-Svátky,"31. července – Sv. Ignáce z Loyoly, kněze",,25,77
+data/json/sanktoral/08_06.json,Proměnění Páně,,matched,date+name,,944,Ps097_03,ID_0943,Žl 97(96),1-2.5-6.9,5,377,f-Svátky,6. srpna - Proměnění Páně,,43,185
+data/json/sanktoral/08_08.json,"Sv. Dominika, kněze",,matched,date+name,,947,Ps096_09,ID_0946,Žl 96(95),1-2a.2b-3.7-8a.10,5,381,f-Svátky,"8. srpna – Sv. Dominika, kněze",,54,180
+data/json/sanktoral/08_10.json,"Sv. Vavřince, jáhna a mučedníka",,matched,date+name,,949,Ps112_09,ID_0948,Žl 112(111),1-2.5-6.7-8.9,5,384,f-Svátky,"10. srpna – Sv. Vavřince, jáhna a mučedníka",,47,222
+data/json/sanktoral/08_11.json,"Sv. Kláry, panny",,matched,date+name,,950,Ps016_01,ID_0949,Žl 16(15),1-2a+5.7-8.11,5,386,f-Svátky,"11. srpna – Sv. Kláry, panny",,45,19
+data/json/sanktoral/08_15.json,Nanebevzetí Panny Marie,,matched,date+name,,955,Ps045_01,ID_0954,Žl 45(44),10.11.12.16,KB,,f-Svátky,15. srpna - Nanebevzetí Panny Marie - V den slavnosti KB,,43,99
+data/json/sanktoral/08_15.json,Nanebevzetí Panny Marie,,matched,date+name,,956,Ps045_02,ID_0955,Žl 45(44),10.11.12.16,KB,,f-Svátky,15. srpna - Nanebevzetí Panny Marie - V den slavnosti KB,,67,100
+data/json/sanktoral/08_15.json,Nanebevzetí Panny Marie,,matched,date+name,,957,Ps045_03,ID_0956,Žl 45(44),10b.11a+12a.16,5,390,f-Svátky,15. srpna - Nanebevzetí Panny Marie - V den slavnosti,,67,
+data/json/sanktoral/08_15.json,Nanebevzetí Panny Marie,,matched,date+name,,958,Ps132_05,ID_0957,Žl 132(131),6-7.9-10.13-14,5,388,f-Svátky,15. srpna - Nanebevzetí Panny Marie – Vigilie,,43,272
+data/json/sanktoral/08_15.json,Nanebevzetí Panny Marie,,matched,date+name,,959,Ps132_06,ID_0958,Žl 132(131),6-7.9-10.13-14,5,388,f-Svátky,15. srpna - Nanebevzetí Panny Marie – Vigilie,,48,273
+data/json/sanktoral/08_16.json,Sv. Štěpána Uherského,,matched,date+name,,960,Ps112_03,ID_0959,Žl 112(111),1-2.3-4.5-6.7-8.9,5,393,f-Svátky,16. srpna – Sv. Štěpána Uherského,,11,220
+data/json/sanktoral/08_22.json,Panny Marie Královny,,matched,date+name,,965,Ps113_02,ID_0964,Žl 113(112),1-2.3-4.5-6.7-8,5,394,f-Svátky,22. srpna - Panny Marie Královny,,58,224
+data/json/sanktoral/08_24.json,"Sv. Bartoloměje, apoštola",,matched,date+name,,967,Ps145_05,ID_0966,Žl 145(144),10-11.12-13ab.17-18,5,395,f-Svátky,"24. srpna – Sv. Bartoloměje, apoštola",,39,291
+data/json/sanktoral/08_24.json,"Sv. Bartoloměje, apoštola",,matched,date+name,,968,Ps145_06,ID_0967,Žl 145(144),10-11.12-13ab.17-18,5,395,f-Svátky,"24. srpna – Sv. Bartoloměje, apoštola – druhá možnost",,49,291
+data/json/sanktoral/08_25.json,Sv. Ludvíka,,matched,date+name,,970,Ps112_05,ID_0969,Žl 112(111),1-2.3-4.5-6.7-8.9,5,397,f-Svátky,25. srpna – Sv. Ludvíka,,11,221
+data/json/sanktoral/08_29.json,Umučení sv. Jana Křtitele,,matched,date+name,,975,Ps071_05,ID_0974,Žl 71(70),1-2.3-4a.5-6ab.15ab+16-17,5,399,f-Svátky,29. srpna - Umučení sv. Jana Křtitele,,46,140
+data/json/sanktoral/09_08.json,Narození Panny Marie,,matched,date+name,,978,Ps013_02,ID_0977,Žl 13(12),6ab.6cd,5,403,f-Svátky,8. září - Narození Panny Marie,,6,15
+data/json/sanktoral/09_14.json,Povýšení svatého kříže,,matched,date+name,,983,Ps078_01,ID_0982,Žl 78(77),1-2.34-35.36-37.38,5,408,f-Svátky,14. září - Povýšení svatého kříže,,39,145
+data/json/sanktoral/09_15.json,Panny Marie Bolestné,,matched,date+name,,984,Ps031_02,ID_0983,Žl 31(30),2-3a.3b-4.5-6.15-16.20,5,410,f-Svátky,15. září - Panny Marie Bolestné,,5,57
+data/json/sanktoral/09_16.json,"Sv. Ludmily, mučednice",,matched,date+name,,985,Ps119_01,ID_0984,Žl 119(118),1-2.137-138.139+150.161+168,5,416,f-Svátky,"16. září – Sv. Ludmily, mučednice",,11,250
+data/json/sanktoral/09_21.json,"Sv. Matouše, apoštola a evangelisty",,matched,date+name,,990,Ps019_02,ID_0989,Žl 19(18),2-3.4-5,5,419,f-Svátky,"21. září – Sv. Matouše, apoštola a evangelisty",,22,25
+data/json/sanktoral/09_28.json,"Sv. Václava, mučedníka, hlavního patrona českého národa",,matched,date+name,,994,1Kron29_02,ID_0993,1 Kron 29,11abc.11d-12a.12bcd,5,422,f-Svátky,"28. září – Sv. Václava, mučedníka",,72,308
+data/json/sanktoral/09_29.json,"Sv. Michaela, Gabriela a Rafaela, archandělů",,matched,date+name,,995,Ps138_01,ID_0994,Žl 138(137),1-2a.2bc+3.4-5,5,426,f-Svátky,"29. září – Sv. Michaela, Gabriela a Rafaela, archandělů",,73,277
+data/json/sanktoral/10_02.json,Svatých andělů strážných,,matched,date+name,,999,Ps091_02,ID_0998,Žl 91(90),1-2.3-4ab.4c-6.10-11,5,432,f-Svátky,2. října - Svatých andělů strážných,,73,173
+data/json/sanktoral/10_04.json,Sv. Františka z Assisi,,matched,date+name,,1000,Ps016_01,ID_0999,Žl 16(15),1-2a+5.7-8.11,5,433,f-Svátky,4. října – Sv. Františka z Assisi,,45,19
+data/json/sanktoral/10_07.json,Panny Marie Růžencové,,matched,date+name,,1002,Lk1_02,ID_1001,Lk 1,46-48a.48b-49.50-51.52-53.54-55,5,434,f-Svátky,7. října - Panny Marie Růžencové,,6,316
+data/json/sanktoral/10_15.json,"Sv. Terezie od Ježíše, panny a učitelky církve",,matched,date+name,,1007,Ps019_07,ID_1006,Žl 19(18),8.9.10.11,5,436,f-Svátky,"15. října – Sv. Terezie od Ježíše, panny a učitelky církve",,22,27
+data/json/sanktoral/10_18.json,"Sv. Lukáše, evangelisty",,matched,date+name,,1012,Ps145_05,ID_1011,Žl 145(144),10-11.12-13ab.17-18,5,439,f-Svátky,"18. října – Sv. Lukáše, evangelisty",,39,291
+data/json/sanktoral/10_18.json,"Sv. Lukáše, evangelisty",,matched,date+name,,1013,Ps145_06,ID_1012,Žl 145(144),10-11.12-13ab.17-18,5,439,f-Svátky,"18. října – Sv. Lukáše, evangelisty – druhá možnost",,49,291
+data/json/sanktoral/10_28.json,"Sv. Šimona a Judy, apoštolů",,matched,date+name,,1018,Ps019_02,ID_1017,Žl 19(18),2-3.4-5,5,442,f-Svátky,"28. října – Sv. Šimona a Judy, apoštolů",,22,25
+data/json/sanktoral/11_01.json,Všech svatých,,matched,date+name,,1021,Ps024_03,ID_1020,Žl 24(23),1-2.3-4ab.5-6,5,446,f-Svátky,1. listopadu - Všech svatých,,69,37
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1633,Ps103_22,ID_1632,Žl 103(102),8+10.13-14.15-16.17-18,62,632,zemř,Při mších za zemřelé mimo dobu velikonoční 1,,47,
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1634,Ps027_10,ID_1633,Žl 27(26),1.4.7+8b+9a.13-14,62,633,zemř,Při mších za zemřelé mimo dobu velikonoční 2,,20,51
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1635,Ps116_03,ID_1634,Žl 116(114),"5-6; (115), 10-11.15-16ac",62,635,zemř,Při mších za zemřelé mimo dobu velikonoční 3,,20,229
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1636,Ps023_03,ID_1635,Žl 23(22),1-3.4.5.6,62,636,zemř,Při mších za zemřelé mimo dobu velikonoční 4,,70,35
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1637,Ps023_03,ID_1636,Žl 23(22),1-3.4.5.6,62,637,zemř,Při mších za zemřelé mimo dobu velikonoční 5,,70,35
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1638,Ps025_14,ID_1637,Žl 25(24),6+7bc.17-18.20-21,62,638,zemř,Při mších za zemřelé mimo dobu velikonoční 6,,17,
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1639,Ps042_01,ID_1638,Žl 42(41),2.3.5bcd,62,639,zemř,Při mších za zemřelé mimo dobu velikonoční 7,,50,
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1640,Ps063_02,ID_1639,Žl 63(62),2.3-4.5-6.8-9,62,640,zemř,Při mších za zemřelé v době velikonoční 1,,50,126
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1641,Ps130_04,ID_1640,Žl 130(129),1-2.3-4.5-6a.6b-8,62,641,zemř,Při mších za zemřelé v době velikonoční 2,,66,269
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1642,Ps143_02,ID_1641,Žl 143(142),1-2.5-6.7ab+8ab.10,62,642,zemř,Při mších za zemřelé v době velikonoční 3,,52,282
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1643,Ps122_11,ID_1642,Žl 122(121),1-2.4-5.6-7.8-9,62,643,zemř,Při mších za zemřelé v době velikonoční 4,,1,
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1644,Ps023_01,ID_1643,Žl 23(22),1-3.4.5.6,KB,34,zemř,Za zemřelé KB,,23,34
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1645,Ps025_12,ID_1644,Žl 25(24),6+7bc.17-18.20-21,KB,45,zemř,Za zemřelé KB,,3,45
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1646,Ps025_13,ID_1645,Žl 25(24),6+7bc.17-18.20-21,KB,45,zemř,Za zemřelé KB,,51,45
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1647,Ps027_10,ID_1646,Žl 27(26),1.4.7+8b+9a.13-14,KB,51,zemř,Za zemřelé KB,,20,51
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1648,Ps042_02,ID_1647,Žl 42(41),2.3.5bcd,KB,94,zemř,Za zemřelé KB,,36,94
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1649,Ps04243_03,ID_1648,"Žl 42,43(41,42)","2.3.5bcd; 43 (42), 3.4",KB,95,zemř,Za zemřelé KB,,50,95
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1650,Ps063_02,ID_1649,Žl 63(62),2.3-4.5-6.8-9,KB,126,zemř,Za zemřelé KB,,50,126
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1651,Ps103_16,ID_1650,Žl 103(102),8+10.13-14.15-16.17-18,KB,205,zemř,Za zemřelé KB,,17,205
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1652,Ps116_03,ID_1651,Žl 116(114+115),5-6.10-11.15-16ac,KB,229,zemř,Za zemřelé KB,,20,229
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1653,Ps130_01,ID_1652,Žl 130(129),1-2.3-4.5-6a.6b-8,KB,268,zemř,Za zemřelé KB,,26,268
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1654,Ps130_03,ID_1653,Žl 130(129),1-2.3-4.5-6a.6b-8,KB,269,zemř,Za zemřelé KB,,59,269
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1655,Ps130_04,ID_1654,Žl 130(129),1-2.3-4.5-6a.6b-8,KB,269,zemř,Za zemřelé KB,,66,269
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1656,Ps130_06,ID_1655,Žl 130(129),1-2.3-4.5-6a.6b-8,KB,270,zemř,Za zemřelé KB,,75,270
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1657,Ps143_02,ID_1656,Žl 143(142),1-2.5-6.7ab+8ab.10,KB,282,zemř,Za zemřelé KB,,52,282
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1658,Ps116_04,ID_1657,Žl 116(114+115),5-6.10-11.15-16ac,KL,354,zemř,Za zemřelé KL,,53,
+data/json/sanktoral/11_02.json,Vzpomínka na všechny věrné zemřelé,,matched,json-alternative,Spárováno podle alternatives v JSONu.,1659,Ps122_09,ID_1658,Žl 122(121),1-2.4-5.6-7.8-9,KL,400,zemř,Za zemřelé – v době velikonoční KL,,42,
+data/json/sanktoral/11_09.json,Posvěcení lateránské baziliky,,matched,date+name,,1025,Ps046_01,ID_1024,Žl 46(45),2-3.5-6.8-9,5,450,f-Svátky,9. listopadu - Posvěcení lateránské baziliky,,1,104
+data/json/sanktoral/11_11.json,"Sv. Martina, biskupa",,matched,date+name,,1027,Ps089_04,ID_1026,Žl 89(88),2-3.4-5.21-22.25+27,5,452,f-Svátky,"11. listopadu – Sv. Martina, biskupa",,9,162
+data/json/sanktoral/11_13.json,"Sv. Anežky České, panny",,matched,date+name,,1029,Ps103_09,ID_1028,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,5,453,f-Svátky,"13. listopadu – Sv. Anežky České, panny",,31,200
+data/json/sanktoral/11_13.json,"Sv. Anežky České, panny",,matched,date+name,,1030,Ps103_23,ID_1029,Žl 103(102),1-2.3-4.8-9.13-14.17-18a,5,453,f-Svátky,"13. listopadu – Sv. Anežky České, panny",,17,200
+data/json/sanktoral/11_17.json,"Sv. Alžběty Uherské, řeholnice",,matched,date+name,,1035,Ps034_17,ID_1034,Žl 34(33),2-3.4-5.6-7.8-9.10-11,5,454,f-Svátky,"17. listopadu – Sv. Alžběty Uherské, řeholnice",,49,76
+data/json/sanktoral/11_18.json,Posvěcení římských bazilik svatých apoštolů Petra a Pavla,,matched,date+name,,1036,Ps098_05,ID_1035,Žl 98(97),1.2-3ab.3c-4.5-6,5,455,f-Svátky,18. listopadu - Posvěcení římských bazilik svatých apoštolů Petra a Pavla,,14,191
+data/json/sanktoral/11_21.json,Zasvěcení Panny Marie v Jeruzalémě,,matched,date+name,,1037,Lk1_02,ID_1036,Lk 1,46-48a.48b-49.50-51.52-53.54-55,5,457,f-Svátky,21. listopadu - Zasvěcení Panny Marie v Jeruzalémě,,6,316
+data/json/sanktoral/11_30.json,"Sv. Ondřeje, apoštola",,matched,date+name,,1044,Ps019_02,ID_1043,Žl 19(18),2-3.4-5,5,460,f-Svátky,"30. listopadu – Sv. Ondřeje, apoštola",,22,25
+data/json/sanktoral/12_06.json,"Sv. Mikuláše, biskupa",,matched,date+name,,1048,Ps040_03,ID_1047,Žl 40(39),2+4ab.7-8a.8b-9.10,5,462,f-Svátky,"6. prosince – Sv. Mikuláše, biskupa",,45,89
+data/json/sanktoral/12_08.json,"Panny Marie, počaté bez poskvrny prvotního hříchu",,matched,date+name,,1050,Ps098_01,ID_1049,Žl 98(97),1.2-3ab.3c-4,5,463,f-Svátky,"8. prosince - Panny Marie, počaté bez poskvrny prvotního hříchu",,38,190
+data/json/sanktoral/12_26.json,"Sv. Štěpána, prvomučedníka",,matched,date+name,,1058,Ps031_07,ID_1057,Žl 31(30),3cd-4.6+8ab.16bc-17,5,468,f-Svátky,"26. prosince – Sv. Štěpána, prvomučedníka",,65,60
+data/json/sanktoral/12_27.json,"Sv. Jana, apoštola a evangelisty",,matched,date+name,,1059,Ps097_02,ID_1058,Žl 97(96),1-2.5-6.11-12,5,470,f-Svátky,"27. prosince – Sv. Jana, apoštola a evangelisty",,69,186
+data/json/sanktoral/12_28.json,"Svatých Mláďátek, mučedníků",,matched,date+name,,1060,Ps124_02,ID_1059,Žl 124(123),2-3.4-5.7b-8,5,473,f-Svátky,"28. prosince - Svatých Mláďátek, mučedníků",,20,262
+data/json/sanktoral/neposkvrnene_srdce_panny_marie.json,Neposkvrněného Srdce Panny Marie,Sobota po 2. neděli po Seslání Ducha svatého,matched,manual,Spárováno podle alternatives v JSONu.,1064,1Sam2_01,ID_1063,1 Sam 2,1.4-5.6-7.8abcd,5,321,f-Svátky,Sobota po 2. neděli po Seslání Ducha Svatého - Neposkvrněného Srdce Panny Marie,,58,306
+data/json/slavnosti_pane/jezise_krista_krale.json,Ježíše Krista Krále,,matched,manual,,766,Ps023_01,ID_0765,Žl 23(22),1-3.4.5.6,1A,356,e-Mezidobí,34. neděle v mezidobí - Slavnost Ježíše Krista Krále,A,23,34
+data/json/slavnosti_pane/jezise_krista_krale.json,Ježíše Krista Krále,,matched,manual,,767,Ps093_01,ID_0766,Žl 93(92),1ab.1c-2.5,1B,315,e-Mezidobí,34. neděle v mezidobí - Slavnost Ježíše Krista Krále,B,43,176
+data/json/slavnosti_pane/jezise_krista_krale.json,Ježíše Krista Krále,,matched,manual,,768,Ps122_07,ID_0767,Žl 122(121),1-2.4-5,1C,333,e-Mezidobí,34. neděle v mezidobí - Slavnost Ježíše Krista Krále,C,1,257
+data/json/slavnosti_pane/nejsvetejsi_trojice.json,Nejsvětější Trojice,,matched,manual,,781,Dan3_01,ID_0780,Dan 3,52a.52b.53.54.55.56,1A,361,e-Mezidobí,Slavnost Nejsvětější Trojice,A,60,315
+data/json/slavnosti_pane/nejsvetejsi_trojice.json,Nejsvětější Trojice,,matched,manual,,782,Ps033_23,ID_0781,Žl 33(32),4-5.6+9.18-19.20+22,1B,319,e-Mezidobí,Slavnost Nejsvětější Trojice,B,11,69
+data/json/slavnosti_pane/nejsvetejsi_trojice.json,Nejsvětější Trojice,,matched,manual,,783,Ps008_03,ID_0782,Žl 8,2a+4-5.6-7.8-9,1C,337,e-Mezidobí,Slavnost Nejsvětější Trojice,C,58,13
+data/json/slavnosti_pane/nejsvetejsiho_srdce.json,Nejsvětějšího Srdce Ježíšova,,matched,manual,,788,Ps103_04,ID_0787,Žl 103(102),1-2.3-4.6-7.8+10,1A,371,e-Mezidobí,Slavnost Nejsvětějšího Srdce Ježíšova,A,17,197
+data/json/slavnosti_pane/nejsvetejsiho_srdce.json,Nejsvětějšího Srdce Ježíšova,,matched,manual,,789,Iz12_03,ID_0788,Iz 12,2.4bcd.5-6,1B,329,e-Mezidobí,Slavnost Nejsvětějšího Srdce Ježíšova,B,35,311
+data/json/slavnosti_pane/nejsvetejsiho_srdce.json,Nejsvětějšího Srdce Ježíšova,,matched,manual,,790,Ps023_01,ID_0789,Žl 23(22),1-3.4.5.6,1C,346,e-Mezidobí,Slavnost Nejsvětějšího Srdce Ježíšova,C,23,34
+data/json/slavnosti_pane/tela_a_krve_pane.json,Těla a krvě Páně,,matched,manual,,784,Ps147_02,ID_0783,Žl 147,12-13.14-15.19-20,1A,364,e-Mezidobí,Slavnost Těla a krve Páně,A,39,297
+data/json/slavnosti_pane/tela_a_krve_pane.json,Těla a krvě Páně,,matched,manual,,785,Ps116_11,ID_0784,Žl 116(115),12-13.15+16bc.17-18,1B,322,e-Mezidobí,Slavnost Těla a krve Páně,B,29,231
+data/json/slavnosti_pane/tela_a_krve_pane.json,Těla a krvě Páně,,matched,manual,,786,Ps116_12,ID_0785,Žl 116(115),12-13.15+16bc.17-18,1B,322,e-Mezidobí,Slavnost Těla a krve Páně – druhá možnost,B,62,231
+data/json/slavnosti_pane/tela_a_krve_pane.json,Těla a krvě Páně,,matched,manual,,787,Ps110_01,ID_0786,Žl 110(109),1.2.3.4,1C,339,e-Mezidobí,Slavnost Těla a krve Páně,C,63,218
+data/json/sv_tyden_triduum/ctvrtek_sv_tydne.json,Čtvrtek Svatého týdne,,matched,manual,,147,Ps089_09,ID_0146,Žl 89(88),21-22.25+27,1A,161,c-Postní,Čtvrtek Svatého týdne - Mše při svěcení olejů,,9,168
+data/json/sv_tyden_triduum/ctvrtek_sv_tydne.json,Čtvrtek Svatého týdne,,matched,manual,,148,Ps089_09,ID_0147,Žl 89(88),21-22.25+27,1B,123,c-Postní,Čtvrtek Svatého týdne - Mše při svěcení olejů,,9,168
+data/json/sv_tyden_triduum/ctvrtek_sv_tydne.json,Čtvrtek Svatého týdne,,matched,manual,,149,Ps089_09,ID_0148,Žl 89(88),21-22.25+27,1C,125,c-Postní,Čtvrtek Svatého týdne - Mše při svěcení olejů,,9,168
+data/json/sv_tyden_triduum/kvetna_nedele.json,Květná neděle,,matched,manual,,141,Ps022_01,ID_0140,Žl 22(21),8-9.17-18a.19-20.23-24,1A,146,c-Postní,Květná (pašijová) neděle - Mše,,28,30
+data/json/sv_tyden_triduum/kvetna_nedele.json,Květná neděle,,matched,manual,,142,Ps022_01,ID_0141,Žl 22(21),8-9.17-18a.19-20.23-24,1B,109,c-Postní,Květná (pašijová) neděle - Mše,,28,30
+data/json/sv_tyden_triduum/kvetna_nedele.json,Květná neděle,,matched,manual,,143,Ps022_01,ID_0142,Žl 22(21),8-9.17-18a.19-20.23-24,1C,111,c-Postní,Květná (pašijová) neděle - Mše,,28,30
+data/json/sv_tyden_triduum/pondeli_sv_tydne.json,Pondělí Svatého týdne,,matched,manual,,144,Ps027_01,ID_0143,Žl 27(26),1.2.3.13-14,2,211,c-Postní,Svatý týden - Pondělí Svatého týdne,,20,47
+data/json/sv_tyden_triduum/streda_sv_tydne.json,Středa Svatého týdne,,matched,manual,,146,Ps069_11,ID_0145,Žl 69(68),8-10.21-22.31+33-34,2,216,c-Postní,Středa Svatého týdne,,56,137
+data/json/sv_tyden_triduum/utery_sv_tydne.json,Úterý Svatého týdne,,matched,manual,,145,Ps071_01,ID_0144,Žl 71(70),1-2.3-4a.5-6ab.15ab+17,2,213,c-Postní,Úterý Svatého týdne,,46,141
+data/json/sv_tyden_triduum/velky_patek.json,Velký pátek,,matched,manual,,153,Ps031_03,ID_0152,Žl 31(30),2+6.12-13.15-16.17+25,1A,170,c-Postní,Velký pátek - Obřady na památku Umučení Páně,,30,59
+data/json/sv_tyden_triduum/velky_patek.json,Velký pátek,,matched,manual,,154,Ps031_03,ID_0153,Žl 31(30),2+6.12-13.15-16.17+25,1B,132,c-Postní,Velký pátek - Obřady na památku Umučení Páně,,30,59
+data/json/sv_tyden_triduum/velky_patek.json,Velký pátek,,matched,manual,,155,Ps031_03,ID_0154,Žl 31(30),2+6.12-13.15-16.17+25,1C,134,c-Postní,Velký pátek - Obřady na památku Umučení Páně,,30,59
+data/json/sv_tyden_triduum/zeleny_ctvrtek.json,Zelený čtvrtek,Večerní mše,matched,manual,,150,Ps116_11,ID_0149,Žl 116(115),12-13.15+16bc.17-18,1A,165,c-Postní,Zelený čtvrtek - Večerní mše na památku Večeře Páně,,29,231
+data/json/sv_tyden_triduum/zeleny_ctvrtek.json,Zelený čtvrtek,Večerní mše,matched,manual,,151,Ps116_11,ID_0150,Žl 116(115),12-13.15+16bc.17-18,1B,127,c-Postní,Zelený čtvrtek - Večerní mše na památku Večeře Páně,,29,231
+data/json/sv_tyden_triduum/zeleny_ctvrtek.json,Zelený čtvrtek,Večerní mše,matched,manual,,152,Ps116_11,ID_0151,Žl 116(115),12-13.15+16bc.17-18,1C,129,c-Postní,Zelený čtvrtek - Večerní mše na památku Večeře Páně,,29,231
+data/json/vanoce/krtu_pane.json,Křtu Páně,,matched,manual,,83,Iz12_03,ID_0082,Iz 12,2.4bcd.5-6,1B,66,B-Vánoční,Křtu Páně – k 1. čtení Iz55,B,35,311
+data/json/vanoce/krtu_pane.json,Křtu Páně,,matched,manual,,84,Ps029_01,ID_0083,Žl 29(28),1-2.3ac-4.3b+9b-10,1A,113,b-Vánoční,Křtu Páně - k 1. čtení Iz42,A,15,55
+data/json/vanoce/krtu_pane.json,Křtu Páně,,matched,manual,,85,Ps029_01,ID_0084,Žl 29(28),1-2.3ac-4.3b+9b-10,1B,64,b-Vánoční,Křtu Páně - k 1. čtení Iz42,B,15,55
+data/json/vanoce/krtu_pane.json,Křtu Páně,,matched,manual,,86,Ps029_01,ID_0085,Žl 29(28),1-2.3ac-4.3b+9b-10,1C,63,b-Vánoční,Křtu Páně - k 1. čtení Iz42,C,15,55
+data/json/vanoce/krtu_pane.json,Křtu Páně,,matched,manual,,87,Ps104_06,ID_0086,Žl 104(103),1b-3a.3b-4.24-25.27-28.29-30,1C,65,b-Vánoční,Křtu Páně k 1. čtení Iz40,C,31,211
+data/json/vanoce/leden_01.json,"Matky Boží, Panny Marie",,matched,manual,,59,Ps067_04,ID_0058,Žl 67(66),2-3.5.6+8,1A,101,b-Vánoční,"Slavnost Matky Boží, Panny Marie",,12,131
+data/json/vanoce/leden_01.json,"Matky Boží, Panny Marie",,matched,manual,,60,Ps067_04,ID_0059,Žl 67(66),2-3.5.6+8,1B,52,b-Vánoční,"Slavnost Matky Boží, Panny Marie",,12,131
+data/json/vanoce/leden_01.json,"Matky Boží, Panny Marie",,matched,manual,,61,Ps067_04,ID_0060,Žl 67(66),2-3.5.6+8,1C,51,b-Vánoční,"Slavnost Matky Boží, Panny Marie",,12,131
+data/json/vanoce/narozeni_v_noci.json,Narození Páně,V noci,matched,manual,,42,Ps096_06,ID_0041,Žl 96(95),1-3.11-12.13,1A,88,b-Vánoční,Slavnost Narození Páně - V noci,,10,183
+data/json/vanoce/narozeni_v_noci.json,Narození Páně,V noci,matched,manual,,43,Ps096_06,ID_0042,Žl 96(95),1-3.11-12.13,1B,36,b-Vánoční,Slavnost Narození Páně - V noci,,10,183
+data/json/vanoce/narozeni_v_noci.json,Narození Páně,V noci,matched,manual,,44,Ps096_06,ID_0043,Žl 96(95),1-3.11-12.13,1C,36,b-Vánoční,Slavnost Narození Páně - V noci,,10,183
+data/json/vanoce/narozeni_ve_dne.json,Narození Páně,Ve dne,matched,manual,,48,Ps098_06,ID_0047,Žl 98(97),1.2-3ab.3c-4.5-6,1A,93,b-Vánoční,Slavnost Narození Páně - Ve dne,,10,191
+data/json/vanoce/narozeni_ve_dne.json,Narození Páně,Ve dne,matched,manual,,49,Ps098_06,ID_0048,Žl 98(97),1.2-3ab.3c-4.5-6,1B,41,b-Vánoční,Slavnost Narození Páně - Ve dne,,10,191
+data/json/vanoce/narozeni_ve_dne.json,Narození Páně,Ve dne,matched,manual,,50,Ps098_06,ID_0049,Žl 98(97),1.2-3ab.3c-4.5-6,1C,41,b-Vánoční,Slavnost Narození Páně - Ve dne,,10,191
+data/json/vanoce/narozeni_vigilie.json,Narození Páně,Vigilie,matched,manual,,39,Ps089_11,ID_0038,Žl 89(88),4-5.16-17.27+29,1A,84,b-Vánoční,Slavnost Narození Páně - Vigilie,,9,167
+data/json/vanoce/narozeni_vigilie.json,Narození Páně,Vigilie,matched,manual,,40,Ps089_11,ID_0039,Žl 89(88),4-5.16-17.27+29,1B,31,b-Vánoční,Slavnost Narození Páně - Vigilie,,9,167
+data/json/vanoce/narozeni_vigilie.json,Narození Páně,Vigilie,matched,manual,,41,Ps089_11,ID_0040,Žl 89(88),4-5.16-17.27+29,1C,31,b-Vánoční,Slavnost Narození Páně - Vigilie,,9,167
+data/json/vanoce/narozeni_za_svitani.json,Narození Páně,Za svítání,matched,manual,,45,Ps097_07,ID_0044,Žl 97(96),1+6.11-12,1A,90,b-Vánoční,Slavnost Narození Páně - Za svítání,,10,188
+data/json/vanoce/narozeni_za_svitani.json,Narození Páně,Za svítání,matched,manual,,46,Ps097_07,ID_0045,Žl 97(96),1+6.11-12,1B,38,b-Vánoční,Slavnost Narození Páně - Za svítání,,10,188
+data/json/vanoce/narozeni_za_svitani.json,Narození Páně,Za svítání,matched,manual,,47,Ps097_07,ID_0046,Žl 97(96),1+6.11-12,1C,38,b-Vánoční,Slavnost Narození Páně - Za svítání,,10,188
+data/json/vanoce/svate_rodiny.json,Svaté rodiny,,matched,manual,,54,Ps128_01,ID_0053,Žl 128(127),1-2.3.4-5,1A,98,b-Vánoční,"Svátek Svaté Rodiny Ježíše, Marie a Josefa",A,11,266
+data/json/vanoce/svate_rodiny.json,Svaté rodiny,,matched,manual,,55,Ps105_01,ID_0054,Žl 105(104),1-2.3-4.5-6.8-9,1B,48,b-Vánoční,"Svátek Svaté Rodiny Ježíše, Marie a Josefa – K prvnímu čtení Gn15",B,39,212
+data/json/vanoce/svate_rodiny.json,Svaté rodiny,,matched,manual,,56,Ps128_01,ID_0055,Žl 128(127),1-2.3.4-5,1B,46,b-Vánoční,"Svátek Svaté Rodiny Ježíše, Marie a Josefa – K prvnímu čtení Sir3",B,11,266
+data/json/vanoce/svate_rodiny.json,Svaté rodiny,,matched,manual,,57,Ps084_01,ID_0056,Žl 84(83),2-3.5-6.9-10,1C,48,b-Vánoční,"Svátek Svaté Rodiny Ježíše, Marie a Josefa k prvnímu čtení 1Sam1",C,58,153
+data/json/vanoce/svate_rodiny.json,Svaté rodiny,,matched,manual,,58,Ps128_01,ID_0057,Žl 128(127),1-2.3.4-5,1C,46,b-Vánoční,"Svátek Svaté Rodiny Ježíše, Marie a Josefa k prvnímu čtení Sir3",C,11,266
+data/json/vanoce/vanoce_2.json,Druhá neděle po Narození Páně,,matched,manual,,68,Ps147_01,ID_0067,Žl 147,12-13.14-15.19-20,1A,104,b-Vánoční,2. neděle po Narození Páně,,13,297
+data/json/vanoce/vanoce_2.json,Druhá neděle po Narození Páně,,matched,manual,,69,Ps147_01,ID_0068,Žl 147,12-13.14-15.19-20,1B,55,b-Vánoční,2. neděle po Narození Páně,,13,297
+data/json/vanoce/vanoce_2.json,Druhá neděle po Narození Páně,,matched,manual,,70,Ps147_01,ID_0069,Žl 147,12-13.14-15.19-20,1C,54,b-Vánoční,2. neděle po Narození Páně,,13,297
+data/json/vanoce/vanoce_2.json,Druhá neděle po Narození Páně,,matched,manual,,71,Ps147_02,ID_0070,Žl 147,12-13.14-15.19-20,1A,104,b-Vánoční,2. neděle po Narození Páně – nebo,,39,297
+data/json/vanoce/vanoce_2.json,Druhá neděle po Narození Páně,,matched,manual,,72,Ps147_02,ID_0071,Žl 147,12-13.14-15.19-20,1B,55,b-Vánoční,2. neděle po Narození Páně – nebo,,39,297
+data/json/vanoce/vanoce_2.json,Druhá neděle po Narození Páně,,matched,manual,,73,Ps147_02,ID_0072,Žl 147,12-13.14-15.19-20,1C,54,b-Vánoční,2. neděle po Narození Páně – nebo,,39,297
+data/json/vanoce/zjeveni_pane.json,Zjevení Páně,,matched,manual,,74,Ps072_03,ID_0073,Žl 72(71),1-2.7-8.10-11.12-13,1A,109,b-Vánoční,Slavnost Zjevení Páně,,14,143
+data/json/vanoce/zjeveni_pane.json,Zjevení Páně,,matched,manual,,75,Ps072_03,ID_0074,Žl 72(71),1-2.7-8.10-11.12-13,1B,60,b-Vánoční,Slavnost Zjevení Páně,,14,143
+data/json/vanoce/zjeveni_pane.json,Zjevení Páně,,matched,manual,,76,Ps072_03,ID_0075,Žl 72(71),1-2.7-8.10-11.12-13,1C,59,b-Vánoční,Slavnost Zjevení Páně,,14,143
+data/json/velikonoce/nanebevstoupeni.json,Nanebevstoupení Páně,,matched,manual,,246,Ps047_03,ID_0245,Žl 47(46),2-3.6-7.8-9,1A,228,d-Velikonoční,Slavnost Nanebevstoupení Páně,,42,105
+data/json/velikonoce/nanebevstoupeni.json,Nanebevstoupení Páně,,matched,manual,,247,Ps047_03,ID_0246,Žl 47(46),2-3.6-7.8-9,1B,187,d-Velikonoční,Slavnost Nanebevstoupení Páně,,42,105
+data/json/velikonoce/nanebevstoupeni.json,Nanebevstoupení Páně,,matched,manual,,248,Ps047_03,ID_0247,Žl 47(46),2-3.6-7.8-9,1C,192,d-Velikonoční,Slavnost Nanebevstoupení Páně,,42,105
+data/json/velikonoce/seslani_sv_ducha_slavnost.json,Seslání Ducha Svatého,V den slavnosti,matched,manual,,265,Ps104_05,ID_0264,Žl 104(103),1ab+24ac.29bc-30.31+34,1A,241,d-Velikonoční,Seslání Ducha svatého - V den slavnosti,,44,208
+data/json/velikonoce/seslani_sv_ducha_slavnost.json,Seslání Ducha Svatého,V den slavnosti,matched,manual,,266,Ps104_05,ID_0265,Žl 104(103),1ab+24ac.29bc-30.31+34,1B,202,d-Velikonoční,Seslání Ducha svatého - V den slavnosti,,44,208
+data/json/velikonoce/seslani_sv_ducha_slavnost.json,Seslání Ducha Svatého,V den slavnosti,matched,manual,,267,Ps104_05,ID_0266,Žl 104(103),1ab+24ac.29bc-30.31+34,1C,206,d-Velikonoční,Seslání Ducha svatého - V den slavnosti,,44,208
+data/json/velikonoce/seslani_sv_ducha_vigilie.json,Seslání Ducha Svatého,Vigilie,matched,manual,,262,Ps104_01,ID_0261,Žl 104(103),1-2a.24+35c.27-28.29bc-30,1A,238,d-Velikonoční,Seslání Ducha svatého - Vigilie,,44,207
+data/json/velikonoce/seslani_sv_ducha_vigilie.json,Seslání Ducha Svatého,Vigilie,matched,manual,,263,Ps104_01,ID_0262,Žl 104(103),1-2a.24+35c.27-28.29bc-30,1B,198,d-Velikonoční,Seslání Ducha svatého - Vigilie,,44,207
+data/json/velikonoce/seslani_sv_ducha_vigilie.json,Seslání Ducha Svatého,Vigilie,matched,manual,,264,Ps104_01,ID_0263,Žl 104(103),1-2a.24+35c.27-28.29bc-30,1C,203,d-Velikonoční,Seslání Ducha svatého - Vigilie,,44,207
+data/json/velikonoce/velikonoce_2.json,2. neděle velikonoční,,matched,exact-fixed,,201,Ps118_12,ID_0200,Žl 118(117),2-4.13-15.22-24,1A,208,d-Velikonoční,2. neděle velikonoční,A,39,240
+data/json/velikonoce/velikonoce_2.json,2. neděle velikonoční,,matched,exact-fixed,,202,Ps118_13,ID_0201,Žl 118(117),2-4.16ab+17-18.22-24,1B,170,d-Velikonoční,2. neděle velikonoční,B,39,241
+data/json/velikonoce/velikonoce_2.json,2. neděle velikonoční,,matched,exact-fixed,,203,Ps118_14,ID_0202,Žl 118(117),2-4.22-24.25-27a,1C,172,d-Velikonoční,2. neděle velikonoční,C,39,242
+data/json/velikonoce/velikonoce_3.json,3. neděle velikonoční,,matched,exact-fixed,,210,Ps016_02,ID_0209,Žl 16(15),1-2a+5.7-8.9-10.11,1A,213,d-Velikonoční,3. neděle velikonoční,A,42,18
+data/json/velikonoce/velikonoce_3.json,3. neděle velikonoční,,matched,exact-fixed,,211,Ps004_01,ID_0210,Žl 4,2.4.7.9,1B,174,d-Velikonoční,3. neděle velikonoční,B,37,10
+data/json/velikonoce/velikonoce_3.json,3. neděle velikonoční,,matched,exact-fixed,,212,Ps030_01,ID_0211,Žl 30(29),2+4.5-6.11+12a+13b,1C,176,d-Velikonoční,3. neděle velikonoční,C,34,56
+data/json/velikonoce/velikonoce_4.json,4. neděle velikonoční,,matched,exact-fixed,,219,Ps023_01,ID_0218,Žl 23(22),1-3.4.5.6,1A,217,d-Velikonoční,4. neděle velikonoční,A,23,34
+data/json/velikonoce/velikonoce_4.json,4. neděle velikonoční,,matched,exact-fixed,,220,Ps118_07,ID_0219,Žl 118(117),1+8-9.21-23.26+28-29,1B,177,d-Velikonoční,4. neděle velikonoční,B,39,238
+data/json/velikonoce/velikonoce_4.json,4. neděle velikonoční,,matched,exact-fixed,,221,Ps100_06,ID_0220,Žl 100(99),1-2.3.5,1C,182,d-Velikonoční,4. neděle velikonoční,C,40,194
+data/json/velikonoce/velikonoce_5.json,5. neděle velikonoční,,matched,exact-fixed,,228,Ps033_05,ID_0227,Žl 33(32),1-2.4-5.18-19,1A,221,d-Velikonoční,5. neděle velikonoční,A,17,66
+data/json/velikonoce/velikonoce_5.json,5. neděle velikonoční,,matched,exact-fixed,,229,Ps022_05,ID_0228,Žl 22(21),26b-27.28+30ab.30c-32,1B,180,d-Velikonoční,5. neděle velikonoční,B,42,33
+data/json/velikonoce/velikonoce_5.json,5. neděle velikonoční,,matched,exact-fixed,,230,Ps145_22,ID_0229,Žl 145(144),8-9.10-11.12-13ab,1C,184,d-Velikonoční,5. neděle velikonoční,C,7,287
+data/json/velikonoce/velikonoce_6.json,6. neděle velikonoční,,matched,exact-fixed,,237,Ps066_01,ID_0236,Žl 66(65),1-3a.4-5.6-7a.16+20,1A,224,d-Velikonoční,6. neděle velikonoční,A,41,128
+data/json/velikonoce/velikonoce_6.json,6. neděle velikonoční,,matched,exact-fixed,,238,Ps066_02,ID_0237,Žl 66(65),1-3a.4-5.6-7a.16+20,1A,224,d-Velikonoční,6. neděle velikonoční – nebo,A,42,128
+data/json/velikonoce/velikonoce_6.json,6. neděle velikonoční,,matched,exact-fixed,,239,Ps098_02,ID_0238,Žl 98(97),1.2-3ab.3c-4,1B,183,d-Velikonoční,6. neděle velikonoční,B,41,189
+data/json/velikonoce/velikonoce_6.json,6. neděle velikonoční,,matched,exact-fixed,,240,Ps098_03,ID_0239,Žl 98(97),1.2-3ab.3c-4,1B,183,d-Velikonoční,6. neděle velikonoční – nebo,B,42,189
+data/json/velikonoce/velikonoce_6.json,6. neděle velikonoční,,matched,exact-fixed,,241,Ps067_02,ID_0240,Žl 67(66),2-3.5.6+8,1C,188,d-Velikonoční,6. neděle velikonoční,C,41,130
+data/json/velikonoce/velikonoce_6.json,6. neděle velikonoční,,matched,exact-fixed,,242,Ps067_03,ID_0241,Žl 67(66),2-3.5.6+8,1C,188,d-Velikonoční,6. neděle velikonoční – nebo,C,42,130
+data/json/velikonoce/velikonoce_7.json,7. neděle velikonoční,,matched,exact-fixed,,252,Ps027_09,ID_0251,Žl 27(26),1.4.7-8a,1A,231,d-Velikonoční,7. neděle velikonoční,A,42,50
+data/json/velikonoce/velikonoce_7.json,7. neděle velikonoční,,matched,exact-fixed,,253,Ps103_01,ID_0252,Žl 103(102),1-2.11-12.19-20ab,1B,193,d-Velikonoční,7. neděle velikonoční,B,31,204
+data/json/velikonoce/velikonoce_7.json,7. neděle velikonoční,,matched,exact-fixed,,254,Ps097_05,ID_0253,Žl 97(96),1+2b.6+7c.9,1C,196,d-Velikonoční,7. neděle velikonoční -nebo,C,43,187
+data/json/velikonoce/velikonoce_7.json,7. neděle velikonoční,,matched,exact-fixed,,255,Ps097_06,ID_0254,Žl 97(96),1+2b.6+7c.9,1C,196,d-Velikonoční,7. neděle velikonoční -nebo,C,42,187
+data/json/velikonoce/velikonocni_oktav.json,Velikonoční oktáv,,matched,manual,,195,Ps016_02,ID_0194,Žl 16(15),1-2a+5.7-8.9-10.11,2,221,d-Velikonoční,Pondělí v oktávu velikonočním,,42,18
+data/json/velikonoce/velikonocni_oktav.json,Velikonoční oktáv,,matched,manual,,196,Ps033_21,ID_0195,Žl 33(32),4-5.18-19.20+22,2,223,d-Velikonoční,Úterý v oktávu velikonočním,,32,71
+data/json/velikonoce/velikonocni_oktav.json,Velikonoční oktáv,,matched,manual,,197,Ps105_03,ID_0196,Žl 105(104),1-2.3-4.6-7.8-9,2,225,d-Velikonoční,Středa v oktávu velikonočním,,42,213
+data/json/velikonoce/velikonocni_oktav.json,Velikonoční oktáv,,matched,manual,,198,Ps008_04,ID_0197,Žl 8,2a+5.6-7.8-9,2,229,d-Velikonoční,Čtvrtek v oktávu velikonočním,,58,14
+data/json/velikonoce/velikonocni_oktav.json,Velikonoční oktáv,,matched,manual,,199,Ps118_04,ID_0198,Žl 118(117),1-2+4.22-24.25-27a,2,232,d-Velikonoční,Pátek v oktávu velikonočním,,37,236
+data/json/velikonoce/velikonocni_oktav.json,Velikonoční oktáv,,matched,manual,,200,Ps118_05,ID_0199,Žl 118(117),1+14-15.16ab+17-18.19-21,2,235,d-Velikonoční,Sobota v oktávu velikonočním,,37,239
+data/json/velikonoce/zmrtvychvstani_slavnost.json,Zmrtvýchvstání Páně,V den slavnosti,matched,manual,,192,Ps118_01,ID_0191,Žl 118(117),1-2.16ab+17.22-23,1A,203,d-Velikonoční,Zmrtvýchvstání Páně – v den slavnosti,,37,237
+data/json/velikonoce/zmrtvychvstani_slavnost.json,Zmrtvýchvstání Páně,V den slavnosti,matched,manual,,193,Ps118_01,ID_0192,Žl 118(117),1-2.16ab+17.22-23,1B,164,d-Velikonoční,Zmrtvýchvstání Páně – v den slavnosti,,37,237
+data/json/velikonoce/zmrtvychvstani_slavnost.json,Zmrtvýchvstání Páně,V den slavnosti,matched,manual,,194,Ps118_01,ID_0193,Žl 118(117),1-2.16ab+17.22-23,1C,166,d-Velikonoční,Zmrtvýchvstání Páně – v den slavnosti,,37,237
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,156,Ps104_03,ID_0155,Žl 104(103),1-2a.5-6.10+12.13-14b.24+35c,1A,182,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 1. čtení 1. verze,,31,206
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,157,Ps104_03,ID_0156,Žl 104(103),1-2a.5-6.10+12.13-14b.24+35c,1B,144,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 1. čtení 1. verze,,31,206
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,158,Ps104_03,ID_0157,Žl 104(103),1-2a.5-6.10+12.13-14b.24+35c,1C,146,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 1. čtení 1. verze,,31,206
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,159,Ps033_22,ID_0158,Žl 33(32),4-5.6-7.12-13.20+22,1A,183,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 1. čtení 2. verze,,32,68
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,160,Ps033_22,ID_0159,Žl 33(32),4-5.6-7.12-13.20+22,1B,145,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 1. čtení 2. verze,,32,68
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,161,Ps033_22,ID_0160,Žl 33(32),4-5.6-7.12-13.20+22,1C,147,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 1. čtení 2. verze,,32,68
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,162,Ps016_03,ID_0161,Žl 16(15),5+8.9-10.11,1A,187,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 2. čtení,,33,20
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,163,Ps016_03,ID_0162,Žl 16(15),5+8.9-10.11,1B,149,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 2. čtení,,33,20
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,164,Ps016_03,ID_0163,Žl 16(15),5+8.9-10.11,1C,151,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 2. čtení,,33,20
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,165,Ex15_02,ID_0164,Ex 15,1-2.3-4.5-6.17-18,1A,189,d-Velikonoční,Zmrtvýchvstání Páně vigilie – po 3. čtení,,-,304
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,166,Ex15_02,ID_0165,Ex 15,1-2.3-4.5-6.17-18,1B,151,d-Velikonoční,Zmrtvýchvstání Páně vigilie – po 3. čtení,,-,304
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,167,Ex15_02,ID_0166,Ex 15,1-2.3-4.5-6.17-18,1C,153,d-Velikonoční,Zmrtvýchvstání Páně vigilie – po 3. čtení,,-,304
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,168,Ps030_01,ID_0167,Žl 30(29),2+4.5-6.11+12a+13b,1A,191,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 4. čtení,,34,56
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,169,Ps030_01,ID_0168,Žl 30(29),2+4.5-6.11+12a+13b,1B,153,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 4. čtení,,34,56
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,170,Ps030_01,ID_0169,Žl 30(29),2+4.5-6.11+12a+13b,1C,155,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 4. čtení,,34,56
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,171,Iz12_03,ID_0170,Iz 12,2.4bcd.5-6,1A,193,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 5. čtení,,35,311
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,172,Iz12_03,ID_0171,Iz 12,2.4bcd.5-6,1B,155,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 5. čtení,,35,311
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,173,Iz12_03,ID_0172,Iz 12,2.4bcd.5-6,1C,157,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 5. čtení,,35,311
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,174,Ps019_07,ID_0173,Žl 19(18),8.9.10.11,1A,195,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 6. čtení,,22,27
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,175,Ps019_07,ID_0174,Žl 19(18),8.9.10.11,1B,157,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 6. čtení,,22,27
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,176,Ps019_07,ID_0175,Žl 19(18),8.9.10.11,1C,159,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 6. čtení,,22,27
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,177,Ps04243_05,ID_0176,"Žl 42,43(41,42)","3.5bcd; 43 (42), 3.4",1A,197,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 7. čtení,,36,98
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,178,Ps04243_05,ID_0177,"Žl 42,43(41,42)","3.5bcd; 43 (42), 3.4",1B,159,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 7. čtení,,36,98
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,179,Ps04243_05,ID_0178,"Žl 42,43(41,42)","3.5bcd; 43 (42), 3.4",1C,161,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 7. čtení,,36,98
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,180,Iz12_03,ID_0179,Iz 12,2.4bcd.5-6,1A,198,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 7.čtení – pokud se nečte 5. čtení a křtí se,,35,311
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,181,Iz12_03,ID_0180,Iz 12,2.4bcd.5-6,1B,160,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 7.čtení – pokud se nečte 5. čtení a křtí se,,35,311
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,182,Iz12_03,ID_0181,Iz 12,2.4bcd.5-6,1C,162,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 7.čtení – pokud se nečte 5. čtení a křtí se,,35,311
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,183,Ps051_02,ID_0182,Žl 51(50),12-13.14-15.18-19,1A,198,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 7.čtení – pokud se nečte 5. čtení a křtí se,,27,121
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,184,Ps051_02,ID_0183,Žl 51(50),12-13.14-15.18-19,1B,161,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 7.čtení – pokud se nečte 5. čtení a křtí se,,27,121
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,185,Ps051_02,ID_0184,Žl 51(50),12-13.14-15.18-19,1C,163,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po 7.čtení – pokud se nečte 5. čtení a křtí se,,27,121
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,186,Ps118_01,ID_0185,Žl 118(117),1-2.16ab+17.22-23,1A,200,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po epištole,,37,237
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,187,Ps118_17,ID_0186,Žl 118(117),1-2.16ab+17.22-23,1A,200,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po epištole,,X,237
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,188,Ps118_01,ID_0187,Žl 118(117),1-2.16ab+17.22-23,1B,162,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po epištole,,37,237
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,189,Ps118_17,ID_0188,Žl 118(117),1-2.16ab+17.22-23,1B,162,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po epištole,,X,237
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,190,Ps118_01,ID_0189,Žl 118(117),1-2.16ab+17.22-23,1C,164,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po epištole,,37,237
+data/json/velikonoce/zmrtvychvstani_vigilie.json,Zmrtvýchvstání Páně,Vigilie,matched,manual,,191,Ps118_17,ID_0190,Žl 118(117),1-2.16ab+17.22-23,1C,164,d-Velikonoční,Zmrtvýchvstání Páně – vigilie – po epištole,,X,237
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1580,Ps110_01,ID_1579,Žl 110(109),1.2.3.4,62,566,votivní,O eucharistii mimo dobu velikonoční 1,,63,218
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1581,Ps116_11,ID_1580,Žl 116(115),12-13.15+16bc.17-18,62,567,votivní,O eucharistii mimo dobu velikonoční 2,,29,231
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1582,Ps078_03,ID_1581,Žl 78(77),3-4a+7ab.23-24.25+54,62,568,votivní,O eucharistii mimo dobu velikonoční 3,,39,146
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1583,Ps116_11,ID_1582,Žl 116(115),12-13.15+16bc.17-18,62,569,votivní,O eucharistii mimo dobu velikonoční 4,,29,231
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1584,Ps145_08,ID_1583,Žl 145(144),10-11.15-16.17-18,62,570,votivní,O eucharistii mimo dobu velikonoční 5,,49,293
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1585,Ps078_03,ID_1584,Žl 78(77),3-4a+7ab.23-24.25+54,62,571,votivní,O eucharistii mimo dobu velikonoční 6,,39,146
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1586,Ps147_02,ID_1585,Žl 147,12-13.14-15.19-20,62,572,votivní,O eucharistii mimo dobu velikonoční 7,,39,297
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1587,Ps023_01,ID_1586,Žl 23(22),1-3.4.5.6,62,573,votivní,O eucharistii v době velikonoční 1,,23,34
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1588,Ps034_08,ID_1587,Žl 34(33),2-3.4-5.6-7.8-9,62,574,votivní,O eucharistii v době velikonoční 2,,25,75
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1589,Ps040_03,ID_1588,Žl 40(39),2+4ab.7-8a.8b-9.10,62,575,votivní,O eucharistii v době velikonoční 3,,45,89
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1590,Ps116_11,ID_1589,Žl 116(115),12-13.15+16bc.17-18,62,576,votivní,O eucharistii v době velikonoční 4,,29,231
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1591,Ps023_01,ID_1590,Žl 23(22),1-3.4.5.6,KB,34,votivní,O eucharistii KB,,23,34
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1592,Ps034_15,ID_1591,Žl 34(33),2-3.4-5.6-7.8-9.10-11,KB,77,votivní,O eucharistii KB,,25,77
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1593,Ps040_03,ID_1592,Žl 40(39),2+4ab.7-8a.8b-9.10,KB,89,votivní,O eucharistii KB,,45,89
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1594,Ps078_03,ID_1593,Žl 78(77),3-4a+7ab.23-24.25+54,KB,146,votivní,O eucharistii KB,,39,146
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1595,Ps116_11,ID_1594,Žl 116(115),12-13.15+16bc.17-18,KB,231,votivní,O eucharistii KB,,29,231
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1596,Ps116_12,ID_1595,Žl 116(115),12-13.15+16bc.17-18,KB,231,votivní,O eucharistii KB,,62,231
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1597,Ps145_11,ID_1596,Žl 145(144),10-11.15-16.17-18,KB,292,votivní,O eucharistii KB,,39,292
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1598,Ps145_28,ID_1597,Žl 145(144),10-11.15-16.17-18,KB,292,votivní,O eucharistii KB,,49,292
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1599,Ps145_08,ID_1598,Žl 145(144),10-11.15-16.17-18,KB,293,votivní,O eucharistii KB,,49,293
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1600,Ps145_09,ID_1599,Žl 145(144),10-11.15-16.17-18,KB,293,votivní,O eucharistii KB,,39,293
+data/json/volny_vyber/eucharisticke_pisne.json,Eucharistické písně,,matched,manual,,1601,Ps147_02,ID_1600,Žl 147,12-13.14-15.19-20,KB,297,votivní,O eucharistii KB,,39,297
+data/json/volny_vyber/na_konci_bohosluzeb.json,Na konci bohoslužeb,,unmatched,manual,V CSV není nalezen přímý formulář pro tento volný výběr.,,,,,,,,,,,,
+data/json/volny_vyber/na_podekovani.json,Na poděkování,,matched,manual,,1530,1Kron29_01,ID_1529,1 Kron 29,10bc.11abc.11d-12a.12bcd,61,484,za-na,Na poděkování Bohu 1,,72,307
+data/json/volny_vyber/na_podekovani.json,Na poděkování,,matched,manual,,1531,Ps138_02,ID_1530,Žl 138(137),1-2a.2bc+3.4-5,61,485,za-na,Na poděkování Bohu 2,,7,277
+data/json/volny_vyber/na_podekovani.json,Na poděkování,,matched,manual,,1532,Ps145_18,ID_1531,Žl 145(144),2-3.4-5.6-7.8-9.10-11,61,486,za-na,Na poděkování Bohu 3,,39,284
+data/json/volny_vyber/na_podekovani.json,Na poděkování,,matched,manual,,1533,Ps113_02,ID_1532,Žl 113(112),1-2.3-4.5-6.7-8,61,487,za-na,Na poděkování Bohu 4,,58,224
+data/json/volny_vyber/na_podekovani.json,Na poděkování,,matched,manual,,1534,Ps113_02,ID_1533,Žl 113(112),1-2.3-4.5-6.7-8,KB,224,za-na,Na poděkování Bohu KB,,58,224
+data/json/volny_vyber/na_podekovani.json,Na poděkování,,matched,manual,,1535,Ps113_06,ID_1534,Žl 113(112),1-2.3-4.5-6.7-8,KB,225,za-na,Na poděkování Bohu KB,,42,225
+data/json/volny_vyber/na_podekovani.json,Na poděkování,,matched,manual,,1536,Ps138_02,ID_1535,Žl 138(137),1-2a.2bc+3.4-5,KB,277,za-na,Na poděkování Bohu KB,,7,277
+data/json/volny_vyber/na_podekovani.json,Na poděkování,,matched,manual,,1537,Ps138_07,ID_1536,Žl 138(137),1-2a.2bc+3.6-7ab.7c-8,KB,279,za-na,Na poděkování Bohu KB,,39,279
+data/json/volny_vyber/na_podekovani.json,Na poděkování,,matched,manual,,1538,Ps145_18,ID_1537,Žl 145(144),2-3.4-5.6-7.8-9.10-11,KB,284,za-na,Na poděkování Bohu KB,,39,284
+data/json/volny_vyber/na_podekovani.json,Na poděkování,,matched,manual,,1539,Ps145_19,ID_1538,Žl 145(144),2-3.4-5.6-7.8-9.10-11,KB,284,za-na,Na poděkování Bohu KB,,49,284
+data/json/volny_vyber/na_podekovani.json,Na poděkování,,matched,manual,,1540,Ps145_20,ID_1539,Žl 145(144),2-3.4-5.8-9.10-11.15-16,KB,285,za-na,Na poděkování Bohu KB,,7,285
+data/json/volny_vyber/na_podekovani.json,Na poděkování,,matched,manual,,1541,1Kron29_01,ID_1540,1 Kron 29,10bc.11abc.11d-12a.12bcd,KB,307,za-na,Na poděkování Bohu KB,,72,307
+data/json/volny_vyber/vzyvani_ducha_svateho.json,Vzývání Ducha svatého,,unmatched,manual,V CSV není nalezen přímý formulář pro tento volný výběr.,,,,,,,,,,,,

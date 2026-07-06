@@ -1,0 +1,51 @@
+{
+    "type": "full",
+    "name": "Sv. Marie Magdalény",
+    "date": "22. července",
+    "rank": "svátek",
+    "info": "V Mešních zpěvěch zastarale vedeno jen jako památka.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "698",
+                    "melody": "92j"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "698/699",
+                    "melody": "117b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "699",
+                    "melody": "35a"
+                },
+                {
+                    "page": "611",
+                    "melody": "92d",
+                    "link": "o_svatych"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "65",
+                    "melody": "34c",
+                    "link": "popelecni_streda"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "type": "full",
+    "name": "17. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "278",
+                    "melody": "74j"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "49",
+                    "links": [
+                        {
+                            "filename": "Ps145_08",
+                            "kb_page": "293"
+                        },
+                        {
+                            "filename": "Ps145_28",
+                            "kb_page": "292"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "278/279",
+                    "melody": "2f"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "276",
+                    "melody": "93a",
+                    "link": "mezidobi_17_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "277",
+                    "melody": "84a",
+                    "link": "mezidobi_17_A"
+                }
+            ]
+        }
+    ]
+}

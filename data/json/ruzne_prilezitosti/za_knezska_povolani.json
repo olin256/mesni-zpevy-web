@@ -1,0 +1,58 @@
+{
+    "type": "full",
+    "name": "Za kněžská povolání",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "815",
+                    "melody": "100a"
+                },
+                {
+                    "page": "816",
+                    "melody": "66a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "817",
+                    "melody": "2e",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "817",
+                    "melody": "37a",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "818",
+                    "melody": "90a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "164",
+                    "melody": "69b",
+                    "link": "velikonoce_4"
+                },
+                {
+                    "page": "592",
+                    "melody": "120a",
+                    "link": "o_duchovnich_pastyrich"
+                }
+            ]
+        }
+    ]
+}

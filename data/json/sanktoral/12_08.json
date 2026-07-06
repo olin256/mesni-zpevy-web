@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "Panny Marie, počaté bez poskvrny prvotního hříchu",
+    "date": "8. prosince",
+    "rank": "slavnost",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "773",
+                    "melody": "5a"
+                },
+                {
+                    "page": "768",
+                    "melody": "103a",
+                    "link": "11_21"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "774",
+                    "melody": "104a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "774",
+                    "melody": "2b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "775",
+                    "melody": "9d"
+                },
+                {
+                    "page": "768",
+                    "melody": "103a",
+                    "link": "11_21"
+                },
+                {
+                    "page": "556",
+                    "melody": "105a",
+                    "link": "o_panne_marii_1"
+                }
+            ]
+        }
+    ]
+}

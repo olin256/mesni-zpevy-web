@@ -1,0 +1,46 @@
+{
+    "type": "full",
+    "name": "Úterý po 2. neděli postní",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "72",
+                    "melody": "69c",
+                    "link": "popelecni_streda_X6"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "72",
+                    "melody": "88e",
+                    "link": "popelecni_streda_X6"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "73",
+                    "melody": "72b",
+                    "link": "popelecni_streda_X6"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "78",
+                    "melody": "36a",
+                    "link": "pust_01"
+                }
+            ]
+        }
+    ]
+}

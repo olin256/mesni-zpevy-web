@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "12. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "241",
+                    "melody": "5d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "56",
+                    "links": [
+                        {
+                            "filename": "Ps069_09",
+                            "kb_page": "135"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "242",
+                    "melody": "64c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "192",
+                    "melody": "68a",
+                    "link": "mezidobi_03_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "70",
+                    "melody": "33a",
+                    "link": "ctvrtek_po_popelecni_strede"
+                }
+            ]
+        }
+    ]
+}

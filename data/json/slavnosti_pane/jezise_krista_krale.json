@@ -1,0 +1,89 @@
+{
+    "type": "full",
+    "name": "Ježíše Krista Krále",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "372",
+                    "melody": "70a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "info_before": "V ročním cyklu A:",
+                    "response": "23",
+                    "links": [
+                        {
+                            "filename": "Ps023_01",
+                            "kb_page": "34"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu B:",
+                    "response": "43",
+                    "links": [
+                        {
+                            "filename": "Ps093_01",
+                            "kb_page": "176"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu C:",
+                    "response": "1",
+                    "links": [
+                        {
+                            "filename": "Ps122_07",
+                            "kb_page": "257"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "373",
+                    "melody": "2f"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "206",
+                    "melody": "77a",
+                    "link": "mezidobi_06_A"
+                },
+                {
+                    "page": "189",
+                    "melody": "150a",
+                    "link": "mezidobi_02_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "207",
+                    "melody": "82a",
+                    "link": "mezidobi_06_A"
+                },
+                {
+                    "page": "114",
+                    "melody": "44b",
+                    "link": "pust_05_AB"
+                }
+            ]
+        }
+    ]
+}

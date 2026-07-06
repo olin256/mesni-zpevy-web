@@ -1,0 +1,50 @@
+{
+    "type": "full",
+    "name": "Sv. Zdislavy",
+    "date": "30. května",
+    "rank": "nezávazná památka",
+    "info": "V litoměřické diecézi svátek; v Čechách a v brněnské diecézi památka; v ostatních diecézích nezávazná památka.\nV Mešních zpěvech zastarale vedeno jako „blahoslavené Zdislavy“.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "670",
+                    "melody": "113a",
+                    "replacements": {
+                        "1": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "671",
+                    "melody": "98d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "611",
+                    "melody": "92d",
+                    "link": "o_svatych"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "617",
+                    "melody": "94e",
+                    "link": "o_svatych"
+                }
+            ]
+        }
+    ]
+}

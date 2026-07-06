@@ -1,0 +1,29 @@
+{
+    "type": "full",
+    "name": "Při pohřbu dospělých",
+    "info": "Po mši následuje obřad posledního rozloučení.\nPo úvodních slovech kněze a chvíli tiché modlitby se zpívá:",
+    "parts": [
+        {
+            "title": "Zpěv k poslednímu rozloučení",
+            "songs": [
+                {
+                    "page": "867",
+                    "melody": "149d"
+                },
+                {
+                    "page": "868",
+                    "melody": "149b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k hrobu",
+            "songs": [
+                {
+                    "page": "868/869",
+                    "melody": "149c"
+                }
+            ]
+        }
+    ]
+}

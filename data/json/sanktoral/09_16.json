@@ -1,0 +1,49 @@
+{
+    "type": "full",
+    "name": "Sv. Ludmily, mučednice",
+    "date": "16. září",
+    "rank": "nezávazná památka",
+    "info": "V Mešních zpěvěch vedeno jako památka, ovšem o (závaznou) památku jde pouze v Čechách.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "730",
+                    "melody": "132a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "731",
+                    "melody": "117g"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "731",
+                    "melody": "92d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "583",
+                    "melody": "5d",
+                    "link": "o_mucednicich"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_mucednicich"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "type": "full",
+    "name": "Velký pátek",
+    "parts": [
+        {
+            "title": "Při uctívání kříže (po výčitkách nebo místo nich)",
+            "songs": [
+                {
+                    "page": "137",
+                    "melody": "52a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před pašijemi",
+            "songs": [
+                {
+                    "page": "119",
+                    "melody": "34a",
+                    "link": "kvetna_nedele"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "122",
+                    "melody": "38a",
+                    "link": "kvetna_nedele"
+                },
+                {
+                    "page": "114",
+                    "melody": "44b",
+                    "link": "pust_05_AB"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "type": "full",
+    "name": "O nejsvětějším jménu Ježíš",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "850",
+                    "melody": "42a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "851",
+                    "melody": "2a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "852",
+                    "melody": "82a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "106",
+                    "melody": "43a",
+                    "link": "pust_04"
+                }
+            ]
+        }
+    ]
+}

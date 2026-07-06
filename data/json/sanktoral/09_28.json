@@ -1,0 +1,72 @@
+{
+    "type": "full",
+    "name": "Sv. Václava, mučedníka, hlavního patrona českého národa",
+    "date": "28. září",
+    "rank": "slavnost",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "734",
+                    "melody": "137a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "735",
+                    "melody": "134a",
+                    "replacements": {
+                        "1": "Vá--cla--va"
+                    }
+                },
+                {
+                    "page": "736",
+                    "melody": "117k"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "736",
+                    "melody": "133a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "737",
+                    "melody": "73b"
+                },
+                {
+                    "page": "613",
+                    "melody": "74k",
+                    "link": "o_svatych"
+                }
+            ]
+        },
+        {
+            "title": "Závěr",
+            "songs": [
+                {
+                    "page": "738/739",
+                    "melody": "135a"
+                },
+                {
+                    "page": "739/741",
+                    "melody": "136a"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_mucednicich"
+    ]
+}

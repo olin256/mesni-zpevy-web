@@ -1,0 +1,82 @@
+{
+    "type": "full",
+    "name": "1. neděle adventní",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "11",
+                    "melody": "1a"
+                },
+                {
+                    "page": "15",
+                    "melody": "4b",
+                    "link": "advent_2"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "info_before": "V ročním cyklu A:",
+                    "response": "1",
+                    "links": [
+                        {
+                            "filename": "Ps122_01",
+                            "kb_page": "259"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu B:",
+                    "response": "2",
+                    "links": [
+                        {
+                            "filename": "Ps080_03",
+                            "kb_page": "149"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu C:",
+                    "response": "3",
+                    "links": [
+                        {
+                            "filename": "Ps025_09",
+                            "kb_page": "44"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "12",
+                    "melody": "2a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "13",
+                    "melody": "3a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "14",
+                    "melody": "4a"
+                }
+            ]
+        }
+    ]
+}

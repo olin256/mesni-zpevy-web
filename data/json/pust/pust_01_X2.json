@@ -1,0 +1,45 @@
+{
+    "type": "full",
+    "name": "Úterý po 1. neděli postní",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "334",
+                    "melody": "88c",
+                    "link": "mezidobi_27_C"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "82",
+                    "melody": "89e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "69",
+                    "melody": "29a",
+                    "link": "popelecni_streda_X4"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "70",
+                    "melody": "33a",
+                    "link": "popelecni_streda_X4"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+<style>
+.scan-viewer {
+    max-width: 42rem;
+}
+
+.scan-status {
+    text-align: center;
+    margin: 0.5rem 0 1rem;
+}
+
+.scan-swiper {
+    width: 100%;
+}
+
+.scan-swiper .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.scan-swiper img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.scan-swiper .swiper-button-next,
+.scan-swiper .swiper-button-prev {
+    position: fixed;
+    top: 50vh;
+    opacity: 1;
+}
+
+.scan-swiper .swiper-button-prev {
+    left: var(--scan-prev-left, 0.625rem);
+}
+
+.scan-swiper .swiper-button-next {
+    right: var(--scan-next-right, 0.625rem);
+}
+
+.scan-swiper:not(:hover) .swiper-button-next,
+.scan-swiper:not(:hover) .swiper-button-prev {
+    opacity: 0;
+}
+</style>
+<h1>Zobrazení naskenované stránky</h1>
+<div
+    class="viewer scan-viewer"
+    data-first-page="11"
+    data-last-page="1102"
+    data-default-page="1102"
+>
+    <div class="scan-status" aria-live="polite">
+        Strana <span id="scan-current-page"></span>
+    </div>
+    <div class="swiper-container scan-swiper">
+        <div class="swiper-wrapper"></div>
+        <div class="swiper-button-prev" title="Předchozí stránka"></div>
+        <div class="swiper-button-next" title="Další stránka"></div>
+    </div>
+</div>
+<p>Je zobrazen sken stránky, protože tato část Mešních zpěvů
+(nejspíš) nebyla doposud digitalizována (viz <a href="o_projektu.html">O projektu</a>).</p>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script src="assets/js/page-scan-viewer.js"></script>

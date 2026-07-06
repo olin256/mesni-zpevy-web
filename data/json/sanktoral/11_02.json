@@ -1,0 +1,20 @@
+{
+    "type": "partial",
+    "name": "Vzpomínka na všechny věrné zemřelé",
+    "date": "2. listopadu",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "762",
+                    "melody": "228a"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "za_zemrele"
+    ]
+}

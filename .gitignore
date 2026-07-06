@@ -1,0 +1,12 @@
+dist/
+build/
+bordel/
+.agents/
+.codex/
+.git/
+.git-clean/
+clean-worktree-tmp/
+__pycache__/
+.~lock*#
+data/lilypond/melodies/*
+data/lyrics/broken*

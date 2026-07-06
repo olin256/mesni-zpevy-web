@@ -1,0 +1,77 @@
+{
+    "type": "full",
+    "name": "Nejsvětější Trojice",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "375",
+                    "melody": "92e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "info_before": "V ročním cyklu A:",
+                    "response": "60",
+                    "links": [
+                        {
+                            "filename": "Dan3_01",
+                            "kb_page": "315"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu B:",
+                    "response": "11",
+                    "links": [
+                        {
+                            "filename": "Ps033_23",
+                            "kb_page": "69"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu C:",
+                    "response": "58",
+                    "links": [
+                        {
+                            "filename": "Ps008_03",
+                            "kb_page": "13"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "376",
+                    "melody": "98a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "377",
+                    "melody": "113d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "378",
+                    "melody": "99a"
+                }
+            ]
+        }
+    ]
+}

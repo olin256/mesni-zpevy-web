@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "Čtvrtek Svatého týdne",
+    "info": "Mše při svěcení olejů",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "125",
+                    "melody": "43b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "126",
+                    "melody": "74p"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přinášení olejů a darů",
+            "songs": [
+                {
+                    "page": "250",
+                    "melody": "88d",
+                    "link": "mezidobi_13_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "127/128",
+                    "melody": "67a"
+                },
+                {
+                    "page": "163",
+                    "melody": "67a",
+                    "link": "velikonoce_4"
+                }
+            ]
+        },
+        {
+            "title": "Závěr",
+            "songs": [
+                {
+                    "page": "628",
+                    "melody": "44a",
+                    "link": "leden_18"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "type": "full",
+    "name": "Posvěcení lateránské baziliky",
+    "date": "9. listopadu",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "549",
+                    "melody": "94d",
+                    "link": "vyroci_posveceni_kostela"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "550/551",
+                    "melody": "91a",
+                    "link": "vyroci_posveceni_kostela"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "236",
+                    "melody": "89c",
+                    "link": "mezidobi_11_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "263",
+                    "melody": "43b",
+                    "link": "mezidobi_15_A"
+                }
+            ]
+        }
+    ]
+}

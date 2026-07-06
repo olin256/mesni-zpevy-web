@@ -1,0 +1,54 @@
+{
+    "type": "full",
+    "name": "Za jednotu křesťanů",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "819",
+                    "melody": "47a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "820",
+                    "melody": "62c",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "821",
+                    "melody": "42a",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "821",
+                    "melody": "74p"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "179",
+                    "melody": "69a",
+                    "link": "velikonoce_7"
+                },
+                {
+                    "page": "822",
+                    "melody": "58a",
+                    "info_before": "V době velikonoční:"
+                }
+            ]
+        }
+    ]
+}

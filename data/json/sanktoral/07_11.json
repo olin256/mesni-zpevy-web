@@ -1,0 +1,20 @@
+{
+    "type": "partial",
+    "name": "Sv. Benedikta, opata, patrona Evropy",
+    "date": "11. července",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "695",
+                    "melody": "74u"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_reholnicich"
+    ]
+}

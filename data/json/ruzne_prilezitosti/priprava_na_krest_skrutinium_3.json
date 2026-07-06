@@ -1,0 +1,60 @@
+{
+    "type": "full",
+    "name": "Při přípravě na křest",
+    "subtitle": "Při třetím skrutiniu",
+    "info": "Vše jako na <a href='pust_05_AB.html'>5. neděli postní</a> (zpěv k přípravě darů je Ach, můj nejsladší Ježíši); navíc mimo dobu postní je použit jiný zpěv před evangeliem.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "110",
+                    "melody": "74d",
+                    "link": "pust_05_AB"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "111",
+                    "melody": "32a",
+                    "info_before": "V době postní:",
+                    "link": "pust_05_AB"
+                },
+                {
+                    "page": "793",
+                    "melody": "2e",
+                    "info_before": "Mimo dobu postní:",
+                    "link": "krest"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "77",
+                    "melody": "31a",
+                    "link": "pust_01"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "113",
+                    "melody": "164a",
+                    "link": "pust_05_AB"
+                },
+                {
+                    "page": "114",
+                    "melody": "44b",
+                    "link": "pust_05_AB"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "full",
+    "name": "21. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "297",
+                    "melody": "82a",
+                    "link": "mezidobi_21_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "25",
+                    "links": [
+                        {
+                            "filename": "Ps034_04",
+                            "kb_page": "83"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "299",
+                    "melody": "2g"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "197",
+                    "melody": "78a",
+                    "link": "mezidobi_04_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "295",
+                    "melody": "92l",
+                    "link": "mezidobi_20_B"
+                }
+            ]
+        }
+    ]
+}

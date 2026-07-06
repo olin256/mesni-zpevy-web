@@ -1,0 +1,29 @@
+{
+    "type": "partial",
+    "name": "Sv. Bartoloměje, apoštola",
+    "date": "24. srpna",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "718",
+                    "melody": "113b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "718/719",
+                    "melody": "65f"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_apostolech_a_evangelistech"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "30. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "352",
+                    "melody": "44c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "5",
+                    "links": [
+                        {
+                            "filename": "Ps126_01",
+                            "kb_page": "263"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "353",
+                    "melody": "65d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "192",
+                    "melody": "68a",
+                    "link": "mezidobi_03_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "106",
+                    "melody": "43a",
+                    "link": "pust_04_A"
+                }
+            ]
+        }
+    ]
+}

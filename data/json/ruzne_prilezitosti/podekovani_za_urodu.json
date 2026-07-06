@@ -1,0 +1,46 @@
+{
+    "type": "full",
+    "name": "Na poděkování za úrodu",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "276",
+                    "melody": "93a",
+                    "link": "mezidobi_17_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "278",
+                    "melody": "2f",
+                    "link": "mezidobi_17_B"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "278",
+                    "melody": "74j",
+                    "link": "mezidobi_17_B"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "277",
+                    "melody": "84a",
+                    "link": "mezidobi_17_A"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "type": "full",
+    "name": "Středa po 2. neděli postní",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "88",
+                    "melody": "85b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "89",
+                    "melody": "38a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "89",
+                    "melody": "41a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "90",
+                    "melody": "94f"
+                }
+            ]
+        }
+    ]
+}

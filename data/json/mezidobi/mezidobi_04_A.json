@@ -1,0 +1,57 @@
+{
+    "type": "full",
+    "name": "4. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "195",
+                    "melody": "89d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "31",
+                    "links": [
+                        {
+                            "filename": "Ps146_05",
+                            "kb_page": "295"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "196",
+                    "melody": "98i"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "197",
+                    "melody": "78a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "198",
+                    "melody": "36j"
+                }
+            ]
+        }
+    ]
+}

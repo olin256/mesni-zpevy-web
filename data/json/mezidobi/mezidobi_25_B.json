@@ -1,0 +1,60 @@
+{
+    "type": "full",
+    "name": "25. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "318",
+                    "melody": "74d",
+                    "link": "mezidobi_25_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "49",
+                    "links": [
+                        {
+                            "filename": "Ps054_01",
+                            "kb_page": "122"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "320",
+                    "melody": "2f"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "236",
+                    "melody": "89c",
+                    "link": "mezidobi_11_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "78",
+                    "melody": "36a",
+                    "link": "pust_01"
+                }
+            ]
+        }
+    ]
+}

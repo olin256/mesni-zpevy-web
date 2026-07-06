@@ -1,0 +1,62 @@
+{
+    "type": "full",
+    "name": "Seslání Ducha Svatého",
+    "subtitle": "V den slavnosti",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "184",
+                    "melody": "74a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "44",
+                    "links": [
+                        {
+                            "filename": "Ps104_05",
+                            "kb_page": "208"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Sekvence",
+            "songs": [
+                {
+                    "page": "185",
+                    "melody": "75a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "186",
+                    "melody": "60c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "182",
+                    "melody": "73a",
+                    "link": "seslani_sv_ducha_vigilie"
+                },
+                {
+                    "page": "187",
+                    "melody": "55b"
+                }
+            ]
+        }
+    ]
+}

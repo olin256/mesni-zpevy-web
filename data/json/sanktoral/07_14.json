@@ -1,0 +1,55 @@
+{
+    "type": "full",
+    "name": "Bl. Hroznaty, mučedníka",
+    "date": "14. července",
+    "rank": "nezávazná památka",
+    "info": "V plzeňské diecézi svátek.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "604",
+                    "melody": "71b",
+                    "link": "o_svatych",
+                    "replacements": {
+                        "1": "Hroz--na--ty"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "696",
+                    "melody": "98e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "620",
+                    "melody": "92k",
+                    "link": "o_reholnicich"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "584",
+                    "melody": "88a",
+                    "link": "o_mucednicich"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_mucednicich",
+        "o_reholnicich"
+    ]
+}

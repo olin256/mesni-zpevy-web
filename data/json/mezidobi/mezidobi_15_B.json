@@ -1,0 +1,63 @@
+{
+    "type": "full",
+    "name": "15. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "264/265",
+                    "melody": "67a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "4",
+                    "links": [
+                        {
+                            "filename": "Ps085_05",
+                            "kb_page": "159"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "265",
+                    "melody": "2e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "210",
+                    "melody": "81a",
+                    "link": "mezidobi_07_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "263",
+                    "melody": "43b",
+                    "link": "mezidobi_15_A"
+                },
+                {
+                    "page": "266/267",
+                    "melody": "90a"
+                }
+            ]
+        }
+    ]
+}

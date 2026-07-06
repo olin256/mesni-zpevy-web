@@ -1,0 +1,91 @@
+{
+    "type": "full",
+    "name": "O duchovních pastýřích",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "586",
+                    "melody": "67a"
+                },
+                {
+                    "page": "586/587",
+                    "melody": "71a"
+                },
+                {
+                    "page": "587",
+                    "melody": "67a",
+                    "info_before": "O misionářích:"
+                },
+                {
+                    "page": "576",
+                    "melody": "67a",
+                    "info_before": "O pastýřích mučednících:",
+                    "link": "o_mucednicich"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "589",
+                    "melody": "2h",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "590",
+                    "melody": "65c"
+                },
+                {
+                    "page": "590",
+                    "melody": "134a",
+                    "replacements": "show_all"
+                },
+                {
+                    "page": "591",
+                    "melody": "69a",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "591",
+                    "melody": "69b"
+                },
+                {
+                    "page": "592",
+                    "melody": "89c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "592/593",
+                    "melody": "120a"
+                },
+                {
+                    "page": "263",
+                    "melody": "43b",
+                    "link": "mezidobi_15_A"
+                },
+                {
+                    "page": "114",
+                    "melody": "44b",
+                    "link": "pust_05_AB"
+                },
+                {
+                    "page": "250",
+                    "melody": "88d",
+                    "link": "mezidobi_13_A"
+                }
+            ]
+        }
+    ]
+}

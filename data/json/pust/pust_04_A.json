@@ -1,0 +1,56 @@
+{
+    "type": "full",
+    "name": "4. neděle postní A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "101",
+                    "melody": "43b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "23",
+                    "links": [
+                        {
+                            "filename": "Ps023_01",
+                            "kb_page": "34"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "102",
+                    "melody": "42a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "105",
+                    "melody": "34a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "106",
+                    "melody": "43a"
+                }
+            ]
+        }
+    ]
+}

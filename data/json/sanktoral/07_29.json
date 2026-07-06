@@ -1,0 +1,53 @@
+{
+    "type": "full",
+    "name": "Sv. Marty",
+    "date": "29. července",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "704",
+                    "melody": "113a",
+                    "replacements": {
+                        "1": "Mar--tu"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "705",
+                    "melody": "117d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "705",
+                    "melody": "69k"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "614",
+                    "melody": "114a",
+                    "link": "o_svatych"
+                },
+                {
+                    "page": "284",
+                    "melody": "94a",
+                    "link": "mezidobi_18_A"
+                }
+            ]
+        }
+    ]
+}

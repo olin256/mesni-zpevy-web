@@ -1,0 +1,60 @@
+{
+    "type": "full",
+    "name": "26. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "324/325",
+                    "melody": "69a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "22",
+                    "links": [
+                        {
+                            "filename": "Ps019_06",
+                            "kb_page": "29"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "324",
+                    "melody": "80a",
+                    "link": "mezidobi_26_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "192",
+                    "melody": "68a",
+                    "link": "mezidobi_03_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "172",
+                    "melody": "70a",
+                    "link": "velikonoce_6"
+                }
+            ]
+        }
+    ]
+}

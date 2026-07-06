@@ -1,0 +1,56 @@
+{
+    "type": "full",
+    "name": "Výročí posvěcení kostela",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "549",
+                    "melody": "94d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "550/551",
+                    "melody": "91a",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "551",
+                    "melody": "85a",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "236",
+                    "melody": "89c",
+                    "link": "mezidobi_11_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "552",
+                    "melody": "92m",
+                    "info_before": "V kostele, který slaví výročí posvěcení (a pří svěcení kostela):"
+                },
+                {
+                    "page": "263",
+                    "melody": "43b",
+                    "link": "mezidobi_15_A",
+                    "info_before": "Mimo kostel, jehož výročí posvěcení se slaví:"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+<style>
+#obrazek-container img { width: 100%; height: auto; }
+.viewer { max-width: 37.5rem; }
+.nav-buttons {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 2em;
+  cursor: pointer;
+  user-select: none;
+  padding: 0 30px;
+  box-sizing: border-box;
+  margin: 20px 0;
+}
+.nav-buttons span {
+  padding: 0 20px;
+}
+</style>
+<h1>Zobrazení naskenované stránky</h1>
+<div class="viewer">
+<div class="nav-buttons">
+<span id="prev" title="Předchozí stránka">&#x25C0;</span>
+<span id="next" title="Další stránka">&#x25B6;</span>
+</div>
+<div id="obrazek-container"></div>
+</div>
+<p>Je zobrazen sken stránky, protože tato část Mešních zpěvů
+(nejspíš) nebyla doposud digitalizována (viz <a href="o_projektu.html">O projektu</a>).</p>
+<script>
+    const firstPage = 11;
+    const lastPage = 1102;
+    function getQueryParam(name) {
+        const params = new URLSearchParams(window.location.search);
+        return params.get(name);
+    }
+
+    function padCislo(c) {
+        return c.toString().padStart(3, '0');
+    }
+
+    function zobrazObrazek(cislo) {
+        const container = document.getElementById("obrazek-container");
+        const cisloPadded = padCislo(cislo);
+        const img = document.createElement("img");
+        img.src = `assets/images/page_scans/${cisloPadded}.png`;
+        container.innerHTML = "";
+        container.appendChild(img);
+
+        // Změna URL bez reloadu
+        const newUrl = `${window.location.pathname}?pg=${cislo}`;
+        window.history.pushState({cislo}, "", newUrl);
+    }
+
+    let cisloRaw = parseInt(getQueryParam("pg"));
+    if (isNaN(cisloRaw)) cisloRaw = lastPage;
+
+    let aktualniCislo = Math.min(Math.max(cisloRaw, firstPage), lastPage);
+    zobrazObrazek(aktualniCislo);
+
+    document.getElementById("prev").addEventListener("click", () => {
+        if (aktualniCislo > firstPage) {
+            aktualniCislo--;
+            zobrazObrazek(aktualniCislo);
+        }
+    });
+
+    document.getElementById("next").addEventListener("click", () => {
+        if (aktualniCislo < lastPage) {
+            aktualniCislo++;
+            zobrazObrazek(aktualniCislo);
+        }
+    });
+
+    // Obsluha back/forward tlačítek v prohlížeči
+    window.addEventListener("popstate", (event) => {
+        if (event.state && event.state.cislo) {
+            aktualniCislo = event.state.cislo;
+            zobrazObrazek(aktualniCislo);
+        }
+    });
+</script>

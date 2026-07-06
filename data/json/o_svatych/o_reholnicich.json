@@ -1,0 +1,70 @@
+{
+    "type": "full",
+    "name": "O řeholnících",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "618",
+                    "melody": "69k"
+                },
+                {
+                    "page": "618",
+                    "melody": "74k",
+                    "info_before": "O řeholníkovi:"
+                },
+                {
+                    "page": "606",
+                    "melody": "113a",
+                    "replacements": "show_all",
+                    "info_before": "O řeholnici:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "619",
+                    "melody": "98h",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "620",
+                    "melody": "104b"
+                },
+                {
+                    "page": "610",
+                    "melody": "89d",
+                    "link": "o_svatych",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "620",
+                    "melody": "92k"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "302",
+                    "melody": "88a",
+                    "link": "mezidobi_22_A"
+                },
+                {
+                    "page": "198",
+                    "melody": "36j",
+                    "link": "mezidobi_04_A"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "type": "full",
+    "name": "8. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "216",
+                    "melody": "83a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "50",
+                    "links": [
+                        {
+                            "filename": "Ps062_01",
+                            "kb_page": "124"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "217",
+                    "melody": "2f"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "218",
+                    "melody": "84a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "168",
+                    "melody": "42a",
+                    "link": "velikonoce_5"
+                }
+            ]
+        }
+    ]
+}

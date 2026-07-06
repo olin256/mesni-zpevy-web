@@ -1,0 +1,93 @@
+{
+    "type": "full",
+    "name": "7. neděle velikonoční",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "177",
+                    "melody": "72a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "info_before": "V ročním cyklu A:",
+                    "response": "42",
+                    "links": [
+                        {
+                            "filename": "Ps027_09",
+                            "kb_page": "50"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu B:",
+                    "response": "31",
+                    "links": [
+                        {
+                            "filename": "Ps103_01",
+                            "kb_page": "204"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu C:",
+                    "response": "42",
+                    "links": [
+                        {
+                            "filename": "Ps097_06",
+                            "kb_page": "187"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu C:",
+                    "response": "43",
+                    "links": [
+                        {
+                            "filename": "Ps097_05",
+                            "kb_page": "187"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "174",
+                    "melody": "65n",
+                    "link": "nanebevstoupeni"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "178",
+                    "melody": "74m"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "179",
+                    "melody": "69a"
+                },
+                {
+                    "page": "172",
+                    "melody": "70a",
+                    "link": "velikonoce_6"
+                }
+            ]
+        }
+    ]
+}

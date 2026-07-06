@@ -1,0 +1,60 @@
+{
+    "type": "full",
+    "name": "25. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "318",
+                    "melody": "74d",
+                    "link": "mezidobi_25_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "58",
+                    "links": [
+                        {
+                            "filename": "Ps113_04",
+                            "kb_page": "?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "319",
+                    "melody": "2g",
+                    "link": "mezidobi_25_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "236",
+                    "melody": "89c",
+                    "link": "mezidobi_11_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "322",
+                    "melody": "36l"
+                }
+            ]
+        }
+    ]
+}

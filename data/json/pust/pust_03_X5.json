@@ -1,0 +1,56 @@
+{
+    "type": "full",
+    "name": "Pátek po 3. neděli postní",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "267",
+                    "melody": "92a",
+                    "link": "mezidobi_15_C"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "72/73",
+                    "melody": "88e",
+                    "link": "popelecni_streda_X6"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "73",
+                    "melody": "72b",
+                    "link": "popelecni_streda_X6"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "65",
+                    "melody": "34c",
+                    "link": "popelecni_streda"
+                },
+                {
+                    "page": "64",
+                    "melody": "30a",
+                    "link": "popelecni_streda"
+                },
+                {
+                    "page": "74",
+                    "melody": "35a",
+                    "link": "popelecni_streda_X6"
+                }
+            ]
+        }
+    ]
+}

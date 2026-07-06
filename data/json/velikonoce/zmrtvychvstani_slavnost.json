@@ -1,0 +1,66 @@
+{
+    "type": "full",
+    "name": "Zmrtvýchvstání Páně",
+    "subtitle": "V den slavnosti",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "146",
+                    "melody": "58a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "37",
+                    "links": [
+                        {
+                            "filename": "Ps118_01",
+                            "kb_page": "237"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Sekvence",
+            "songs": [
+                {
+                    "page": "146/147",
+                    "melody": "59a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "148",
+                    "melody": "60a"
+                },
+                {
+                    "page": "143",
+                    "melody": "55a",
+                    "link": "zmrtvychvstani_vigilie"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "148/149",
+                    "melody": "53a"
+                },
+                {
+                    "page": "149",
+                    "melody": "57a"
+                }
+            ]
+        }
+    ]
+}

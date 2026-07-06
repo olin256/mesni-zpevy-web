@@ -1,0 +1,62 @@
+{
+    "type": "full",
+    "name": "11. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "234",
+                    "melody": "67a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "55",
+                    "links": [
+                        {
+                            "filename": "Ps100_07",
+                            "kb_page": "194"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "235",
+                    "melody": "2e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "236",
+                    "melody": "89c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "236/237",
+                    "melody": "100a"
+                },
+                {
+                    "page": "172",
+                    "melody": "70a",
+                    "link": "velikonoce_6"
+                }
+            ]
+        }
+    ]
+}

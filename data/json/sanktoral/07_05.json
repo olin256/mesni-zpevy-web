@@ -1,0 +1,65 @@
+{
+    "type": "full",
+    "name": "Sv. Cyrila, mnicha, a Metoděje, biskupa, patronů Evropy",
+    "date": "5. července",
+    "rank": "slavnost",
+    "info": "V Mešních zpěvech zastarale uvedeno jako slavnost pouze na Moravě.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "690/691",
+                    "melody": "126a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "692",
+                    "melody": "65c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "692/693",
+                    "melody": "126b",
+                    "stanza_set": [
+                        1
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "692",
+                    "melody": "126b",
+                    "stanza_set": [
+                        2,
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Závěr",
+            "songs": [
+                {
+                    "page": "694",
+                    "melody": "127a"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_duchovnich_pastyrich"
+    ]
+}

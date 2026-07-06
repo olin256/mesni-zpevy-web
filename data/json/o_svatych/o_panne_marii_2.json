@@ -1,0 +1,46 @@
+{
+    "type": "full",
+    "name": "O Panně Marii II.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "559",
+                    "melody": "107a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "560",
+                    "melody": "5a"
+                },
+                {
+                    "page": "561",
+                    "melody": "66c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "562",
+                    "melody": "108a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "563",
+                    "melody": "2b"
+                }
+            ]
+        }
+    ]
+}

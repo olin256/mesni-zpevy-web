@@ -1,0 +1,131 @@
+{
+    "type": "full",
+    "name": "O svatých",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "603",
+                    "melody": "69k"
+                },
+                {
+                    "page": "618",
+                    "melody": "69k",
+                    "link": "o_reholnicich"
+                },
+                {
+                    "page": "604",
+                    "melody": "71b",
+                    "replacements": "show_all",
+                    "info_before": "O svatém muži:"
+                },
+                {
+                    "page": "604/605",
+                    "melody": "113r",
+                    "replacements": "show_all"
+                },
+                {
+                    "page": "605",
+                    "melody": "74b"
+                },
+                {
+                    "page": "606",
+                    "melody": "113a",
+                    "replacements": "show_all",
+                    "info_before": "O svaté ženě:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "608",
+                    "melody": "98h",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "608",
+                    "melody": "65i"
+                },
+                {
+                    "page": "609",
+                    "melody": "104e",
+                    "replacements": "show_all"
+                },
+                {
+                    "page": "609",
+                    "melody": "117c",
+                    "replacements": "show_all"
+                },
+                {
+                    "page": "610",
+                    "melody": "89d",
+                    "info_before": "V době postní:"
+                },
+                {
+                    "page": "610",
+                    "melody": "92g"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "611",
+                    "melody": "92d"
+                },
+                {
+                    "page": "592",
+                    "melody": "89c",
+                    "link": "o_duchovnich_pastyrich"
+                },
+                {
+                    "page": "611",
+                    "melody": "74j"
+                },
+                {
+                    "page": "612",
+                    "melody": "69g"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "613",
+                    "melody": "74k"
+                },
+                {
+                    "page": "198",
+                    "melody": "36j",
+                    "link": "mezidobi_04_A"
+                },
+                {
+                    "page": "614",
+                    "melody": "114a"
+                },
+                {
+                    "page": "302",
+                    "melody": "88a",
+                    "link": "mezidobi_22_A"
+                },
+                {
+                    "page": "615",
+                    "melody": "115a"
+                },
+                {
+                    "page": "616",
+                    "melody": "116a"
+                },
+                {
+                    "page": "617",
+                    "melody": "94e"
+                }
+            ]
+        }
+    ]
+}

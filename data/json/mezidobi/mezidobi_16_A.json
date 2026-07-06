@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "16. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "270",
+                    "melody": "88e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "5",
+                    "links": [
+                        {
+                            "filename": "Ps086_03",
+                            "kb_page": "161"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "271",
+                    "melody": "80a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "192",
+                    "melody": "68a",
+                    "link": "mezidobi_03_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "168",
+                    "melody": "42a",
+                    "link": "velikonoce_5"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "type": "full",
+    "name": "Při přípravě na křest",
+    "subtitle": "Při prvním skrutiniu",
+    "info": "Vše jako na <a href='pust_03.html'>3. neděli postní</a>, ovšem mimo dobu postní je použit jiný zpěv před evangeliem.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "95",
+                    "melody": "30a",
+                    "link": "pust_03"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "96",
+                    "melody": "30c",
+                    "info_before": "V době postní:",
+                    "link": "pust_03"
+                },
+                {
+                    "page": "788",
+                    "melody": "2a",
+                    "info_before": "Mimo dobu postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "97",
+                    "melody": "72b",
+                    "link": "pust_03"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "98/99",
+                    "melody": "31a",
+                    "link": "pust_03"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "type": "full",
+    "name": "18. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "281",
+                    "melody": "30a"
+                },
+                {
+                    "page": "274",
+                    "melody": "70b",
+                    "link": "mezidobi_17_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "49",
+                    "links": [
+                        {
+                            "filename": "Ps145_27",
+                            "kb_page": "290"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "282",
+                    "melody": "2f"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "283",
+                    "melody": "82b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "284",
+                    "melody": "94a"
+                }
+            ]
+        }
+    ]
+}

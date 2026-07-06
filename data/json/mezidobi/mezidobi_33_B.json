@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "33. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "370",
+                    "melody": "74e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "33",
+                    "links": [
+                        {
+                            "filename": "Ps016_03",
+                            "kb_page": "20"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "368",
+                    "melody": "2e",
+                    "link": "mezidobi_33_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "369",
+                    "melody": "84a",
+                    "link": "mezidobi_33_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "371",
+                    "melody": "33a"
+                }
+            ]
+        }
+    ]
+}

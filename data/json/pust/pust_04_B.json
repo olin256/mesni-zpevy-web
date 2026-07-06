@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "4. neděle postní B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "101",
+                    "melody": "43b",
+                    "link": "pust_04_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "24",
+                    "links": [
+                        {
+                            "filename": "Ps137_01",
+                            "kb_page": "275"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "103",
+                    "melody": "42a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "105",
+                    "melody": "34a",
+                    "link": "pust_04_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "106",
+                    "melody": "43a",
+                    "link": "pust_04_A"
+                }
+            ]
+        }
+    ]
+}

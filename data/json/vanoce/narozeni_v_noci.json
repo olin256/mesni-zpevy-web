@@ -1,0 +1,52 @@
+{
+    "type": "full",
+    "name": "Narození Páně",
+    "subtitle": "V noci",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "30",
+                    "melody": "13a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "31",
+                    "melody": "5g"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "32",
+                    "melody": "14a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "33",
+                    "melody": "15a"
+                }
+            ]
+        },
+        {
+            "title": "Závěr",
+            "songs": [
+                {
+                    "page": "34",
+                    "melody": "16a"
+                }
+            ]
+        }
+    ]
+}

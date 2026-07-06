@@ -1,0 +1,49 @@
+{
+    "type": "full",
+    "name": "Za papeže, biskupy a kněze",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "812/813",
+                    "melody": "67a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "813",
+                    "melody": "2e",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "814",
+                    "melody": "69a",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "814/815",
+                    "melody": "69b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "266",
+                    "melody": "90a",
+                    "link": "mezidobi_15_B"
+                }
+            ]
+        }
+    ]
+}

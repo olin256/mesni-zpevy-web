@@ -1,0 +1,77 @@
+{
+    "type": "full",
+    "name": "5. neděle velikonoční",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "165",
+                    "melody": "68a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "info_before": "V ročním cyklu A:",
+                    "response": "17",
+                    "links": [
+                        {
+                            "filename": "Ps033_05",
+                            "kb_page": "66"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu B:",
+                    "response": "42",
+                    "links": [
+                        {
+                            "filename": "Ps022_05",
+                            "kb_page": "33"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu C:",
+                    "response": "7",
+                    "links": [
+                        {
+                            "filename": "Ps145_22",
+                            "kb_page": "287"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "166/167",
+                    "melody": "64a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "167",
+                    "melody": "74d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "168/169",
+                    "melody": "42a"
+                }
+            ]
+        }
+    ]
+}

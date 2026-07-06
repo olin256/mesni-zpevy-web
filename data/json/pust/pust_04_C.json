@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "4. neděle postní C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "101",
+                    "melody": "43b",
+                    "link": "pust_04_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "25",
+                    "links": [
+                        {
+                            "filename": "Ps034_07",
+                            "kb_page": "73"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "104",
+                    "melody": "29b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "105",
+                    "melody": "34a",
+                    "link": "pust_04_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "106",
+                    "melody": "43a",
+                    "link": "pust_04_A"
+                }
+            ]
+        }
+    ]
+}

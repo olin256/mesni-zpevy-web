@@ -1,0 +1,81 @@
+{
+    "type": "full",
+    "name": "4. neděle velikonoční",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "160",
+                    "melody": "37a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "info_before": "V ročním cyklu A:",
+                    "response": "23",
+                    "links": [
+                        {
+                            "filename": "Ps023_01",
+                            "kb_page": "34"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu B:",
+                    "response": "39",
+                    "links": [
+                        {
+                            "filename": "Ps118_07",
+                            "kb_page": "238"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu C:",
+                    "response": "40",
+                    "links": [
+                        {
+                            "filename": "Ps100_06",
+                            "kb_page": "194"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "161",
+                    "melody": "2e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "162",
+                    "melody": "66a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "163",
+                    "melody": "67a"
+                },
+                {
+                    "page": "164/165",
+                    "melody": "69b"
+                }
+            ]
+        }
+    ]
+}

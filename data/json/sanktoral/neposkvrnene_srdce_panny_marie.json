@@ -1,0 +1,23 @@
+{
+    "type": "partial",
+    "name": "Neposkvrněného Srdce Panny Marie",
+    "subtitle": "Sobota po 2. neděli po Seslání Ducha svatého",
+    "rank": "památka",
+    "info": "Všechno jako 7. října, nebo o Panně Marii I., nebo o Panně Marii II.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "752",
+                    "melody": "142a",
+                    "link": "10_07"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_panne_marii_1",
+        "o_panne_marii_2"
+    ]
+}

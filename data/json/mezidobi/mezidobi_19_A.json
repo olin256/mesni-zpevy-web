@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "19. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "285",
+                    "melody": "33a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "4",
+                    "links": [
+                        {
+                            "filename": "Ps085_05",
+                            "kb_page": "159"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "286",
+                    "melody": "2a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "276",
+                    "melody": "93a",
+                    "link": "mezidobi_17_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "207",
+                    "melody": "82a",
+                    "link": "mezidobi_06_A"
+                }
+            ]
+        }
+    ]
+}

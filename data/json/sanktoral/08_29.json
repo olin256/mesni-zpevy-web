@@ -1,0 +1,20 @@
+{
+    "type": "partial",
+    "name": "Umučení sv. Jana Křtitele",
+    "date": "29. srpna",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "720",
+                    "melody": "5e"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "06_24"
+    ]
+}

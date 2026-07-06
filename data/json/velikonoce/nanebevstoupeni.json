@@ -1,0 +1,60 @@
+{
+    "type": "full",
+    "name": "Nanebevstoupení Páně",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "173",
+                    "melody": "110b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "42",
+                    "links": [
+                        {
+                            "filename": "Ps047_03",
+                            "kb_page": "105"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "174",
+                    "melody": "65n"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "174/175",
+                    "melody": "55c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "175",
+                    "melody": "71a"
+                },
+                {
+                    "page": "176",
+                    "melody": "2e"
+                }
+            ]
+        }
+    ]
+}

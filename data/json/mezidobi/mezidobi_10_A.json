@@ -1,0 +1,58 @@
+{
+    "type": "full",
+    "name": "10. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "227",
+                    "melody": "69c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "11",
+                    "links": [
+                        {
+                            "filename": "Ps050_03",
+                            "kb_page": "107"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "227",
+                    "melody": "80a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "197",
+                    "melody": "78a",
+                    "link": "mezidobi_04_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "228/229",
+                    "melody": "7b"
+                }
+            ]
+        }
+    ]
+}

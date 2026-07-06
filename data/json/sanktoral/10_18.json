@@ -1,0 +1,27 @@
+{
+    "type": "partial",
+    "name": "Sv. Lukáše, evangelisty",
+    "date": "18. října",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "676",
+                    "melody": "113n",
+                    "link": "06_11"
+                },
+                {
+                    "page": "572",
+                    "melody": "90a",
+                    "option": 2,
+                    "link": "o_apostolech_a_evangelistech"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_apostolech_a_evangelistech"
+    ]
+}

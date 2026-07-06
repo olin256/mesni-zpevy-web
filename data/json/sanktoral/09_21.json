@@ -1,0 +1,20 @@
+{
+    "type": "partial",
+    "name": "Sv. Matouše, apoštola a evangelisty",
+    "date": "21. září",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "733",
+                    "melody": "74h"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_apostolech_a_evangelistech"
+    ]
+}

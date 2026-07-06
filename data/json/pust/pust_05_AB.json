@@ -1,0 +1,76 @@
+{
+    "type": "full",
+    "name": "5. neděle postní A/B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "110",
+                    "melody": "74d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "info_before": "V ročním cyklu A:",
+                    "response": "26",
+                    "links": [
+                        {
+                            "filename": "Ps130_01",
+                            "kb_page": "268"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu B:",
+                    "response": "27",
+                    "links": [
+                        {
+                            "filename": "Ps051_03",
+                            "kb_page": "117"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "111",
+                    "melody": "32a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "112/113",
+                    "melody": "29a"
+                },
+                {
+                    "page": "77",
+                    "melody": "31a",
+                    "link": "pust_01"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "113",
+                    "melody": "164a"
+                },
+                {
+                    "page": "114",
+                    "melody": "44b"
+                }
+            ]
+        }
+    ]
+}

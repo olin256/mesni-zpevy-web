@@ -1,0 +1,60 @@
+{
+    "type": "full",
+    "name": "22. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "304",
+                    "melody": "70b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "11",
+                    "links": [
+                        {
+                            "filename": "Ps015_01",
+                            "kb_page": "16"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "302",
+                    "melody": "80a",
+                    "link": "mezidobi_22_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "256",
+                    "melody": "89a",
+                    "link": "mezidobi_14_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "302/303",
+                    "melody": "88a",
+                    "link": "mezidobi_22_A"
+                }
+            ]
+        }
+    ]
+}

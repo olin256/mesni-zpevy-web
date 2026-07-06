@@ -1,0 +1,45 @@
+{
+    "type": "full",
+    "name": "Svatých Mláďátek, mučedníků",
+    "date": "28. prosince",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "782",
+                    "melody": "21c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "783",
+                    "melody": "20b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "783",
+                    "melody": "17a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "33",
+                    "melody": "15a",
+                    "link": "narozeni_v_noci"
+                }
+            ]
+        }
+    ]
+}

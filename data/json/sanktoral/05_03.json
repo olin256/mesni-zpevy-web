@@ -1,0 +1,20 @@
+{
+    "type": "partial",
+    "name": "Sv. Filipa a Jakuba, apoštolů",
+    "date": "3. května",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "661",
+                    "melody": "113h"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_apostolech_a_evangelistech"
+    ]
+}

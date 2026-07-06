@@ -1,0 +1,112 @@
+{
+    "type": "full",
+    "name": "Těla a krvě Páně",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "129",
+                    "melody": "50a",
+                    "link": "zeleny_ctvrtek"
+                },
+                {
+                    "page": "379",
+                    "melody": "24b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "info_before": "V ročním cyklu A:",
+                    "response": "39",
+                    "links": [
+                        {
+                            "filename": "Ps147_02",
+                            "kb_page": "297"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu B:",
+                    "response": "29",
+                    "links": [
+                        {
+                            "filename": "Ps116_11",
+                            "kb_page": "231"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu B:",
+                    "response": "62",
+                    "links": [
+                        {
+                            "filename": "Ps116_12",
+                            "kb_page": "231"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu C:",
+                    "response": "63",
+                    "links": [
+                        {
+                            "filename": "Ps110_01",
+                            "kb_page": "218"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "380/381",
+                    "melody": "65l"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "381",
+                    "melody": "49a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "106",
+                    "melody": "43a",
+                    "link": "pust_04_A"
+                },
+                {
+                    "page": "284",
+                    "melody": "94a",
+                    "link": "mezidobi_18_A"
+                }
+            ]
+        },
+        {
+            "title": "Při závěrečné adoraci",
+            "songs": [
+                {
+                    "page": "382",
+                    "melody": "86a"
+                },
+                {
+                    "page": "134",
+                    "melody": "54a",
+                    "link": "zeleny_ctvrtek"
+                }
+            ]
+        }
+    ]
+}

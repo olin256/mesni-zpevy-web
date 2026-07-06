@@ -1,0 +1,20 @@
+{
+    "type": "partial",
+    "name": "Panny Marie Růžencové",
+    "date": "7. října",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "752",
+                    "melody": "142a"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_panne_marii_1"
+    ]
+}

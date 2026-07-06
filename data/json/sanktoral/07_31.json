@@ -1,0 +1,21 @@
+{
+    "type": "partial",
+    "name": "Sv. Ignáce z Loyoly, kněze",
+    "date": "31. července",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "706",
+                    "melody": "125a"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_reholnicich",
+        "o_duchovnich_pastyrich"
+    ]
+}

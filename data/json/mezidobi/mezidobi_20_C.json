@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "20. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "296",
+                    "melody": "74j"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "33",
+                    "links": [
+                        {
+                            "filename": "Ps040_01",
+                            "kb_page": "88"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "296/297",
+                    "melody": "66b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "292/293",
+                    "melody": "82d",
+                    "link": "mezidobi_20_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "246",
+                    "melody": "5d",
+                    "link": "mezidobi_12_C"
+                }
+            ]
+        }
+    ]
+}

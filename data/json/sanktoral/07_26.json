@@ -1,0 +1,45 @@
+{
+    "type": "full",
+    "name": "Sv. Jáchyma a Anny, rodičů Panny Marie",
+    "date": "26. července",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "701",
+                    "melody": "31b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "702",
+                    "melody": "117h"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "703",
+                    "melody": "69k"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "617",
+                    "melody": "94e",
+                    "link": "o_svatych"
+                }
+            ]
+        }
+    ]
+}

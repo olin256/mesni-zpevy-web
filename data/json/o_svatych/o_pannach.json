@@ -1,0 +1,73 @@
+{
+    "type": "full",
+    "name": "O pannách",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "597",
+                    "melody": "97a"
+                },
+                {
+                    "page": "598",
+                    "melody": "113k"
+                },
+                {
+                    "page": "598/599",
+                    "melody": "112a",
+                    "info_before": "O panně mučednici:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "600",
+                    "melody": "98g",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "600",
+                    "melody": "117c",
+                    "replacements": "show_all"
+                },
+                {
+                    "page": "601",
+                    "melody": "98e",
+                    "info_before": "O panně mučednici:"
+                },
+                {
+                    "page": "610",
+                    "melody": "89d",
+                    "info_before": "V době postní:",
+                    "link": "o_svatych"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "601",
+                    "melody": "92d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "602",
+                    "melody": "34d"
+                },
+                {
+                    "page": "614",
+                    "melody": "114a",
+                    "link": "o_svatych"
+                }
+            ]
+        }
+    ]
+}

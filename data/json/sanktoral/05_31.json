@@ -1,0 +1,20 @@
+{
+    "type": "partial",
+    "name": "Navštívení Panny Marie",
+    "date": "31. května",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "672",
+                    "melody": "10c"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_panne_marii_1"
+    ]
+}

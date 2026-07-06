@@ -1,0 +1,58 @@
+{
+    "type": "full",
+    "name": "27. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "329",
+                    "melody": "79a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "4",
+                    "links": [
+                        {
+                            "filename": "Ps080_05",
+                            "kb_page": "150"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "330",
+                    "melody": "64a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "331",
+                    "melody": "84a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "134",
+                    "melody": "92b",
+                    "link": "zeleny_ctvrtek"
+                }
+            ]
+        }
+    ]
+}

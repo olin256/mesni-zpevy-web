@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "23. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "306/307",
+                    "melody": "47b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "21",
+                    "links": [
+                        {
+                            "filename": "Ps095_02",
+                            "kb_page": "178"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "307",
+                    "melody": "64c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "210",
+                    "melody": "81a",
+                    "link": "mezidobi_07_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "106",
+                    "melody": "43a",
+                    "link": "pust_04_A"
+                }
+            ]
+        }
+    ]
+}

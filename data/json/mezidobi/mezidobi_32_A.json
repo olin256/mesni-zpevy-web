@@ -1,0 +1,63 @@
+{
+    "type": "full",
+    "name": "32. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "360",
+                    "melody": "34d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "50",
+                    "links": [
+                        {
+                            "filename": "Ps063_01",
+                            "kb_page": "125"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "361",
+                    "melody": "97a"
+                },
+                {
+                    "page": "362",
+                    "melody": "2a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "256",
+                    "melody": "89a",
+                    "link": "mezidobi_14_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "168",
+                    "melody": "42a",
+                    "link": "velikonoce_5"
+                }
+            ]
+        }
+    ]
+}

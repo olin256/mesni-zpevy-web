@@ -1,0 +1,20 @@
+{
+    "type": "partial",
+    "name": "Sv. Josefa, dělníka",
+    "date": "1. května",
+    "rank": "nezávazná památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "660",
+                    "melody": "74f"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "03_19"
+    ]
+}

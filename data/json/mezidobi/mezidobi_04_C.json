@@ -1,0 +1,60 @@
+{
+    "type": "full",
+    "name": "4. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "200",
+                    "melody": "79a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "46",
+                    "links": [
+                        {
+                            "filename": "Ps071_01",
+                            "kb_page": "141"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "196",
+                    "melody": "98i",
+                    "link": "mezidobi_04_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "197",
+                    "melody": "78a",
+                    "link": "mezidobi_04_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "198",
+                    "melody": "36j",
+                    "link": "mezidobi_04_A"
+                }
+            ]
+        }
+    ]
+}

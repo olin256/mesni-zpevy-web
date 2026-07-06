@@ -1,0 +1,29 @@
+{
+    "type": "partial",
+    "name": "Sv. Vavřince, jáhna a mučedníka",
+    "date": "10. srpna",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "711",
+                    "melody": "113j"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "712",
+                    "melody": "65g"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_mucednicich"
+    ]
+}

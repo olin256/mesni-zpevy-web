@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "22. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "305",
+                    "melody": "37a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "39",
+                    "links": [
+                        {
+                            "filename": "Ps068_05",
+                            "kb_page": "133"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "306",
+                    "melody": "80a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "256",
+                    "melody": "89a",
+                    "link": "mezidobi_14_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "78",
+                    "melody": "36a",
+                    "link": "pust_01"
+                }
+            ]
+        }
+    ]
+}

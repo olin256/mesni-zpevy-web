@@ -1,0 +1,20 @@
+{
+    "type": "partial",
+    "name": "Panny Marie Lurdské",
+    "date": "11. února",
+    "rank": "nezávazná památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "639",
+                    "melody": "119a"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_panne_marii_1"
+    ]
+}

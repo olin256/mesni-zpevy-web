@@ -1,0 +1,20 @@
+{
+    "type": "partial",
+    "name": "Sv. Kazimíra",
+    "date": "4. března",
+    "rank": "nezávazná památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "643",
+                    "melody": "74b"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_svatych"
+    ]
+}

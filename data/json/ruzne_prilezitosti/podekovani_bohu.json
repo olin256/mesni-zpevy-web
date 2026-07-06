@@ -1,0 +1,55 @@
+{
+    "type": "full",
+    "name": "Na poděkování Bohu",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "840",
+                    "melody": "81a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "841",
+                    "melody": "2f",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "842",
+                    "melody": "78a",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "206",
+                    "melody": "77a",
+                    "link": "mezidobi_06_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "277",
+                    "melody": "84a",
+                    "link": "mezidobi_17_A"
+                },
+                {
+                    "page": "750",
+                    "melody": "141a",
+                    "link": "10_04"
+                }
+            ]
+        }
+    ]
+}

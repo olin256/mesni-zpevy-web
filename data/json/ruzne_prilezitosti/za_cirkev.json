@@ -1,0 +1,54 @@
+{
+    "type": "full",
+    "name": "Za církev",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "809",
+                    "melody": "42a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "810",
+                    "melody": "2e",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "810/811",
+                    "melody": "43b",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "811",
+                    "melody": "100a"
+                },
+                {
+                    "page": "812",
+                    "melody": "100a",
+                    "info_before": "Za místní církevní obec:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "172",
+                    "melody": "70a",
+                    "link": "velikonoce_6"
+                }
+            ]
+        }
+    ]
+}

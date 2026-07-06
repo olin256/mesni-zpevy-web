@@ -1,0 +1,23 @@
+<h1>Vyhledávání v písních</h1>
+<form class="search-form" id="songSearchForm" role="search">
+    <label class="visually-hidden" for="songSearchInput">Hledaný výraz</label>
+    <input id="songSearchInput" name="q" type="search" autocomplete="off" placeholder="Např. spasitel narozen, &quot;Sláva na výsostech&quot;, máj">
+    <button type="submit">Hledat</button>
+</form>
+
+<div id="searchStatus" class="search-meta" aria-live="polite">Načítám vyhledávací index...</div>
+
+<table class="song-index search-results" id="songSearchResults" hidden>
+    <thead>
+        <tr>
+            <th scope="col">Číslo</th>
+            <th scope="col">Jméno</th>
+            <th scope="col">Výskyty</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+<p class="search-actions" id="searchActions" hidden>
+    <button type="button" class="search-show-all" id="searchShowAll">Zobrazit vše</button>
+</p>

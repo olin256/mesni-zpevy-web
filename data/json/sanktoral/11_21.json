@@ -1,0 +1,21 @@
+{
+    "type": "partial",
+    "name": "Zasvěcení Panny Marie v Jeruzalémě",
+    "date": "21. listopadu",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "768/769",
+                    "melody": "103a"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_panne_marii_1",
+        "o_panne_marii_2"
+    ]
+}

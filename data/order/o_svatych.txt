@@ -1,0 +1,16 @@
+vyroci_posveceni_kostela
+o_panne_marii_1
+o_panne_marii_2
+o_panne_marii_advent
+o_panne_marii_vanoce
+o_panne_marii_pust
+o_panne_marii_velikonoce
+o_apostolech_a_evangelistech
+o_mucednicich
+o_duchovnich_pastyrich
+o_ucitelich_cirkve
+o_pannach
+o_svatych
+o_reholnicich
+o_svatych_milosrdnych
+o_vychovatelich

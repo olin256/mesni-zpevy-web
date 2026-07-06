@@ -1,0 +1,49 @@
+{
+    "type": "full",
+    "name": "Za odpuštění hříchů",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "843",
+                    "melody": "29a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "845",
+                    "melody": "2g",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "846",
+                    "melody": "46d",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "847",
+                    "melody": "69c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "65",
+                    "melody": "34c",
+                    "link": "popelecni_streda"
+                }
+            ]
+        }
+    ]
+}

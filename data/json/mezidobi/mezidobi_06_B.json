@@ -1,0 +1,65 @@
+{
+    "type": "full",
+    "name": "6. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "208",
+                    "melody": "69h"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "9",
+                    "links": [
+                        {
+                            "filename": "Ps032_01",
+                            "kb_page": "63"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "206",
+                    "melody": "2a",
+                    "link": "mezidobi_06_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "206/207",
+                    "melody": "77a",
+                    "link": "mezidobi_06_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "207",
+                    "melody": "82a",
+                    "link": "mezidobi_06_A"
+                },
+                {
+                    "page": "114",
+                    "melody": "44b",
+                    "link": "pust_05_AB"
+                }
+            ]
+        }
+    ]
+}

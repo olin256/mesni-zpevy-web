@@ -1,0 +1,50 @@
+{
+    "type": "full",
+    "name": "Stolce svatého apoštola Petra",
+    "date": "22. února",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "640",
+                    "melody": "111a"
+                },
+                {
+                    "page": "572",
+                    "melody": "90a",
+                    "link": "o_apostolech_a_evangelistech"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "641",
+                    "melody": "65m"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "632",
+                    "melody": "92n"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "263",
+                    "melody": "43b",
+                    "link": "mezidobi_15_A"
+                }
+            ]
+        }
+    ]
+}

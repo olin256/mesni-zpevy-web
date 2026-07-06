@@ -1,0 +1,81 @@
+{
+    "type": "full",
+    "name": "3. neděle velikonoční",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "156",
+                    "melody": "55d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "info_before": "V ročním cyklu A:",
+                    "response": "42",
+                    "links": [
+                        {
+                            "filename": "Ps016_02",
+                            "kb_page": "18"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu B:",
+                    "response": "37",
+                    "links": [
+                        {
+                            "filename": "Ps004_01",
+                            "kb_page": "10"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu C:",
+                    "response": "34",
+                    "links": [
+                        {
+                            "filename": "Ps030_01",
+                            "kb_page": "56"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "157",
+                    "melody": "2d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "157",
+                    "melody": "58b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "158/159",
+                    "melody": "64a"
+                },
+                {
+                    "page": "159",
+                    "melody": "61a"
+                }
+            ]
+        }
+    ]
+}

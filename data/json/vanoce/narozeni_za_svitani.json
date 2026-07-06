@@ -1,0 +1,52 @@
+{
+    "type": "full",
+    "name": "Narození Páně",
+    "subtitle": "Za svítání",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "35",
+                    "melody": "17a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "36",
+                    "melody": "20b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "36/37",
+                    "melody": "14a"
+                },
+                {
+                    "page": "37",
+                    "melody": "28a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "38",
+                    "melody": "21b"
+                },
+                {
+                    "page": "48",
+                    "melody": "26a",
+                    "link": "leden_01"
+                }
+            ]
+        }
+    ]
+}

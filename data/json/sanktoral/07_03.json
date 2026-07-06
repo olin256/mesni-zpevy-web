@@ -1,0 +1,29 @@
+{
+    "type": "partial",
+    "name": "Sv. Tomáše, apoštola",
+    "date": "3. července",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "687",
+                    "melody": "92o"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "688",
+                    "melody": "2c"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_apostolech_a_evangelistech"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "type": "full",
+    "name": "Sv. Josefa, Snoubence Panny Marie",
+    "date": "19. března",
+    "rank": "slavnost",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "645",
+                    "melody": "74f"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "646",
+                    "melody": "89d",
+                    "info_before": "V době postní:"
+                },
+                {
+                    "page": "646",
+                    "melody": "117i",
+                    "info_before": "Mimo dobu postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "647",
+                    "melody": "113r",
+                    "replacements": {
+                        "1": "Jo--se--fa"
+                    }
+                },
+                {
+                    "page": "647",
+                    "melody": "203a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "648",
+                    "melody": "88g"
+                }
+            ]
+        }
+    ]
+}

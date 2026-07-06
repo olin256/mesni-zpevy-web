@@ -1,0 +1,82 @@
+{
+    "type": "full",
+    "name": "3. neděle adventní",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "19",
+                    "melody": "3a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "info_before": "V ročním cyklu A:",
+                    "response": "2",
+                    "links": [
+                        {
+                            "filename": "Ps146_06",
+                            "kb_page": "294"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu B:",
+                    "response": "6",
+                    "links": [
+                        {
+                            "filename": "Lk1_01",
+                            "kb_page": "317"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu C:",
+                    "response": "39",
+                    "links": [
+                        {
+                            "filename": "Iz12_02",
+                            "kb_page": "310"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "20",
+                    "melody": "2a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "17",
+                    "melody": "6a",
+                    "link": "advent_2"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "21",
+                    "melody": "8a"
+                },
+                {
+                    "page": "22",
+                    "melody": "9a"
+                }
+            ]
+        }
+    ]
+}

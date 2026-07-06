@@ -1,0 +1,53 @@
+{
+    "type": "full",
+    "name": "Za zachování míru a spravedlnosti",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "827",
+                    "melody": "36f"
+                },
+                {
+                    "page": "827",
+                    "melody": "92c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "828",
+                    "melody": "66d",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "828",
+                    "melody": "100a",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "829",
+                    "melody": "74m"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "114",
+                    "melody": "44b",
+                    "link": "pust_05_A"
+                }
+            ]
+        }
+    ]
+}

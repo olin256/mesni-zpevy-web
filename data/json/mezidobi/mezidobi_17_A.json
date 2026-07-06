@@ -1,0 +1,57 @@
+{
+    "type": "full",
+    "name": "17. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "274",
+                    "melody": "70b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "11",
+                    "links": [
+                        {
+                            "filename": "Ps119_19",
+                            "kb_page": "253"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "275",
+                    "melody": "2g"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "276",
+                    "melody": "93a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "277",
+                    "melody": "84a"
+                }
+            ]
+        }
+    ]
+}

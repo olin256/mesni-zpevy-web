@@ -1,0 +1,58 @@
+{
+    "type": "full",
+    "name": "17. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "279",
+                    "melody": "74c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "7",
+                    "links": [
+                        {
+                            "filename": "Ps138_06",
+                            "kb_page": "279"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "280",
+                    "melody": "80a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "276",
+                    "melody": "93a",
+                    "link": "mezidobi_17_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "280/281",
+                    "melody": "89e"
+                }
+            ]
+        }
+    ]
+}

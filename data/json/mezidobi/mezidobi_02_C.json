@@ -1,0 +1,61 @@
+{
+    "type": "full",
+    "name": "2. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "188",
+                    "melody": "76a",
+                    "link": "mezidobi_02_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "40",
+                    "links": [
+                        {
+                            "filename": "Ps096_11",
+                            "kb_page": "179"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "189",
+                    "melody": "2a",
+                    "link": "mezidobi_02_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "189",
+                    "melody": "150a",
+                    "link": "mezidobi_02_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "18",
+                    "melody": "7a",
+                    "link": "advent_2"
+                }
+            ]
+        }
+    ]
+}

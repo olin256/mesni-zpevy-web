@@ -1,0 +1,81 @@
+{
+    "type": "full",
+    "name": "Čtvrtek po 4. neděli postní",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "91",
+                    "melody": "44d",
+                    "link": "pust_02_X5"
+                },
+                {
+                    "page": "72",
+                    "melody": "69c",
+                    "link": "popelecni_streda_X6"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "92",
+                    "melody": "41b",
+                    "link": "pust_02_X5"
+                },
+                {
+                    "page": "72/73",
+                    "melody": "88e",
+                    "link": "popelecni_streda_X6"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "92",
+                    "melody": "40a",
+                    "link": "pust_02_X5"
+                },
+                {
+                    "page": "73",
+                    "melody": "72b",
+                    "link": "popelecni_streda_X6"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "93",
+                    "melody": "34b",
+                    "link": "pust_02_X5"
+                },
+                {
+                    "page": "94",
+                    "melody": "34a",
+                    "link": "pust_02_X5"
+                },
+                {
+                    "page": "65",
+                    "melody": "34c",
+                    "link": "popelecni_streda_X6"
+                },
+                {
+                    "page": "64",
+                    "melody": "30a",
+                    "link": "popelecni_streda_X6"
+                },
+                {
+                    "page": "74",
+                    "melody": "35a",
+                    "link": "popelecni_streda_X6"
+                }
+            ]
+        }
+    ]
+}

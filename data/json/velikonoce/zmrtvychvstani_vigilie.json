@@ -1,0 +1,56 @@
+{
+    "type": "full",
+    "name": "Zmrtvýchvstání Páně",
+    "subtitle": "Vigilie",
+    "parts": [
+        {
+            "title": "Po 3. čtení (lze zpívat místo Mojžíšovy písně)",
+            "songs": [
+                {
+                    "page": "139",
+                    "melody": "89b"
+                }
+            ]
+        },
+        {
+            "title": "Po 5. čtení (lze zpívat místo žalmu)",
+            "songs": [
+                {
+                    "page": "140",
+                    "melody": "68b"
+                }
+            ]
+        },
+        {
+            "title": "Při kropení lidu svěcenou vodou",
+            "songs": [
+                {
+                    "page": "142",
+                    "melody": "51a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "143",
+                    "melody": "55a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "144",
+                    "melody": "170a"
+                },
+                {
+                    "page": "145",
+                    "melody": "56a"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "type": "partial",
+    "name": "Sv. Martina, biskupa",
+    "date": "11. listopadu",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "764",
+                    "melody": "113r",
+                    "replacements": {
+                        "1": "Mar--ti--na"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "764/765",
+                    "melody": "65h"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_svatych_milosrdnych",
+        "o_duchovnich_pastyrich"
+    ]
+}

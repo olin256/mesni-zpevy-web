@@ -1,0 +1,20 @@
+{
+    "type": "partial",
+    "name": "Sv. Barnabáše, apoštola",
+    "date": "11. června",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "676",
+                    "melody": "113n"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_apostolech_a_evangelistech"
+    ]
+}

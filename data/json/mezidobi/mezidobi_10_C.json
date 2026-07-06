@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "10. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "232",
+                    "melody": "32a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "34",
+                    "links": [
+                        {
+                            "filename": "Ps030_01",
+                            "kb_page": "56"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "233",
+                    "melody": "56a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "197",
+                    "melody": "78a",
+                    "link": "mezidobi_04_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "114",
+                    "melody": "44b",
+                    "link": "pust_04_A"
+                }
+            ]
+        }
+    ]
+}

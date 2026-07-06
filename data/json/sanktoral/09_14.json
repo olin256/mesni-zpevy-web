@@ -1,0 +1,45 @@
+{
+    "type": "full",
+    "name": "Povýšení svatého kříže",
+    "date": "14. září",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "724/725",
+                    "melody": "129a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "725",
+                    "melody": "2a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "726",
+                    "melody": "85b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "98",
+                    "melody": "31a",
+                    "link": "pust_3"
+                }
+            ]
+        }
+    ]
+}

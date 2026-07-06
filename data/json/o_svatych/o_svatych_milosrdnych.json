@@ -1,0 +1,55 @@
+{
+    "type": "full",
+    "name": "O svatých, kteří vynikali milosrdnými skutky",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "621",
+                    "melody": "36j"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "622",
+                    "melody": "98d",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "610",
+                    "melody": "92g",
+                    "link": "o_svatych",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "611",
+                    "melody": "92d",
+                    "link": "o_svatych"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "269",
+                    "melody": "82c",
+                    "link": "mezidobi_15_C"
+                },
+                {
+                    "page": "623",
+                    "melody": "88d"
+                }
+            ]
+        }
+    ]
+}

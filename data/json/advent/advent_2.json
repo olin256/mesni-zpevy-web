@@ -1,0 +1,73 @@
+{
+    "type": "full",
+    "name": "2. neděle adventní",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "15",
+                    "melody": "4b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "info_before": "V ročním cyklu A a B:",
+                    "response": "4",
+                    "links": [
+                        {
+                            "filename": "Ps072_04",
+                            "kb_page": "144",
+                            "info": "Cyklus A:"
+                        },
+                        {
+                            "filename": "Ps085_05",
+                            "kb_page": "159",
+                            "info": "Cyklus B:"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu C:",
+                    "response": "5",
+                    "links": [
+                        {
+                            "filename": "Ps126_01",
+                            "kb_page": "263"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "16/17",
+                    "melody": "5a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "17",
+                    "melody": "6a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "18",
+                    "melody": "7a"
+                }
+            ]
+        }
+    ]
+}

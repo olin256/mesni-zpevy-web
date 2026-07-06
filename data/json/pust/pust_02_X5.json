@@ -1,0 +1,46 @@
+{
+    "type": "full",
+    "name": "Pátek po 2. neděli postní",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "91",
+                    "melody": "44d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "92",
+                    "melody": "41b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "92",
+                    "melody": "40a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "93",
+                    "melody": "34b"
+                },
+                {
+                    "page": "94",
+                    "melody": "34a"
+                }
+            ]
+        }
+    ]
+}

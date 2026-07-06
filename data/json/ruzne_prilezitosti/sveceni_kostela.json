@@ -1,0 +1,24 @@
+{
+    "type": "partial",
+    "name": "Při svěcení kostela a oltáře",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "807",
+                    "melody": "69j",
+                    "info_before": "Při svěcení kostela"
+                },
+                {
+                    "page": "808",
+                    "melody": "146a",
+                    "info_before": "Při svěcení oltáře"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "vyroci_posveceni_kostela"
+    ]
+}

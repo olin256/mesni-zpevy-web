@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "27. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "332",
+                    "melody": "96a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "11",
+                    "links": [
+                        {
+                            "filename": "Ps128_02",
+                            "kb_page": "267"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "333",
+                    "melody": "64c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "331",
+                    "melody": "84a",
+                    "link": "mezidobi_27_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "134",
+                    "melody": "92b",
+                    "link": "zeleny_ctvrtek"
+                }
+            ]
+        }
+    ]
+}

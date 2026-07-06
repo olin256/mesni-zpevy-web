@@ -1,0 +1,7 @@
+kvetna_nedele
+pondeli_sv_tydne
+utery_sv_tydne
+streda_sv_tydne
+ctvrtek_sv_tydne
+zeleny_ctvrtek
+velky_patek

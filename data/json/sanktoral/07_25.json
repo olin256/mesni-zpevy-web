@@ -1,0 +1,20 @@
+{
+    "type": "partial",
+    "name": "Sv. Jakuba, apoštola",
+    "date": "25. července",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "700",
+                    "melody": "113i"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_apostolech_a_evangelistech"
+    ]
+}

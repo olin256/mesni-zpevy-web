@@ -1,0 +1,24 @@
+{
+    "type": "partial",
+    "name": "Sv. Mikuláše, biskupa",
+    "date": "6. prosince",
+    "rank": "nezávazná památka",
+    "info": "V českobudějovické diecézi slavnost.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "772",
+                    "melody": "71b",
+                    "replacements": {
+                        "1": "Mi--ku--lá--še"
+                    }
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_duchovnich_pastyrich"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "type": "full",
+    "name": "31. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "350",
+                    "melody": "92a",
+                    "link": "mezidobi_30_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "5",
+                    "links": [
+                        {
+                            "filename": "Ps018_01",
+                            "kb_page": "24"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "351",
+                    "melody": "80a",
+                    "link": "mezidobi_30_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "210",
+                    "melody": "81a",
+                    "link": "mezidobi_07_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "134",
+                    "melody": "92b",
+                    "link": "zeleny_ctvrtek"
+                }
+            ]
+        }
+    ]
+}

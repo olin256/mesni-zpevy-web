@@ -1,0 +1,58 @@
+{
+    "type": "full",
+    "name": "20. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "293",
+                    "melody": "42a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "25",
+                    "links": [
+                        {
+                            "filename": "Ps034_02",
+                            "kb_page": "82"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "294",
+                    "melody": "64b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "292/293",
+                    "melody": "82d",
+                    "link": "mezidobi_20_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "295",
+                    "melody": "92l"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "type": "full",
+    "name": "6. neděle velikonoční",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "169",
+                    "melody": "69a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "41",
+                    "links": [
+                        {
+                            "filename": "Ps066_01",
+                            "kb_page": "128",
+                            "info": "Cyklus A:"
+                        },
+                        {
+                            "filename": "Ps098_02",
+                            "kb_page": "189",
+                            "info": "Cyklus B:"
+                        },
+                        {
+                            "filename": "Ps067_02",
+                            "kb_page": "130",
+                            "info": "Cyklus C:"
+                        }
+                    ]
+                },
+                {
+                    "response": "42",
+                    "links": [
+                        {
+                            "filename": "Ps066_02",
+                            "kb_page": "128",
+                            "info": "Cyklus A:"
+                        },
+                        {
+                            "filename": "Ps098_03",
+                            "kb_page": "189",
+                            "info": "Cyklus B:"
+                        },
+                        {
+                            "filename": "Ps067_03",
+                            "kb_page": "130",
+                            "info": "Cyklus C:"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "170/171",
+                    "melody": "2d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "171",
+                    "melody": "42a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "172/173",
+                    "melody": "70a"
+                }
+            ]
+        }
+    ]
+}

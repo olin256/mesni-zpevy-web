@@ -1,0 +1,63 @@
+{
+    "type": "full",
+    "name": "19. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "287",
+                    "melody": "95a"
+                },
+                {
+                    "page": "288",
+                    "melody": "74j"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "25",
+                    "links": [
+                        {
+                            "filename": "Ps034_08",
+                            "kb_page": "75"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "289",
+                    "melody": "64b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "276",
+                    "melody": "93a",
+                    "link": "mezidobi_17_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "134",
+                    "melody": "92b",
+                    "link": "zeleny_ctvrtek"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "type": "full",
+    "name": "Narození sv. Jana Křtitele",
+    "date": "24. června",
+    "rank": "slavnost",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "680",
+                    "melody": "5e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "681",
+                    "melody": "65e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "681",
+                    "melody": "74k"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "682",
+                    "melody": "10d"
+                }
+            ]
+        }
+    ]
+}

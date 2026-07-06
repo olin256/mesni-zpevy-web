@@ -1,0 +1,60 @@
+{
+    "type": "full",
+    "name": "12. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "243",
+                    "melody": "87a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "39",
+                    "links": [
+                        {
+                            "filename": "Ps107_02",
+                            "kb_page": "217"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "242",
+                    "melody": "64c",
+                    "link": "mezidobi_12_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "192",
+                    "melody": "68a",
+                    "link": "mezidobi_03_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "70",
+                    "melody": "33a",
+                    "link": "ctvrtek_po_popelecni_strede"
+                }
+            ]
+        }
+    ]
+}

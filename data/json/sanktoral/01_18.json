@@ -1,0 +1,48 @@
+{
+    "type": "full",
+    "name": "Panny Marie, Matky jednoty křesťanů",
+    "date": "18. ledna",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "626",
+                    "melody": "9d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "627",
+                    "melody": "117a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "628",
+                    "melody": "107a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "628/629",
+                    "melody": "44a"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_panne_marii_1",
+        "o_panne_marii_2"
+    ]
+}

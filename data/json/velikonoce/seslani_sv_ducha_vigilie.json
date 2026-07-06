@@ -1,0 +1,64 @@
+{
+    "type": "full",
+    "name": "Seslání Ducha Svatého",
+    "subtitle": "Vigilie",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "177",
+                    "melody": "72a",
+                    "link": "velikonoce_7"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "44",
+                    "links": [
+                        {
+                            "filename": "Ps104_01",
+                            "kb_page": "207"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "181",
+                    "melody": "65k"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "178",
+                    "melody": "74m",
+                    "link": "velikonoce_7"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "182",
+                    "melody": "73a"
+                },
+                {
+                    "page": "172",
+                    "melody": "70a",
+                    "link": "velikonoce_6"
+                }
+            ]
+        }
+    ]
+}

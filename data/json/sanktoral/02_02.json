@@ -1,0 +1,58 @@
+{
+    "type": "full",
+    "name": "Uvedení Páně do chrámu",
+    "date": "2. února",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Svěcení svíček a průvod – na začátku",
+            "songs": [
+                {
+                    "page": "634",
+                    "melody": "113f"
+                }
+            ]
+        },
+        {
+            "title": "Při průvodu",
+            "songs": [
+                {
+                    "page": "635",
+                    "melody": "45b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "636",
+                    "melody": "2a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "636",
+                    "melody": "10b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "637",
+                    "melody": "69l"
+                },
+                {
+                    "page": "168",
+                    "melody": "42a",
+                    "link": "velikonoce_5"
+                }
+            ]
+        }
+    ]
+}

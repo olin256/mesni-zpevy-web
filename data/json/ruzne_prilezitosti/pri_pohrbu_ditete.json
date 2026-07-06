@@ -1,0 +1,83 @@
+{
+    "type": "full",
+    "name": "Při mších za zemřelé",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "872/873",
+                    "melody": "149a",
+                    "info_before": "Při pohřbu pokřtěného dítěte:"
+                },
+                {
+                    "page": "873",
+                    "melody": "36i",
+                    "info_before": "I při pohřbu nepokřtěného dítěte:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "862",
+                    "melody": "32a",
+                    "link": "za_zemrele",
+                    "info_before": "Při pohřbu pokřtěného dítěte:"
+                },
+                {
+                    "page": "862",
+                    "melody": "56a",
+                    "info_before": "Může se zpívat mimo dobu postní."
+                },
+                {
+                    "page": "875",
+                    "melody": "36h",
+                    "info_before": "I při pohřbu nepokřtěného dítěte:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "875",
+                    "melody": "58b",
+                    "info_before": "Při pohřbu pokřtěného dítěte:"
+                },
+                {
+                    "page": "876",
+                    "melody": "36e",
+                    "info_before": "I při pohřbu nepokřtěného dítěte:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "866",
+                    "melody": "149d",
+                    "link": "za_zemrele",
+                    "info_before": "Při pohřbu pokřtěného dítěte:"
+                },
+                {
+                    "page": "866",
+                    "melody": "44a",
+                    "link": "za_zemrele",
+                    "info_before": "I při pohřbu nepokřtěného dítěte:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv při posledním rozloučení",
+            "songs": [
+                {
+                    "page": "877",
+                    "melody": "36k"
+                }
+            ]
+        }
+    ]
+}

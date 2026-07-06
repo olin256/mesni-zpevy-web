@@ -1,0 +1,54 @@
+{
+    "type": "full",
+    "name": "Při přípravě na křest",
+    "subtitle": "Při zařazení mezi čekatele křtu",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "63",
+                    "melody": "72b",
+                    "link": "popelecni_streda"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "793",
+                    "melody": "2e",
+                    "info_before": "Mimo dobu postní:",
+                    "link": "krest"
+                },
+                {
+                    "page": "794",
+                    "melody": "30a",
+                    "info_before": "V době postní:",
+                    "link": "krest"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "77",
+                    "melody": "31a",
+                    "link": "pust_01"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "168",
+                    "melody": "42a",
+                    "link": "velikonoce_5"
+                }
+            ]
+        }
+    ]
+}

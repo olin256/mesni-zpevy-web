@@ -1,0 +1,9 @@
+narozeni_vigilie
+narozeni_v_noci
+narozeni_za_svitani
+narozeni_ve_dne
+svate_rodiny
+leden_01
+vanoce_2
+zjeveni_pane
+krtu_pane

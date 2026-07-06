@@ -1,0 +1,46 @@
+{
+    "type": "full",
+    "name": "O Panně Marii I.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "553",
+                    "melody": "103a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "555",
+                    "melody": "104a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "556",
+                    "melody": "50b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "556/557",
+                    "melody": "105a"
+                },
+                {
+                    "page": "558",
+                    "melody": "109a"
+                }
+            ]
+        }
+    ]
+}

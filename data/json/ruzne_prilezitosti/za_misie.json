@@ -1,0 +1,48 @@
+{
+    "type": "full",
+    "name": "Za misie",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "823",
+                    "melody": "88b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "825",
+                    "melody": "65c",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "825",
+                    "melody": "100a",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "826",
+                    "melody": "92k"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "826",
+                    "melody": "69d"
+                }
+            ]
+        }
+    ]
+}

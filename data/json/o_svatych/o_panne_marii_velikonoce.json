@@ -1,0 +1,46 @@
+{
+    "type": "full",
+    "name": "O Panně Marii v době velikonoční",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "568",
+                    "melody": "63a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "568",
+                    "melody": "104c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "569",
+                    "melody": "58a"
+                },
+                {
+                    "page": "569",
+                    "melody": "2b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "570",
+                    "melody": "110a"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "13. neděle v mezidobí B",
+    "year": "B",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "251",
+                    "melody": "32a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "34",
+                    "links": [
+                        {
+                            "filename": "Ps030_01",
+                            "kb_page": "56"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "252",
+                    "melody": "56a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "206",
+                    "melody": "77a",
+                    "link": "mezidobi_06_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "236",
+                    "melody": "100a",
+                    "link": "mezidobi_11_A"
+                }
+            ]
+        }
+    ]
+}

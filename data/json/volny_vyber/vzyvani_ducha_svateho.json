@@ -1,0 +1,30 @@
+{
+    "type": "list",
+    "name": "Vzývání Ducha svatého",
+    "parts": [
+        {
+            "songs": [
+                {
+                    "page": "185",
+                    "melody": "75a",
+                    "link": "seslani_svateho_ducha_slavnost"
+                },
+                {
+                    "page": "799",
+                    "melody": "171a",
+                    "link": "birmovani"
+                },
+                {
+                    "page": "798",
+                    "melody": "74a",
+                    "link": "birmovani"
+                },
+                {
+                    "page": "177",
+                    "melody": "72a",
+                    "link": "velikonoce_7"
+                }
+            ]
+        }
+    ]
+}

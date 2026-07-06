@@ -1,0 +1,62 @@
+{
+    "type": "full",
+    "name": "Při svatbě",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "802",
+                    "melody": "120b"
+                },
+                {
+                    "page": "803",
+                    "melody": "96a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "804",
+                    "melody": "80a",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "805",
+                    "melody": "66b",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "805",
+                    "melody": "113g",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "806",
+                    "melody": "74b"
+                },
+                {
+                    "page": "806/807",
+                    "melody": "81a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "106",
+                    "melody": "43a",
+                    "link": "pust_04_A"
+                }
+            ]
+        }
+    ]
+}

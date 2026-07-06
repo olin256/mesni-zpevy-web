@@ -1,0 +1,57 @@
+{
+    "type": "full",
+    "name": "Matky Boží, Panny Marie",
+    "date": "1. ledna",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "45",
+                    "melody": "8b"
+                },
+                {
+                    "page": "46",
+                    "melody": "24a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "46/47",
+                    "melody": "5g"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "47",
+                    "melody": "25a"
+                },
+                {
+                    "page": "830",
+                    "melody": "147a",
+                    "link": "zacatek_obcanskeho_roku"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "48",
+                    "melody": "26a"
+                },
+                {
+                    "page": "33",
+                    "melody": "15a",
+                    "link": "narozeni_v_noci"
+                }
+            ]
+        }
+    ]
+}

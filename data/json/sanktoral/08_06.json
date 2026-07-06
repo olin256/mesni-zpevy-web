@@ -1,0 +1,45 @@
+{
+    "type": "full",
+    "name": "Proměnění Páně",
+    "date": "6. srpna",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "708",
+                    "melody": "39a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "709",
+                    "melody": "65b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "709",
+                    "melody": "69c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "207",
+                    "melody": "82a",
+                    "link": "mezidobi_06_A"
+                }
+            ]
+        }
+    ]
+}

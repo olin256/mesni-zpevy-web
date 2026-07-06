@@ -1,0 +1,72 @@
+{
+    "type": "full",
+    "name": "28. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "339",
+                    "melody": "44d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "38",
+                    "links": [
+                        {
+                            "filename": "Ps098_01",
+                            "kb_page": "190"
+                        }
+                    ]
+                },
+                {
+                    "response": "41",
+                    "links": [
+                        {
+                            "filename": "Ps098_02",
+                            "kb_page": "189"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "340",
+                    "melody": "2a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "336",
+                    "melody": "113g",
+                    "link": "mezidobi_28_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "341",
+                    "melody": "69h"
+                },
+                {
+                    "page": "228",
+                    "melody": "7b",
+                    "link": "mezidobi_10_A"
+                }
+            ]
+        }
+    ]
+}

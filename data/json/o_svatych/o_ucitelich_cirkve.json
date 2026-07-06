@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "O učitelích církve",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "594",
+                    "melody": "67a"
+                },
+                {
+                    "page": "595",
+                    "melody": "113m"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "596",
+                    "melody": "98f",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "596",
+                    "melody": "65c"
+                },
+                {
+                    "page": "591",
+                    "melody": "69a",
+                    "link": "o_duchovnich_pastyrich",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "592",
+                    "melody": "89c",
+                    "link": "o_duchovnich_pastyrich"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "263",
+                    "melody": "43b",
+                    "link": "mezidobi_15_A"
+                }
+            ]
+        }
+    ]
+}

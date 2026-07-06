@@ -1,0 +1,28 @@
+{
+    "type": "list",
+    "name": "Na poděkování",
+    "parts": [
+        {
+            "songs": [
+                {
+                    "page": "879",
+                    "melody": "151a"
+                },
+                {
+                    "page": "880",
+                    "melody": "81a"
+                },
+                {
+                    "page": "750",
+                    "melody": "141a",
+                    "link": "10_04"
+                },
+                {
+                    "page": "842",
+                    "melody": "78a",
+                    "link": "podekovani_bohu"
+                }
+            ]
+        }
+    ]
+}

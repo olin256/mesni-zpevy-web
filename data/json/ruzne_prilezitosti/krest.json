@@ -1,0 +1,63 @@
+{
+    "type": "full",
+    "name": "Při křtu",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "790",
+                    "melody": "5b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "793",
+                    "melody": "2e",
+                    "info_before": "Mimo dobu postní:"
+                },
+                {
+                    "page": "794",
+                    "melody": "30a",
+                    "info_before": "V době postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po udělení křtu",
+            "songs": [
+                {
+                    "page": "794",
+                    "melody": "5c"
+                },
+                {
+                    "page": "140",
+                    "melody": "68b",
+                    "link": "zmrtvychvstani_vigilie"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "63",
+                    "melody": "72b",
+                    "link": "popelecni_streda"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "795",
+                    "melody": "38b"
+                }
+            ]
+        }
+    ]
+}

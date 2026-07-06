@@ -1,0 +1,12 @@
+rect, text, path { fill: currentColor; }
+text { 
+    font-family: "C059";
+    font-size: 2.4697px;
+    text-anchor: start;
+}
+line {
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-width: 0.1;
+    stroke: currentColor;
+}

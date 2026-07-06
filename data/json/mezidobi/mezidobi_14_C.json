@@ -1,0 +1,64 @@
+{
+    "type": "full",
+    "name": "14. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "259",
+                    "melody": "90a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "41",
+                    "links": [
+                        {
+                            "filename": "Ps066_01",
+                            "kb_page": "128"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "260",
+                    "melody": "2e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "256",
+                    "melody": "89a",
+                    "link": "mezidobi_06_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "236",
+                    "melody": "100a",
+                    "link": "mezidobi_11_A"
+                },
+                {
+                    "page": "179",
+                    "melody": "69a",
+                    "link": "velikonoce_7"
+                }
+            ]
+        }
+    ]
+}

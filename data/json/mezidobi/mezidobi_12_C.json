@@ -1,0 +1,63 @@
+{
+    "type": "full",
+    "name": "12. neděle v mezidobí C",
+    "year": "C",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "244",
+                    "melody": "92k"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "50",
+                    "links": [
+                        {
+                            "filename": "Ps063_02",
+                            "kb_page": "126"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "245",
+                    "melody": "64c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "192",
+                    "melody": "68a",
+                    "link": "mezidobi_03_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "246",
+                    "melody": "5d"
+                },
+                {
+                    "page": "583",
+                    "melody": "5d",
+                    "link": "o_mucednicich"
+                }
+            ]
+        }
+    ]
+}

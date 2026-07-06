@@ -1,0 +1,20 @@
+{
+    "type": "partial",
+    "name": "Sv. Šimona a Judy, apoštolů",
+    "date": "28. října",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "758",
+                    "melody": "113o"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_apostolech_a_evangelistech"
+    ]
+}

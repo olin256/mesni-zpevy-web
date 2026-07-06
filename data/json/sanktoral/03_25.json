@@ -1,0 +1,53 @@
+{
+    "type": "full",
+    "name": "Zvěstování Páně",
+    "date": "25. března",
+    "rank": "slavnost",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "649",
+                    "melody": "106a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "650",
+                    "melody": "5a",
+                    "stanza_info": {
+                        "4": "Mimo dobu postní se připojí ještě následující sloka:"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "650/651",
+                    "melody": "2b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "18",
+                    "melody": "7a",
+                    "link": "advent_2"
+                },
+                {
+                    "page": "26",
+                    "melody": "11a",
+                    "link": "advent_4"
+                }
+            ]
+        }
+    ]
+}

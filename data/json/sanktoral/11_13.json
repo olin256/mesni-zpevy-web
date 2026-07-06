@@ -1,0 +1,21 @@
+{
+    "type": "partial",
+    "name": "Sv. Anežky České, panny",
+    "date": "13. listopadu",
+    "rank": "památka",
+    "info": "V Mešních zpěvech se nachází pod starým datem 2. března.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "642",
+                    "melody": "205b"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_pannach"
+    ]
+}

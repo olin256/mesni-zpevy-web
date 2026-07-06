@@ -1,0 +1,53 @@
+{
+    "type": "full",
+    "name": "Sv. Štěpána, prvomučedníka",
+    "date": "26. prosince",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "777",
+                    "melody": "145a"
+                },
+                {
+                    "page": "778",
+                    "melody": "113e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "778",
+                    "melody": "98e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "581",
+                    "melody": "92k",
+                    "link": "o_mucednicich"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "583",
+                    "melody": "5d",
+                    "link": "o_mucednicich"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_mucednicich"
+    ]
+}

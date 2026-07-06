@@ -1,0 +1,45 @@
+{
+    "type": "full",
+    "name": "Nanebevzetí Panny Marie",
+    "date": "15. srpna",
+    "rank": "slavnost",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "714",
+                    "melody": "103a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "715",
+                    "melody": "104a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "716",
+                    "melody": "50b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "556",
+                    "melody": "105a",
+                    "link": "o_panne_marii_1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "full",
+    "name": "Sv. Justina, mučedníka",
+    "date": "1. června",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "575",
+                    "melody": "69k",
+                    "link": "o_mucednicich"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "673",
+                    "melody": "98f"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "582",
+                    "melody": "74i",
+                    "link": "o_mucednicich"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "584",
+                    "melody": "88a",
+                    "link": "o_mucednicich"
+                }
+            ]
+        }
+    ]
+}

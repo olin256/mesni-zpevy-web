@@ -1,0 +1,52 @@
+{
+    "type": "full",
+    "name": "Sobota po Popeleční středě",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "72",
+                    "melody": "69c"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "72/73",
+                    "melody": "88e"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "73",
+                    "melody": "72b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "65",
+                    "melody": "34c",
+                    "link": "popelecni_streda"
+                },
+                {
+                    "page": "64",
+                    "melody": "30a",
+                    "link": "popelecni_streda"
+                },
+                {
+                    "page": "74",
+                    "melody": "35a"
+                }
+            ]
+        }
+    ]
+}

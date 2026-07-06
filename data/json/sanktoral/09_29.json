@@ -1,0 +1,49 @@
+{
+    "type": "full",
+    "name": "Sv. Michaela, Gabriela a Rafaela, archandělů",
+    "date": "29. září",
+    "rank": "svátek",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "742",
+                    "melody": "138a"
+                },
+                {
+                    "page": "743",
+                    "melody": "113p"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "744",
+                    "melody": "104d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "744",
+                    "melody": "69g"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "617",
+                    "melody": "94e",
+                    "link": "o_svatych"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "type": "full",
+    "name": "Čtvrtek po Popeleční středě",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "67",
+                    "melody": "31a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "68",
+                    "melody": "32a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "69",
+                    "melody": "29a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "70",
+                    "melody": "33a"
+                }
+            ]
+        }
+    ]
+}

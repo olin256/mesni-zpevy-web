@@ -1,0 +1,57 @@
+{
+    "type": "full",
+    "name": "3. neděle v mezidobí A",
+    "year": "A",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "191",
+                    "melody": "74p"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "20",
+                    "links": [
+                        {
+                            "filename": "Ps027_04",
+                            "kb_page": "53"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "191",
+                    "melody": "65d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "192",
+                    "melody": "68a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "193",
+                    "melody": "130a"
+                }
+            ]
+        }
+    ]
+}

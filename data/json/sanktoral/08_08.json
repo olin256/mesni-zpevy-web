@@ -1,0 +1,50 @@
+{
+    "type": "full",
+    "name": "Sv. Dominika, kněze",
+    "date": "8. srpna",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "586",
+                    "melody": "71a",
+                    "link": "o_duchovnich_pastyrich"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "710/711",
+                    "melody": "98f"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "592",
+                    "melody": "89c",
+                    "link": "o_duchovnich_pastyrich"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "592",
+                    "melody": "120a",
+                    "link": "o_duchovnich_pastyrich"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_duchovnich_pastyrich"
+    ]
+}

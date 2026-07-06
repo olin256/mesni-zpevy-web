@@ -1,0 +1,47 @@
+{
+    "type": "full",
+    "name": "Na začátku občanského roku",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "830",
+                    "melody": "147a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "831",
+                    "melody": "5g"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "832",
+                    "melody": "13a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "833",
+                    "melody": "25a"
+                },
+                {
+                    "page": "33",
+                    "melody": "15a",
+                    "link": "narozeni_v_noci"
+                }
+            ]
+        }
+    ]
+}

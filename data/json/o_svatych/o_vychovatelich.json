@@ -1,0 +1,18 @@
+{
+    "type": "partial",
+    "name": "O vychovatelích",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "624",
+                    "melody": "82f"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_svatych"
+    ]
+}

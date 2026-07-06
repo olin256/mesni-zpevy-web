@@ -1,0 +1,45 @@
+{
+    "type": "full",
+    "name": "Panny Marie Bolestné",
+    "date": "15. září",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "727",
+                    "melody": "115b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "728",
+                    "melody": "117a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "729",
+                    "melody": "131a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "628",
+                    "melody": "44a",
+                    "link": "01_18"
+                }
+            ]
+        }
+    ]
+}

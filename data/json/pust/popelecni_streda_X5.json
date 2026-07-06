@@ -1,0 +1,76 @@
+{
+    "type": "full",
+    "name": "Pátek po Popeleční středě",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "72",
+                    "melody": "69c",
+                    "link": "popelecni_streda_X6"
+                },
+                {
+                    "page": "79",
+                    "melody": "74d",
+                    "link": "pust_01_X1"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "72",
+                    "melody": "88e",
+                    "link": "popelecni_streda_X6"
+                },
+                {
+                    "page": "80",
+                    "melody": "37a",
+                    "link": "pust_01_X1"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "73",
+                    "melody": "72b",
+                    "link": "popelecni_streda_X6"
+                },
+                {
+                    "page": "80",
+                    "melody": "44c",
+                    "link": "pust_01_X1"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "65",
+                    "melody": "34c",
+                    "link": "popelecni_streda"
+                },
+                {
+                    "page": "64",
+                    "melody": "30a",
+                    "link": "popelecni_streda"
+                },
+                {
+                    "page": "74",
+                    "melody": "35a",
+                    "link": "popelecni_streda_X6"
+                },
+                {
+                    "page": "81",
+                    "melody": "88d",
+                    "link": "pust_01_X1"
+                }
+            ]
+        }
+    ]
+}

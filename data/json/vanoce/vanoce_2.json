@@ -1,0 +1,51 @@
+{
+    "type": "full",
+    "name": "Druhá neděle po Narození Páně",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "49",
+                    "melody": "17a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "50",
+                    "melody": "20b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "51",
+                    "melody": "21b"
+                },
+                {
+                    "page": "51",
+                    "melody": "27a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "52",
+                    "melody": "19a"
+                },
+                {
+                    "page": "33",
+                    "melody": "15a",
+                    "link": "narozeni_v_noci"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": "full",
+    "name": "Zjevení Páně",
+    "date": "6. ledna",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "53",
+                    "melody": "21a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "54",
+                    "melody": "20a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "54/55",
+                    "melody": "14a"
+                },
+                {
+                    "page": "55",
+                    "melody": "28a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "56",
+                    "melody": "5f"
+                },
+                {
+                    "page": "30",
+                    "melody": "13a",
+                    "link": "narozeni_v_noci"
+                }
+            ]
+        }
+    ]
+}

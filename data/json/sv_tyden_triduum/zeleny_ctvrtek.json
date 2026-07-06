@@ -1,0 +1,69 @@
+{
+    "type": "full",
+    "name": "Zelený čtvrtek",
+    "subtitle": "Večerní mše",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "129",
+                    "melody": "50a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "130",
+                    "melody": "47a"
+                }
+            ]
+        },
+        {
+            "title": "Při umývání nohou",
+            "songs": [
+                {
+                    "page": "131/132",
+                    "melody": "48a"
+                },
+                {
+                    "page": "131/132",
+                    "melody": "36d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "132/133",
+                    "melody": "49a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "133",
+                    "melody": "46a"
+                },
+                {
+                    "page": "134",
+                    "melody": "92b"
+                }
+            ]
+        },
+        {
+            "title": "Při přenášení nejsvětější svátosti",
+            "songs": [
+                {
+                    "page": "134/135",
+                    "melody": "54a"
+                }
+            ]
+        }
+    ]
+}

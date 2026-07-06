@@ -1,0 +1,54 @@
+{
+    "type": "full",
+    "name": "Při přípravě na křest",
+    "subtitle": "Při druhém skrutiniu",
+    "info": "Vše jako na <a href='pust_04_A.html'>4. neděli postní</a>, ovšem mimo dobu postní je použit jiný zpěv před evangeliem.",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "101",
+                    "melody": "43b",
+                    "link": "pust_04"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "102",
+                    "melody": "42a",
+                    "info_before": "V době postní:",
+                    "link": "pust_04"
+                },
+                {
+                    "page": "789",
+                    "melody": "91a",
+                    "info_before": "Mimo dobu postní:"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "105",
+                    "melody": "34a",
+                    "link": "pust_04"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "106",
+                    "melody": "43a",
+                    "link": "pust_04"
+                }
+            ]
+        }
+    ]
+}

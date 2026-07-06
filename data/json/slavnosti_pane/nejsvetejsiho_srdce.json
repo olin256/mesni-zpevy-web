@@ -1,0 +1,88 @@
+{
+    "type": "full",
+    "name": "Nejsvětějšího Srdce Ježíšova",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "383",
+                    "melody": "101a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "info_before": "V ročním cyklu A:",
+                    "response": "17",
+                    "links": [
+                        {
+                            "filename": "Ps103_04",
+                            "kb_page": "197"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu B:",
+                    "response": "35",
+                    "links": [
+                        {
+                            "filename": "Iz12_03",
+                            "kb_page": "311"
+                        }
+                    ]
+                },
+                {
+                    "info_before": "V ročním cyklu C:",
+                    "response": "23",
+                    "links": [
+                        {
+                            "filename": "Ps023_01",
+                            "kb_page": "34"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "384",
+                    "melody": "2f"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "384",
+                    "melody": "102a"
+                },
+                {
+                    "page": "189",
+                    "melody": "150a",
+                    "link": "mezidobi_02_A"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "98",
+                    "melody": "31a",
+                    "link": "pust_03"
+                },
+                {
+                    "page": "113",
+                    "melody": "164a",
+                    "link": "pust_05_AB"
+                }
+            ]
+        }
+    ]
+}

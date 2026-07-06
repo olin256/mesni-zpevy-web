@@ -1,0 +1,85 @@
+{
+    "type": "full",
+    "name": "Popeleční středa",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "60",
+                    "melody": "29a",
+                    "stanza_set": [1, 2]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv po prvním čtení",
+            "songs": [
+                {
+                    "response": "16",
+                    "links": [
+                        {
+                            "filename": "Ps051_10",
+                            "kb_page": "115"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "60/61",
+                    "melody": "29a",
+                    "stanza_set": [3, 4]
+                }
+            ]
+        },
+        {
+            "title": "Při označování popelem",
+            "songs": [
+                {
+                    "page": "61",
+                    "melody": "46d"
+                },
+                {
+                    "page": "62",
+                    "melody": "146b"
+                },
+                {
+                    "response": "19",
+                    "info_before": "Žalm 51 (50) s odpovědí:",
+                    "links": [
+                        {
+                            "filename": "Ps051_14",
+                            "kb_page": "110"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "63",
+                    "melody": "72b"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "64",
+                    "melody": "30a"
+                },
+                {
+                    "page": "65",
+                    "melody": "34c"
+                }
+            ]
+        }
+    ]
+}

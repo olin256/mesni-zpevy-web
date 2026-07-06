@@ -1,0 +1,49 @@
+{
+    "type": "full",
+    "name": "Svaté rodiny",
+    "info": "Neděle v oktávu Narození Páně anebo, není-li v oktávu neděle, 30. prosince",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "42",
+                    "melody": "22a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "43",
+                    "melody": "5g"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "44",
+                    "melody": "23a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "52",
+                    "melody": "19a",
+                    "link": "vanoce_2"
+                },
+                {
+                    "page": "38",
+                    "melody": "21b",
+                    "link": "narozeni_za_svitani"
+                }
+            ]
+        }
+    ]
+}

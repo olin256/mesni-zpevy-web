@@ -1,0 +1,195 @@
+{
+    "type": "list",
+    "name": "Na konci bohoslužeb",
+    "info": "Kde je zvykem doprovázet odchod od oltáře zpěvem, může se vybrat některá z následujících písní:",
+    "parts": [
+        {
+            "title": "Advent",
+            "songs": [
+                {
+                    "page": "21",
+                    "melody": "8a",
+                    "link": "advent_3"
+                },
+                {
+                    "page": "22",
+                    "melody": "9a",
+                    "link": "advent_3"
+                }
+            ]
+        },
+        {
+            "title": "Vánoce",
+            "songs": [
+                {
+                    "page": "34",
+                    "melody": "16a",
+                    "link": "narozeni_v_noci"
+                },
+                {
+                    "page": "41",
+                    "melody": "18a",
+                    "link": "narozeni_ve_dne"
+                },
+                {
+                    "page": "52",
+                    "melody": "19a",
+                    "link": "vanoce_2"
+                },
+                {
+                    "page": "40",
+                    "melody": "20a",
+                    "link": "narozeni_ve_dne"
+                }
+            ]
+        },
+        {
+            "title": "Půst",
+            "songs": [
+                {
+                    "page": "62",
+                    "melody": "146b",
+                    "link": "popelecni_streda"
+                },
+                {
+                    "page": "121",
+                    "melody": "163a",
+                    "link": "kvetna_nedele"
+                }
+            ]
+        },
+        {
+            "title": "Velikonoce",
+            "songs": [
+                {
+                    "page": "148",
+                    "melody": "53a",
+                    "link": "zmrtvychvstani_slavnost"
+                },
+                {
+                    "page": "570",
+                    "melody": "110a",
+                    "link": "o_panne_marii_velikonoce"
+                },
+                {
+                    "page": "172",
+                    "melody": "70a",
+                    "link": "velikonoce_6"
+                },
+                {
+                    "page": "153",
+                    "melody": "63a",
+                    "link": "velikonoce_2"
+                },
+                {
+                    "page": "179",
+                    "melody": "69a",
+                    "link": "velikonoce_7"
+                },
+                {
+                    "page": "185",
+                    "melody": "75a",
+                    "link": "seslani_sv_ducha_slavnost",
+                    "info_before": "V týdnu před Sesláním Ducha svatého:"
+                },
+                {
+                    "page": "799",
+                    "melody": "171a",
+                    "link": "birmovani"
+                }
+            ]
+        },
+        {
+            "title": "Mezidobí",
+            "songs": [
+                {
+                    "page": "206",
+                    "melody": "77a",
+                    "link": "mezidobi_06_A"
+                },
+                {
+                    "page": "197",
+                    "melody": "78a",
+                    "link": "mezidobi_04_A"
+                },
+                {
+                    "page": "840",
+                    "melody": "81a",
+                    "link": "na_podekovani"
+                },
+                {
+                    "page": "207",
+                    "melody": "82a",
+                    "link": "mezidobi_06_A"
+                },
+                {
+                    "page": "218",
+                    "melody": "84a",
+                    "link": "mezidobi_08_A"
+                },
+                {
+                    "page": "291",
+                    "melody": "85a",
+                    "link": "mezidobi_20_A"
+                },
+                {
+                    "page": "192",
+                    "melody": "68a",
+                    "link": "mezidobi_03_A"
+                }
+            ]
+        },
+        {
+            "title": "Mariánské",
+            "songs": [
+                {
+                    "page": "890",
+                    "melody": "232a"
+                },
+                {
+                    "page": "553",
+                    "melody": "103a",
+                    "link": "o_panne_marii_1"
+                },
+                {
+                    "page": "556",
+                    "melody": "105a",
+                    "link": "o_panne_marii_1"
+                },
+                {
+                    "page": "752",
+                    "melody": "142a",
+                    "link": "10_07"
+                }
+            ]
+        },
+        {
+            "title": "Obecné",
+            "songs": [
+                {
+                    "page": "761",
+                    "melody": "143a",
+                    "link": "11_01"
+                },
+                {
+                    "page": "738",
+                    "melody": "135a",
+                    "link": "09_28"
+                },
+                {
+                    "page": "739",
+                    "melody": "136a",
+                    "link": "09_28"
+                },
+                {
+                    "page": "891",
+                    "melody": "155a"
+                },
+                {
+                    "page": "892",
+                    "melody": "154a"
+                }
+            ]
+        }
+    ]
+}

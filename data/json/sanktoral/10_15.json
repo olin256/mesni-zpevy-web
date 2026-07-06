@@ -1,0 +1,50 @@
+{
+    "type": "full",
+    "name": "Sv. Terezie od Ježíše, panny a učitelky církve",
+    "date": "15. října",
+    "rank": "památka",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "754",
+                    "melody": "97a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "755",
+                    "melody": "98h"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "620",
+                    "melody": "92k",
+                    "link": "o_reholnicich"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "602",
+                    "melody": "34d",
+                    "link": "o_pannach"
+                }
+            ]
+        }
+    ],
+    "alternatives": [
+        "o_pannach",
+        "o_reholnicich"
+    ]
+}

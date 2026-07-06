@@ -1,0 +1,59 @@
+{
+    "type": "full",
+    "name": "Všech svatých",
+    "date": "1. listopadu",
+    "rank": "slavnost",
+    "parts": [
+        {
+            "title": "Vstupní zpěv",
+            "songs": [
+                {
+                    "page": "759",
+                    "melody": "116a"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv před evangeliem",
+            "songs": [
+                {
+                    "page": "760",
+                    "melody": "98i"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přípravě darů",
+            "songs": [
+                {
+                    "page": "760",
+                    "melody": "92d"
+                }
+            ]
+        },
+        {
+            "title": "Zpěv k přijímání",
+            "songs": [
+                {
+                    "page": "615",
+                    "melody": "115a",
+                    "link": "o_svatych"
+                },
+                {
+                    "page": "614",
+                    "melody": "114a",
+                    "link": "o_svatych"
+                }
+            ]
+        },
+        {
+            "title": "Závěr",
+            "songs": [
+                {
+                    "page": "761/762",
+                    "melody": "143a"
+                }
+            ]
+        }
+    ]
+}
