@@ -312,7 +312,33 @@
         return feast.Rank || null;
     }
 
+    function optionalMemorialFerialEntry(data) {
+        if (data.Season === "lent") {
+            return null;
+        }
+
+        const feasts = data.FeastsInDay || [];
+        const feria = feasts.find((feast) => feast.Rank === "ferie");
+        const nonFerialFeasts = feasts.filter((feast) => feast !== feria);
+
+        if (!feria || !nonFerialFeasts.length) {
+            return null;
+        }
+
+        const onlyOptionalMemorials = nonFerialFeasts.every((feast) => feast.Rank === "nezávazná památka");
+        if (!onlyOptionalMemorials) {
+            return null;
+        }
+
+        return {
+            title: feria.Title || data.SeasonTitle,
+            rank: displayRank(feria),
+            links: [],
+        };
+    }
+
     function linkedFeastEntries(data, date, requireSundayLink) {
+        const ferialEntry = optionalMemorialFerialEntry(data);
         const feastEntries = (data.FeastsInDay || [])
             .map((feast) => ({
                 title: feast.Title,
@@ -322,7 +348,7 @@
             .filter((entry) => entry.links.length);
 
         if (feastEntries.length) {
-            return feastEntries;
+            return ferialEntry ? [ferialEntry, ...feastEntries] : feastEntries;
         }
 
         const fallbackFeast = displayedFeast(data);
