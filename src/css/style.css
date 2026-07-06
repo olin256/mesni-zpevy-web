@@ -1,3 +1,77 @@
+:root {
+  color-scheme: light;
+  --page-bg: #fffdfb;
+  --text-color: #231915;
+  --muted-color: #665d58;
+  --header-bg: #6f0f16;
+  --header-bg-hover: #a81e28;
+  --header-menu-bg: #8c1d26;
+  --header-text: #fbeada;
+  --link-color: #6f0f16;
+  --link-visited: #5a0c13;
+  --link-hover: #a81e28;
+  --border-color: #eaded5;
+  --border-strong: #d8c8c0;
+  --surface: #fff8f0;
+  --surface-alt: #fbf7f3;
+  --surface-hover: #f4e7df;
+  --field-bg: #fffdfb;
+  --field-text: #231915;
+  --focus-color: #a81e28;
+  --swiper-button-bg: rgba(0, 0, 0, 0.25);
+  --swiper-button-color: #ffffff;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page-bg: #151413;
+  --text-color: #f1ebe3;
+  --muted-color: #b9aca3;
+  --header-bg: #4b0b12;
+  --header-bg-hover: #7d1720;
+  --header-menu-bg: #341d24;
+  --header-text: #fff1df;
+  --link-color: #f0a18f;
+  --link-visited: #d8a2c2;
+  --link-hover: #ffc3b4;
+  --border-color: #3a332f;
+  --border-strong: #534941;
+  --surface: #211f1c;
+  --surface-alt: #1c1a18;
+  --surface-hover: #2c2622;
+  --field-bg: #201d1a;
+  --field-text: #f1ebe3;
+  --focus-color: #f0a18f;
+  --swiper-button-bg: rgba(255, 241, 223, 0.28);
+  --swiper-button-color: #fff1df;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --page-bg: #151413;
+    --text-color: #f1ebe3;
+    --muted-color: #b9aca3;
+    --header-bg: #4b0b12;
+    --header-bg-hover: #7d1720;
+    --header-menu-bg: #341d24;
+    --header-text: #fff1df;
+    --link-color: #f0a18f;
+    --link-visited: #d8a2c2;
+    --link-hover: #ffc3b4;
+    --border-color: #3a332f;
+    --border-strong: #534941;
+    --surface: #211f1c;
+    --surface-alt: #1c1a18;
+    --surface-hover: #2c2622;
+    --field-bg: #201d1a;
+    --field-text: #f1ebe3;
+    --focus-color: #f0a18f;
+    --swiper-button-bg: rgba(255, 241, 223, 0.28);
+    --swiper-button-color: #fff1df;
+  }
+}
+
 .swiper-container, .single-container {
     display: inline-block; /* Zajistí, že šířka odpovídá obsahu */
     position: relative;
@@ -32,8 +106,8 @@
     top: 50%;
     transform: translateY(-50%);
     z-index: 10;
-    background-color: rgba(0, 0, 0, 0.25);
-    color: white;
+    background-color: var(--swiper-button-bg);
+    color: var(--swiper-button-color);
     padding: 0.3125rem;
     cursor: pointer;
 }
@@ -64,6 +138,8 @@ html {
 body {
     font-family: 'C059';
     margin: 0 0 1.25rem 0;
+    background: var(--page-bg);
+    color: var(--text-color);
 }
 
 body, p, li {
@@ -111,7 +187,7 @@ h1, h2, h3 {
 .subheading {
   font-size: clamp(1.3rem, 2vw, 1.5rem); /* cca 21–24 px */
   font-weight: normal;
-  color: dimgray;
+  color: var(--muted-color);
   line-height: 1.45;
   margin-top: -0.2em; /* optické přiblížení k h1 */
   margin-bottom: 0.8em;
@@ -132,25 +208,25 @@ li::marker {
 
 .page-number {
     font-size: clamp(1.25rem, 2.5vw, 1.5rem);
-    color: dimgray;
+    color: var(--muted-color);
 }
 
 a {
-  color: #6f0f16;              /* základní barva – vínová z hlavičky */
+  color: var(--link-color);              /* základní barva – vínová z hlavičky */
 }
 
 a:visited {
-  color: #5a0c13;              /* mírně tlumená varianta vínové */
+  color: var(--link-visited);              /* mírně tlumená varianta vínové */
 }
 
 a:hover,
 a:focus {
-  color: #a81e28;              /* světlejší červená pro hover efekt */
+  color: var(--link-hover);              /* světlejší červená pro hover efekt */
 }
 
 header {
-  background-color: #6f0f16;
-  color: #fbeada;
+  background-color: var(--header-bg);
+  color: var(--header-text);
   padding: 0.8em 1em;
 }
 
@@ -185,7 +261,7 @@ header {
 }
 
 .navbar a {
-  color: #fbeada;
+  color: var(--header-text);
   text-decoration: none;
 }
 
@@ -208,22 +284,51 @@ header {
   border: none;
   border-radius: 4px 0 0 4px;
   font-family: inherit;
+  background: var(--field-bg);
+  color: var(--field-text);
 }
 
 .nav-links button {
   padding: 0.3em 0.6em;
   border: none;
-  background: #a81e28;
-  color: #fbeada;
+  background: var(--header-bg-hover);
+  color: var(--header-text);
   border-radius: 0 4px 4px 0;
   cursor: pointer;
+}
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  box-sizing: border-box;
+  padding: 0;
+  border: 1px solid color-mix(in srgb, var(--header-text), transparent 55%);
+  border-radius: 50%;
+  background: transparent;
+  color: var(--header-text);
+  cursor: pointer;
+  font: inherit;
+  line-height: 1;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus {
+  background: color-mix(in srgb, var(--header-text), transparent 88%);
+}
+
+.theme-toggle:focus-visible {
+  outline: 2px solid var(--header-text);
+  outline-offset: 3px;
 }
 
 .menu-toggle {
   display: none;
   background: none;
   border: none;
-  color: #fbeada;
+  color: var(--header-text);
   font-size: 1.4em;
   cursor: pointer;
 }
@@ -251,8 +356,8 @@ header {
 .liturgical-day-links {
   margin: 1.4rem 0 1.8rem;
   padding: 0.9rem 0;
-  border-top: 1px solid #eaded5;
-  border-bottom: 1px solid #eaded5;
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
 }
 
 .liturgical-day-links h2 {
@@ -266,21 +371,21 @@ header {
 }
 
 .liturgical-day-link {
-  border-left: 4px solid #6f0f16;
+  border-left: 4px solid var(--link-color);
   padding: 0.2rem 0 0.2rem 0.85rem;
 }
 
 .liturgical-day-link--current {
-  background: #fff8f0;
-  border: 1px solid #eaded5;
-  border-left: 4px solid #6f0f16;
+  background: var(--surface);
+  border: 1px solid var(--border-color);
+  border-left: 4px solid var(--link-color);
   border-radius: 4px;
   padding: 0.55rem 0.7rem 0.65rem 0.85rem;
 }
 
 .liturgical-day-link__label {
   font-size: 0.95rem;
-  color: dimgray;
+  color: var(--muted-color);
 }
 
 .liturgical-day-link__title {
@@ -293,7 +398,7 @@ header {
 .liturgical-day-link__date,
 .liturgical-day-link__rank,
 .liturgical-day-link__missing {
-  color: dimgray;
+  color: var(--muted-color);
   font-size: clamp(0.95rem, 1vw, 1.05rem);
 }
 
@@ -309,7 +414,7 @@ header {
 
 .liturgical-day-link__entry {
   padding-top: 0.55rem;
-  border-top: 1px solid #eaded5;
+  border-top: 1px solid var(--border-color);
 }
 
 .liturgical-day-link__entry:first-child {
@@ -337,7 +442,7 @@ input[type=number] {
 }
 
 .index-section {
-  border-bottom: 1px solid #eaded5;
+  border-bottom: 1px solid var(--border-color);
   padding: 0.2rem 0 0.55rem;
 }
 
@@ -366,18 +471,18 @@ input[type=number] {
 
 .index-section-toggle:hover,
 .index-section-toggle:focus {
-  color: #6f0f16;
+  color: var(--link-color);
 }
 
 .index-section-toggle:focus-visible {
-  outline: 2px solid #6f0f16;
+  outline: 2px solid var(--focus-color);
   outline-offset: 4px;
 }
 
 .index-section-toggle__state {
-  color: #6f0f16;
-  background: #fff8f0;
-  border: 1px solid #6f0f16;
+  color: var(--link-color);
+  background: var(--surface);
+  border: 1px solid var(--link-color);
   border-radius: 4px;
   font-size: 1rem;
   font-weight: normal;
@@ -388,11 +493,11 @@ input[type=number] {
 
 .index-section-toggle:hover .index-section-toggle__state,
 .index-section-toggle:focus .index-section-toggle__state {
-  background: #fbeada;
+  background: var(--surface-hover);
 }
 
 .index-section.is-open h2 {
-  color: #6f0f16;
+  color: var(--link-color);
 }
 
 @media (max-width: 800px) {
@@ -400,7 +505,7 @@ input[type=number] {
     display: none;
     flex-direction: column;
     width: 100%;
-    background-color: #8c1d26;
+    background-color: var(--header-menu-bg);
     padding: 1em;
     margin-top: 0.5em;
   }

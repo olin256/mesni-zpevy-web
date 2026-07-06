@@ -3,7 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light dark">
     <title></title>
+    <script>
+    (function() {
+        try {
+            var theme = localStorage.getItem('mz-theme');
+            if (theme === 'light' || theme === 'dark') {
+                document.documentElement.dataset.theme = theme;
+            }
+        } catch (error) {}
+    }());
+    </script>
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
 
@@ -54,6 +65,9 @@
                 <input type="search" placeholder="č. strany nebo text" required name="q" autocomplete="off">
                 <button type="submit">»</button>
             </form>
+            <button type="button" class="theme-toggle" aria-label="Přepnout tmavý režim" title="Přepnout tmavý režim">
+                <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+            </button>
         </div>
     </div>
 </header>
@@ -71,5 +85,6 @@ function toggleMenu() {
 <script src="assets/js/cz-calendar.js"></script>
 <script src="assets/js/liturgical-day-links.js"></script>
 <script src="assets/js/site-search.js"></script>
+<script src="assets/js/theme-toggle.js"></script>
 </body>
 </html>

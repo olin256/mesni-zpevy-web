@@ -71,6 +71,7 @@ for fname, pure_fname in tqdm(to_process):
     root = etree.fromstring(xml)
 
     root.find(f"{{{ns}}}style").text = style
+    root.attrib["class"] = "score-svg"
 
     root.attrib.pop("width")
     root.attrib.pop("height")

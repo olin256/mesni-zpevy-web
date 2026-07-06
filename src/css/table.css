@@ -9,15 +9,15 @@
 .song-index td {
     padding: 0.55rem 0.7rem;
     vertical-align: top;
-    border-bottom: 1px solid #e2d5cf;
+    border-bottom: 1px solid var(--border-color);
 }
 
 .song-index thead th {
     /* position: sticky; */
     top: 0;
     z-index: 1;
-    background: #6f0f16;
-    color: #fbeada;
+    background: var(--header-bg);
+    color: var(--header-text);
     text-align: left;
 }
 
@@ -34,11 +34,11 @@
 }
 
 .song-index tbody tr.song-row-alt {
-    background: #fbf7f3;
+    background: var(--surface-alt);
 }
 
 .song-index tbody tr.song-row:hover {
-    background: #f4e7df;
+    background: var(--surface-hover);
 }
 
 .song-index th button {
@@ -86,7 +86,7 @@
 .song-info-toggle {
     all: unset;
     cursor: pointer;
-    color: #6f0f16;
+    color: var(--link-color);
     font-weight: bold;
 }
 
@@ -101,7 +101,7 @@
 }
 
 .song-info-toggle:focus-visible {
-    outline: 2px solid #a81e28;
+    outline: 2px solid var(--focus-color);
     outline-offset: 2px;
 }
 
@@ -112,13 +112,13 @@
     font-weight: normal;
     font-size: 1rem;
     line-height: normal;
-    background: #fbf7f3;
-    border-bottom: 1px solid #e2d5cf;
+    background: var(--surface-alt);
+    border-bottom: 1px solid var(--border-color);
 }
 
 .song-info {
     padding: 0.75rem 1rem 1rem;
-    border-left: 4px solid #6f0f16;
+    border-left: 4px solid var(--link-color);
 }
 
 .song-info-image {
@@ -127,9 +127,8 @@
     height: auto;
     padding: 0.75rem;
     box-sizing: border-box;
-    border: 1px solid #d8c8c0;
-    background: white;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border: 1px solid var(--border-strong);
+    background: var(--page-bg);
 }
 
 .song-info-links {

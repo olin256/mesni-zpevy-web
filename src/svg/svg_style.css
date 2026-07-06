@@ -1,3 +1,4 @@
+svg.score-svg { color: inherit; }
 rect, text, path { fill: currentColor; }
 text { 
     font-family: "C059";
