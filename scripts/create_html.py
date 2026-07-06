@@ -13,7 +13,6 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from glob import glob
 from itertools import islice
-from collections import defaultdict
 from pathlib import Path
 from copy import deepcopy
 from typing import Dict as _D, List as _L, Sequence as _S, Tuple as _T
@@ -199,7 +198,6 @@ class HtmlGenerator:  # noqa: D101
         self.ctx = ctx
         self.page_links: _D[int, str] = {}
         self.occurrences: _L[_D[str, str | int]] = []
-        self.song_links: _D[str, _L[_D[str, str]]] = defaultdict(list)
         self.section_names: _D[str, str] = {}
         self.current_head = None
 
@@ -212,7 +210,6 @@ class HtmlGenerator:  # noqa: D101
         self._derive_legacy_links()
         self._dump_occurrences()
         self._dump_page_links()
-        self._dump_song_links()
 
     # ───────── implementation ─────────
 
@@ -584,19 +581,11 @@ class HtmlGenerator:  # noqa: D101
     def _derive_legacy_links(self) -> None:
         """Derive grouped legacy indexes from the flat occurrence list."""
         self.page_links = {}
-        self.song_links = defaultdict(list)
 
         for occurrence in self.occurrences:
             page = int(occurrence["page"])
             if page not in self.page_links:
                 self.page_links[page] = str(occurrence["slug"])
-
-            self.song_links[str(occurrence["song"])].append({
-                "slug": str(occurrence["slug"]),
-                "anchor": str(occurrence["anchor"]),
-                "stanzas": str(occurrence["stanzas"]),
-                "title": str(occurrence["title"]),
-            })
 
     def _dump_occurrences(self) -> None:
         """Export flat song/page occurrences as JSON."""
@@ -609,13 +598,6 @@ class HtmlGenerator:  # noqa: D101
         out = self.ctx.cfg.assets_data_dir / "page_links.json"
         with out.open("w", encoding="utf-8") as f:
             json.dump(self.page_links, f, ensure_ascii=False, indent=2)
-
-    def _dump_song_links(self) -> None:
-        """Export {melody → links} mapping as JSON."""
-        out = self.ctx.cfg.assets_data_dir / "song_links.json"
-        with out.open("w", encoding="utf-8") as f:
-            json.dump(self.song_links, f, ensure_ascii=False, indent=2)
-
 
     # ───────── helpers ─────────
 
