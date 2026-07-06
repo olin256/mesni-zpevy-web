@@ -387,7 +387,7 @@ class HtmlGenerator:  # noqa: D101
             f"<p class='organ-info'>Píseň {melody}; "
             f"<a href='midi_voice/{melody_common}_voice.mid'>MIDI hlas</a> "
             f"<a href='midi_organ/{melody_common}_organ.mid'>MIDI varhany</a> "
-            f"<a href='https://olin256.github.io/mesni-zpevy/pdf/{melody_common}.pdf'>"
+            f"<a href='https://olin256.github.io/mesni-zpevy-doprovody/pdf/{melody_common}.pdf'>"
             "PDF varhany</a></p>"
         )
 

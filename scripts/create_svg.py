@@ -227,7 +227,7 @@ for fname in available_texts:
     if (not args.all) and (pure_fname in existing_svg):
         continue
     song_no = pure_fname[:-1]
-    # ly_fname = f"../../mesni-zpevy/ly/{song_no}.ly"
+    # ly_fname = f"../../mesni-zpevy-doprovody/ly/{song_no}.ly"
     ly_fname = f"../data/lilypond/melodies/{song_no}.ly"
     if not os.path.isfile(ly_fname):
         continue

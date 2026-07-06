@@ -114,7 +114,7 @@ def count_notes(music):
 for fname in tqdm(glob("../data/lyrics/broken/*.txt")):
     pure_fname = purify(fname)
     song_no = pure_fname[:-1]
-    ly_fname = f"../../mesni-zpevy/ly/{song_no}.ly"
+    ly_fname = f"../../mesni-zpevy-doprovody/ly/{song_no}.ly"
     if not os.path.isfile(ly_fname):
         continue
 

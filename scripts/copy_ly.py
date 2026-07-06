@@ -13,7 +13,7 @@ parser.add_argument(
 )
 args = parser.parse_args()
 
-for fname in iglob("../../mesni-zpevy/ly/*.ly"):
+for fname in iglob("../../mesni-zpevy-doprovody/ly/*.ly"):
     pure_fname = purify(fname)
     if not pure_fname.isdigit():
         continue

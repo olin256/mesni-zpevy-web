@@ -173,7 +173,7 @@ document.addEventListener('DOMContentLoaded', () => {
         organMidiLink.textContent = 'MIDI varhany';
 
         const organPdfLink = document.createElement('a');
-        organPdfLink.href = `https://olin256.github.io/mesni-zpevy/pdf/${baseNumber}.pdf`;
+        organPdfLink.href = `https://olin256.github.io/mesni-zpevy-doprovody/pdf/${baseNumber}.pdf`;
         organPdfLink.textContent = 'PDF varhany';
 
         paragraph.appendChild(voiceLink);
