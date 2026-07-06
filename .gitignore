@@ -4,8 +4,7 @@ bordel/
 .agents/
 .codex/
 .git/
-.git-clean/
-clean-worktree-tmp/
+.git-old-history/
 __pycache__/
 .~lock*#
 data/lilypond/melodies/*
