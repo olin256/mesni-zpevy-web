@@ -4,6 +4,7 @@
     const VISIBLE_LIMIT = 25;
     const MAX_SNIPPETS = 2;
     const MIN_SUBSTRING_LENGTH = 3;
+    const EXACT_STANZA_TOKEN_BONUS = 6;
     const FUZZY_CUTOFF = 0.84;
 
     const state = {
@@ -244,11 +245,14 @@
             }
 
             let stanzaHits = 0;
+            let exactStanzaHits = 0;
             for (const stanza of song.stanzas || []) {
                 const tokens = stanza.tokens || tokenize(stanza.text || '');
+                if (tokens.some(token => token === term)) exactStanzaHits++;
                 if (tokens.some(token => tokenOrSubstringMatch(token, term))) stanzaHits++;
             }
             if (stanzaHits) score += Math.min(14, stanzaHits * 3);
+            if (!fuzzyMode && exactStanzaHits) score += EXACT_STANZA_TOKEN_BONUS;
         }
 
         for (const [phrase, strict] of parsed.phrases) {
