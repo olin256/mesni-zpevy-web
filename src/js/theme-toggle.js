@@ -30,11 +30,15 @@
         icon.textContent = theme === 'dark' ? '☀' : '☾';
         button.setAttribute(
             'aria-label',
-            theme === 'dark' ? 'Přepnout světlý režim' : 'Přepnout tmavý režim'
+            theme === 'dark'
+                ? 'Přepnout do světlého režimu'
+                : 'Přepnout do tmavého režimu'
         );
         button.setAttribute(
             'title',
-            theme === 'dark' ? 'Přepnout světlý režim' : 'Přepnout tmavý režim'
+            theme === 'dark'
+                ? 'Přepnout do světlého režimu'
+                : 'Přepnout do tmavého režimu'
         );
     }
 

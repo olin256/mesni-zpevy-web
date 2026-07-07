@@ -297,7 +297,7 @@ header {
   cursor: pointer;
 }
 
-.theme-toggle {
+.nav-links .theme-toggle {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -306,7 +306,7 @@ header {
   box-sizing: border-box;
   padding: 0;
   border: 1px solid color-mix(in srgb, var(--header-text), transparent 55%);
-  border-radius: 50%;
+  border-radius: 4px;
   background: transparent;
   color: var(--header-text);
   cursor: pointer;
@@ -314,12 +314,12 @@ header {
   line-height: 1;
 }
 
-.theme-toggle:hover,
-.theme-toggle:focus {
+.nav-links .theme-toggle:hover,
+.nav-links .theme-toggle:focus {
   background: color-mix(in srgb, var(--header-text), transparent 88%);
 }
 
-.theme-toggle:focus-visible {
+.nav-links .theme-toggle:focus-visible {
   outline: 2px solid var(--header-text);
   outline-offset: 3px;
 }
