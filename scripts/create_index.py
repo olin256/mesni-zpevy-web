@@ -2,6 +2,25 @@ from lxml import html
 from lxml.etree import SubElement, ElementTree
 from html_utils import strip_comments
 import json
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parent.parent
+SECTION_START_PAGES = {}
+
+
+def start_page(page_data):
+    if "parts" not in page_data:
+        return None
+
+    min_page = None
+    for part in page_data["parts"]:
+        for song in part.get("songs", []):
+            if ("link" not in song) and ("page" in song):
+                page = int(song["page"].split("/", 1)[0])
+                min_page = page if min_page is None else min(min_page, page)
+
+    return min_page
 
 with open("../src/templates/html_template.html", "r", encoding="utf-8") as f:
     html_template = f.read()
@@ -39,6 +58,10 @@ for h2_el in list(root.iter("h2")):
         li_el = SubElement(ul_el, "li")
         a_el = SubElement(li_el, "a", href=f"{fname}.html")
         a_el.text = name
+        first_page = start_page(page_data)
+        if first_page is not None:
+            SECTION_START_PAGES[fname] = first_page
+
         if "parts" in page_data:
             has_pages = False
             min_page = 10000
@@ -72,6 +95,11 @@ body_el = root.find(".//body")
 SubElement(body_el, "script", src="assets/js/collapsible-content.js")
 
 strip_comments(root)
+
+assets_data_dir = ROOT / "dist/assets/data"
+assets_data_dir.mkdir(parents=True, exist_ok=True)
+with open(assets_data_dir / "section_start_pages.json", "w", encoding="utf-8") as f:
+    json.dump(SECTION_START_PAGES, f, ensure_ascii=False, indent=2)
 
 with open(f"../dist/index.html", "w", encoding="utf-8") as f:
     f.write(html.tostring(doc, pretty_print=True, method="html", encoding="unicode"))

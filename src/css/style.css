@@ -361,7 +361,13 @@ header {
 }
 
 .liturgical-day-links h2 {
-  margin-top: 0;
+  margin: 0;
+}
+
+.liturgical-day-links__cycles {
+  color: var(--muted-color);
+  font-size: clamp(0.95rem, 1vw, 1.05rem);
+  margin: 0.15rem 0 0.75rem;
 }
 
 .liturgical-day-links__items {
@@ -427,6 +433,17 @@ header {
   flex-wrap: wrap;
   gap: 0.35rem 0.75rem;
   margin-top: 0.35rem;
+}
+
+.liturgical-day-link__link-item {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.liturgical-day-link__page {
+  color: var(--muted-color);
+  margin-left: 0.25em;
+  white-space: nowrap;
 }
 
 /* Chrome, Safari, Edge */

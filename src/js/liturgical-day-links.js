@@ -6,6 +6,8 @@
         return;
     }
 
+    let sectionStartPages = {};
+
     const AVAILABLE_DATE_PAGES = new Set([
         "01_18", "01_25", "02_02", "02_11", "02_22", "03_04", "03_19", "03_25",
         "04_23", "04_25", "05_01", "05_03", "05_14", "05_16", "05_30", "05_31",
@@ -199,6 +201,11 @@
 
     function pageLink(file, title) {
         return { href: `${file}.html`, title };
+    }
+
+    function linkStartPage(link) {
+        const slug = link.href.replace(/\.html$/, "");
+        return sectionStartPages[slug];
     }
 
     function linksFromSymbol(feast) {
@@ -447,6 +454,12 @@
         }).format(date);
     }
 
+    function cycleInfo(calendar, date) {
+        const result = calendar.GetFeastsForDay(date.getFullYear(), date.getMonth() + 1, date.getDate());
+        const data = result.Data;
+        return `Nedělní cyklus ${data.SundayCycle} · Feriální cyklus ${data.WeekdayCycle}`;
+    }
+
     function renderLinkList(item) {
         const linkWrap = document.createElement("div");
         linkWrap.className = "liturgical-day-link__links";
@@ -460,10 +473,23 @@
         }
 
         item.links.forEach((link) => {
+            const linkItem = document.createElement("span");
+            linkItem.className = "liturgical-day-link__link-item";
+
             const anchor = document.createElement("a");
             anchor.href = link.href;
             anchor.textContent = link.title;
-            linkWrap.appendChild(anchor);
+            linkItem.appendChild(anchor);
+
+            const page = linkStartPage(link);
+            if (page) {
+                const pageEl = document.createElement("span");
+                pageEl.className = "liturgical-day-link__page";
+                pageEl.textContent = `(${page})`;
+                linkItem.appendChild(pageEl);
+            }
+
+            linkWrap.appendChild(linkItem);
         });
 
         return linkWrap;
@@ -489,12 +515,17 @@
         return entryEl;
     }
 
-    function render(items) {
+    function render(items, cycles) {
         target.replaceChildren();
 
         const heading = document.createElement("h2");
         heading.textContent = "Aktuální liturgie";
         target.appendChild(heading);
+
+        const cycleEl = document.createElement("div");
+        cycleEl.className = "liturgical-day-links__cycles";
+        cycleEl.textContent = cycles;
+        target.appendChild(cycleEl);
 
         const list = document.createElement("div");
         list.className = "liturgical-day-links__items";
@@ -547,7 +578,24 @@
         target.appendChild(list);
     }
 
-    function initialize() {
+    async function loadSectionStartPages() {
+        if (typeof fetch !== "function") {
+            return;
+        }
+
+        try {
+            const response = await fetch("assets/data/section_start_pages.json");
+            if (response.ok) {
+                sectionStartPages = await response.json();
+            }
+        } catch (_error) {
+            sectionStartPages = {};
+        }
+    }
+
+    async function initialize() {
+        await loadSectionStartPages();
+
         const calendar = api.createCzechCalendar();
         const today = localDateOnly(currentDate());
         const items = [
@@ -561,7 +609,7 @@
             items.push(dayInfo(calendar, nextSunday(today), "Následující neděle", true));
         }
 
-        render(items);
+        render(items, cycleInfo(calendar, today));
     }
 
     window.MZLiturgicalDayLinks = {
